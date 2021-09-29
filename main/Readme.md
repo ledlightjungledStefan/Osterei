@@ -4,3 +4,7 @@
 | Mobilnummer | 0664 185 47 18 |
 
 | electronicMail | Adresse | riharstefan@aon.at |
+
+Brainstorm  Zwischenspeicher
+            Aktualisieren
+            Datei für Tastendruckkombinationen
