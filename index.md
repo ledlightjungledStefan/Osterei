@@ -3,5 +3,5 @@
 
 to lose "let go" electromechanics for exercises
 
-to start an integration of possibilities i learned with VB.Net to minimize affords
-to remember exercises and personal health issues.
+    to start an integration of possibilities i learned with VB.Net to minimize affords
+    to remember exercises and personal health issues.
