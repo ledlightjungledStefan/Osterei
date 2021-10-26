@@ -1,6 +1,12 @@
 ---
 ---
 
+$primary-color: #E81BED;
+
+body {
+  color: $primary-color;
+}
+
 // start content
 .my-definition
   font-size: 1.2em
