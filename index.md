@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # github-upload environment_Memory
 ![waterbowl](camtasia_unknowen.bmp "an uni cheat")
 
