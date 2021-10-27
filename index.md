@@ -2,6 +2,8 @@
 layout: default
 ---
 
+defining part enum variant on a markdon file system with copied system validation (`---` lines)
+
 # github-upload environment_Memory
 ![waterbowl](camtasia_unknowen.bmp "an uni cheat")
 
