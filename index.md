@@ -1,10 +1,3 @@
----
-platforms: ['Windows']
-authors: ['štefan_mihael_rihar']
-description: Batch runtime for deleting files.
-keywords: ['shiftflags', 'keypresscommand', 'controlsuspension', 'memoryrevisioning']
----
-
 defining part enum variant on a markdon file system with copied system validation (`---` lines)
 
 # github-upload environment_Memory
