@@ -1,0 +1,13 @@
+name:
+authors: ['your_new_author_name']
+
+//Authors
+//To add a new author to the site, you must do three things:
+//
+//1. Add an entry to the /_data/authors.yml file with the appropriate fields filled in.
+//2. Duplicate one of the markdown.md files in the /_authors folder and use the name: _
+//   value that you added to the /_data/authors.yml file in step 1 above.
+//3. Use the author’s name: value as a string in the authors: ['your_new_author_name'] yaml entries in guides or samples.
+//
+//   That’s it. NOTE: If you are building the site locally, results may be cached so a new author might not show up in the list. _
+//   You can force a full rebuild of the site by deleting the /_site folder.
