@@ -1,9 +1,0 @@
-kramdown:
-  syntax_highlighter: rouge
-  input: GFM
-  auto_ids:       true
-  toc_levels:     1..3
-uses_cvs: false
-plugins:
-  - rubygems-sandbox
-  - executable-hooks
