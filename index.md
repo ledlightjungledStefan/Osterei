@@ -1,5 +1,6 @@
 ---
 platforms: ['Windows']
+layout: default
 authors: ['štefan_mihael_rihar']
 description: Batch runtime for deleting files.
 keywords: ['shiftflags', 'keypresscommand', 'controlsuspension', 'memoryrevisioning']
