@@ -1,4 +1,5 @@
-sass:
-  style: compact # possible values: nested expanded compact compressed
-
-theme: jekyll-theme-minimal
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+  auto_ids:       true
+  toc_levels:     1..3
