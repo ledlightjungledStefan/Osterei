@@ -1,4 +1,4 @@
-```vb.net
+```
 {
   "firstName": "Štefan",
   "secondName": "Mihael",
