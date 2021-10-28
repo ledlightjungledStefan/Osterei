@@ -4,4 +4,6 @@ kramdown:
   auto_ids:       true
   toc_levels:     1..3
 source: [your repo's top level directory]
-plugins: rubygems-sandbox
+plugins:
+  - rubygems-sandbox
+  - executable-hooks
