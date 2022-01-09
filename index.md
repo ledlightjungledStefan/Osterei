@@ -9,7 +9,5 @@ defining part enum variant on a markdon file system with copied system validatio
 
 Visit [It's sportish](https://github.com/ledlightjungledStefan/Osterei/blob/gutenberggnu/main/naming-convention.md) today!
 
-[Shadowrun menu picture](https://github.com/ledlightjungledStefan/Osterei/blob/gutenberggnu/nested-group.pdf)
-
     to start an integration of possibilities i learned with VB.Net to minimize affords
     to remember exercises and personal health issues.
