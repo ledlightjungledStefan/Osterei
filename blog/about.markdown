@@ -1,5 +1,7 @@
 ---
 name: "cars"
+navbar:
+  title: "Cars"
   theme: jekyll-theme-cayman
 ---
 Hello<br />there whome to reach?
