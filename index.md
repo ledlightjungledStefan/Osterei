@@ -1,7 +1,7 @@
 ---
 title: gebranntes brot
 author: Rihar stefan me
-theme: cayman
+theme: jekyll-theme-cayman
 ---
 defining part enum variant on a markdon file system with copied system validation (`---` lines)
 
