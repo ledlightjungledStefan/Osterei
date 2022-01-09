@@ -3,7 +3,10 @@ title: gebranntes brot
 author: Rihar stefan me
 theme: jekyll-theme-cayman
 ---
-defining part enum variant on a markdon file system with copied system validation (`---` lines)
+![image](https://user-images.githubusercontent.com/75255909/148688324-42a42eb4-bb8f-40c3-ba88-dca9471ce0b9.png)
+- [x] riharstefan@aon.at
+- [ ] Adresse
+- [ ] electronicMail
 
 # github-upload environment_Memory
 ![waterbowl](camtasia_unknowen.bmp "an uni cheat")
@@ -12,7 +15,7 @@ defining part enum variant on a markdon file system with copied system validatio
 "to lose electromechanics for exercises"
 ```
 
-Visit [It's sportish](https://github.com/ledlightjungledStefan/Osterei/blob/gutenberggnu/main/naming-convention.md) today!
+It's sportish
 
     to start an integration of possibilities i learned with VB.Net to minimize affords
     to remember exercises and personal health issues.
