@@ -1,5 +1,4 @@
 # Osterei
-Meine Github Seite ist ein blog für die einfache suche nach dem controlcharactermechanizmus einer Textbox.
-Windows hat die Möglichkeit für den aktiven erhalt im Internet lernen zu können.
-Ich bin bei den Microsoft Dokumenattioenn angemeldet.
+Meine Github Seite ist ein blog<br /> für die einfache suche nach dem nach Microsoft DOKUS Extended Controls Möglichkeiten einer Textbox.
+
 Für meine aktive Differenzierung arbeite ich Offline.
