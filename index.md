@@ -1,3 +1,8 @@
+---
+    remote_theme: pages-themes/cayman@v0.2.0
+    plugins:
+    - jekyll-remote-theme
+---
 defining part enum variant on a markdon file system with copied system validation (`---` lines)
 
 # github-upload environment_Memory
