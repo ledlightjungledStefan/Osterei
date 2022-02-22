@@ -1,6 +1,5 @@
 ---
 layout: default
-titel: About
 ---
 # About page
 
