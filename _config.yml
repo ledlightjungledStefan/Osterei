@@ -1,14 +1,18 @@
-theme: jekyll-theme-cayman
-title: How to sort files
-author: Štefan Mihael Rihar
-email: riharstefan@aon.at
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# Setup
+title:        Project or Site name
+tagline:      A responsive theme for your project on GitHub Pages
+baseurl:      ""
+paginate:     1
+locale:       "en"
 
-# social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  ledlightjungledStefan
+# About/contact
+author:
+  name:       Author name
+  url:        http://yourhomepage.com 
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
