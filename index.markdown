@@ -1,23 +1,17 @@
 ---
-layout: default
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
+layout: index
 ---
-![image](https://user-images.githubusercontent.com/75255909/148688324-42a42eb4-bb8f-40c3-ba88-dca9471ce0b9.png)
-- [x] riharstefan@aon.at
-- [ ] Adresse
-- [ ] electronicMail
+# Index page
 
-![waterbowl](camtasia_unknowen.bmp "an uni cheat")
+The page is a counter.
+- [ ] store mount
 
-```vb.net
-"to lose electromechanics for exercises"
-```
+- [ ] cleanbrougth
 
-It's sportish
+- [ ] steampunk
 
-    to start an integration of possibilities i learned with VB.Net to minimize affords
-    to remember exercises and personal health issues.
+- [ ] derived
+
+- [ ] speels
+  
+  # more than one
