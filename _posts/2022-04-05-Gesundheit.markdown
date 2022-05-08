@@ -14,4 +14,7 @@ noch wer real in Reichweite ist ohne verfälschende Netzwerke und im Rahmen<br/>
 nicht aktualisieren zu müssen um mich auf meine Heilung konzentrieren zu können.
 
 Nachdem nicht genau definiert ist was eine offene und was eine geschlossene
-Leitung ist landet der Müll der offenen Leitungen in den geschlossenen.
+Leitung ist landet der Müll der offenen Leitungen in den geschlossenen.</br>
+Ein Arbeitsspeicher ist ein Schlüssel. Ich kenne die Rechenarchitektur nicht.
+Ich kann auch nicht den Schlüssel während das Mainboard operiert aus</br>
+dem Mainboard entfernen. _
