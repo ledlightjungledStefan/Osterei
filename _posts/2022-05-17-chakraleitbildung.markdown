@@ -2,4 +2,11 @@
 layout: post
 excerpt_separator: <!--more-->
 ---
-![image](https://user-images.githubusercontent.com/75255909/168742790-9d451757-ed41-495c-b312-fbfd14e6ee5b.png)
+Um 14 Uhr habe ich einen Termin bei einer Psychotherapeutin.
+Nachdem es nicht leicht ist im Gefüge der Menschheit und aller Lebewesen
+Gesundheit zu Formen, sind Menschen die sich absichtlich selber Zerstören
+um das Immunsystem anzuregen nicht selten.
+Einsamkeit ist das Hauptproblem gesellschaftliche Strudel verlassen zu können.
+Ich kann nur darauf hinweisen, dass auch Menschen die nur ihre eigenen Ziele erkennen
+können, wenn sie sich nicht verletzen brutal zuschlagen können oder Aggressionen
+wie Eier in ruhigen Menschen ablegen.
