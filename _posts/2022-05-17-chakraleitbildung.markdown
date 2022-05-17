@@ -2,7 +2,7 @@
 layout: post
 excerpt_separator: <!--more-->
 ---
-Das erste Format ist in der markdown github repository Datei gespeichert.
+Das erste Format ist in der markdown github repository Datei gespeichert.<br>
 Die Datei kann im github Editor bearbeitet werden. Die Ausgabe ist nach dem
 Speichern in der respository Ordnerstruktur eine markdown Internetseitenausgabe
 einsehbar. Der html tag br als Befehl muss zusätzlich für die Formatierung
