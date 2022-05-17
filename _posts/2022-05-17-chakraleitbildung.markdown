@@ -2,11 +2,16 @@
 layout: post
 excerpt_separator: <!--more-->
 ---
-Um 14 Uhr habe ich einen Termin bei einer Psychotherapeutin.
-Nachdem es nicht leicht ist im Gefüge der Menschheit und aller Lebewesen
-Gesundheit zu Formen, sind Menschen die sich absichtlich selber Zerstören
-um das Immunsystem anzuregen nicht selten.
-Einsamkeit ist das Hauptproblem gesellschaftliche Strudel verlassen zu können.
-Ich kann nur darauf hinweisen, dass auch Menschen die nur ihre eigenen Ziele erkennen
-können, wenn sie sich nicht verletzen brutal zuschlagen können oder Aggressionen
-wie Eier in ruhigen Menschen ablegen.
+Das erste Format ist in der markdown github repository Datei gespeichert.
+Die Datei kann im github Editor bearbeitet werden. Die Ausgabe ist nach dem
+Speichern in der respository Ordnerstruktur eine markdown Internetseitenausgabe
+einsehbar. Der html tag br als Befehl muss zusätzlich für die Formatierung
+angegeben werden. Die zwei Hauptzweige die Speicherstellen und die Spannung
+der Speicherstellen ist nicht erforscht, von mir.
+Der erste Schritt ist eine gefaltete Linie und ein Kieselstein. Der zweite
+ein rechter Winkel. Um einen Kreis bilden zu können brauche ich mindestens zwei
+Rechtecke um ein Quadrat für eine Inkreislinienführung angeben zu können.
+Der Kreis muss dann von mir in einem Winkel gekippt werden der eine Ellipse
+erkennen lassen kann um dann wahlweise zwei Rechtecke in der Ellipse einzufügen.
+Das währe das erste Koordinatensystem um die Aggregatzustände für die Speicherstellen
+bilden zu lernen.
