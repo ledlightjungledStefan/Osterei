@@ -18,3 +18,12 @@ müssen. In weiterer Folge asp dot net. Javascripten um die Geräte auch offline
 aktualisiern zu können, und last but not least Wertebenen für gems coins und tokens.
 
 ![image](https://user-images.githubusercontent.com/75255909/169134855-43d12504-0129-485f-b642-007975311632.png)
+
+risperdal zyprexa truxal akineton solian dominal irgendetwas mit pax
+abilify und abilify derivat
+
+ich bin nicht an der front trug nie waffen alle handgreiflichkeiten konnte<br>
+ich einer psychotherapeutin erzählen marginal
+
+stationär, stationär tagesklinik stationär gefängnis stationär stationär tagesklinik<br>
+stationär stationär
