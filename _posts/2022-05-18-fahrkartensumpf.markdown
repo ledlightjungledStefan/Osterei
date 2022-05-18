@@ -11,3 +11,8 @@ Ein spam Ordner, Portnummern für eine offene Leitung, Reaktionszeit,<br>
 ein blobfähiges typescriptsystem, ein simkarten antennenumleitungssystem<br>
 zu meiner Internetseite, eine angemeldete Antenne ohne einen Provider<br>
 ein Zwischenspeicherkontextmenü online und offline.
+
+Zertifikate um anderen email teilnehmern und teilnehmerinen aktualisiern<br>
+nach kompromitäten ermöglichen zu können. Codespaces die nicht teamfähig sein<br>
+müssen. In weiterer Folge asp dot net. Javascripten um die Geräte auch offline<br>
+aktualisiern zu können, und last but not least Wertebenen für gems coins und tokens.
