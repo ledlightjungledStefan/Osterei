@@ -2,7 +2,7 @@
 layout: post
 excerpt_separator: <!--more-->
 ---
-Jetzt sind auch meine Eltern nur anwesend gewesen. Während ich<br>
-abgehört werde glauben alle ich bin nicht alleine.<br>
-Und die Menge an Lebewesen die abhört ist zu behindert<br>
-um einen Behindertenpass ausgestellt zu bekommen.
+Und die zu behinderten für den Behindertenpass, ich habe immerhin<br>
+50% geschaft können sich in eine Berrierefreiheit retten oder sind<br>
+Kommapatienten und Patientinen in Roma oder in einem Cryogenischem<br>
+Gefängniss.
