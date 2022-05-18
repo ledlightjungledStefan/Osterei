@@ -16,3 +16,5 @@ Zertifikate um anderen email teilnehmern und teilnehmerinen aktualisiern<br>
 nach kompromitäten ermöglichen zu können. Codespaces die nicht teamfähig sein<br>
 müssen. In weiterer Folge asp dot net. Javascripten um die Geräte auch offline<br>
 aktualisiern zu können, und last but not least Wertebenen für gems coins und tokens.
+
+![image](https://user-images.githubusercontent.com/75255909/169134855-43d12504-0129-485f-b642-007975311632.png)
