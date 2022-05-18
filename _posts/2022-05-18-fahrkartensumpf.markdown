@@ -2,7 +2,8 @@
 layout: post
 excerpt_separator: <!--more-->
 ---
-Sprich, nicht ich mit einer adressfreien Ellipse kann die Echos<br>
-steuern sondern die mit adressfreien Darstellungen die zur planetaren<br>
-Laufzeit den Zwischenspeicher nicht verwenden um beim tippen<br>
-nicht in einer Laufzeit gespeichert zu werden.
+Y2K ist kein Kalenderproblem.<br>
+Y2K ist ein künstliches Intelligenzproblem.<br>
+Wenn Maschinen von Lebewesen verwendet werden um eine Vormachtstellung halten zu<br>
+können, ist die Frage was die geringste Zeitangabe ist.<br>
+Nano picto femto sekunde oder noch geringer.
