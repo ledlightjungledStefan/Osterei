@@ -2,6 +2,7 @@
 layout: post
 excerpt_separator: <!--more-->
 ---
+Lügen und Schuldzuweisungen können mein Leben zerstören.
 
 Reine Zeitverschwendung.
 Alle Medienzugänge zu der Wohnung in der ich lebe wurden oder werden<br>
