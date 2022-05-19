@@ -2,6 +2,9 @@
 layout: post
 excerpt_separator: <!--more-->
 ---
+
+![image](https://user-images.githubusercontent.com/75255909/169266541-9b700a46-4dda-420a-bb49-a1d98c720c12.png)
+
 Mein Ziel ist mich wieder bewegen zu können. Für mich zu bewegen.<br>
 
 Ich kenne eine Sitzposition mit der ich auf meine Umwelt reagiere.<br>
