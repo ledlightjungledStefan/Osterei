@@ -17,3 +17,7 @@ zwei Rythmen. Ohne Anweisung kann ich neben einer Insel, weil ich die Insel nich
 zum Arbeiten mit Anweisungen anfüllen muß solange zum Bewegen besuchen und verlassen bis eine Anweisung<br>
 von mir bearbeitet wird. Die Anweisung ist erst dann Zeitfassend wenn eine Inselarbeit bis zu einem<br>
 Zeitpunkt beended werden soll.
+
+Nachdem ich recherchieren muss weil ich nicht wissen kann warum Pfade in html Dateien von<br>
+einer Querstrichrichtung in die andere geändert werden muss kann ich nur erkennen, dass<br>
+das Wort Querstrich oder englisch:slash keine Richtungsangabe des Kippwinkels ecetera 
