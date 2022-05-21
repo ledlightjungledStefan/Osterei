@@ -18,8 +18,5 @@ zum Arbeiten mit Anweisungen anfüllen muß solange zum Bewegen besuchen und ver
 von mir bearbeitet wird. Die Anweisung ist erst dann Zeitfassend wenn eine Inselarbeit bis zu einem<br>
 Zeitpunkt beended werden soll.
 
-Nachdem ich recherchieren muss weil ich nicht wissen kann warum Pfade in html Dateien von<br>
-einer Querstrichrichtung in die andere geändert werden muss kann ich nur erkennen, dass<br>
-das Wort Querstrich oder englisch:slash keine Richtungsangabe des Kippwinkels ecetera 
-
-![image](https://user-images.githubusercontent.com/75255909/169645402-b1a65ed0-5513-4fcd-96a0-97df8aabb0b9.png)
+Was auch immer ihre, (Mehrzahl), Wahl ist der nächste Schritt währe sich im statischen Rahmen bewegen<br>
+zu lernen aus meiner Sicht für mich.
