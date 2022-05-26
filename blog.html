@@ -16,7 +16,13 @@ layout: default
 				</p>
 				{{ post.excerpt }}
 			</div>
-		<img src="{{ post.image_path }}" alt="{{ cupcake.type }}" />
 		{% endfor %}
 	</div>
+</div>
+<div class="cupcakes">
+	{% for cupcake in site.posts %}
+		<div class="cupcake">
+			<div class="image"><img src="{{ cupcake.image_path }}" alt="{{ cupcake.type }}" /></div>
+		</div>
+	{% endfor %}
 </div>
