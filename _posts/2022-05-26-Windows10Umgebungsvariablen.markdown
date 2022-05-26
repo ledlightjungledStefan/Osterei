@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-image_path: /Osterei/images/kronzeugenunfall.png
+image_path: /Osterei/assets/images/kronzeugenunfall.png
 ---
 Mit der Eingabeaufforderung und einem Umgebungsvariablen Wort für einen Windows 10 Desktoppfad mit einem Ordner kann<br>
 nach der Eingabe für den Pfad in den Ordner Reaktionszeit für arbeiten im Internet geübt werden.
