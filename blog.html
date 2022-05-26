@@ -1,29 +1,11 @@
 ---
-layout: default
-title: Blog
+layout: page
+title: Muffins
 ---
-<div class="container">
-	<h2 class="spacing">Blog</h2>
-
-	<div class="blog-posts">
-		{% for post in site.posts %}
-			<div class="blog-post spacing">
-				<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-				<p class="summary">
-					{{ post.category }}
-					<span class="date">
-						{{ post.date | date: '%B %d, %Y' }}
-					</span>
-				</p>
-				{{ post.excerpt }}
-			</div>
-		{% endfor %}
-	</div>
-</div>
 <h1>Our cupcakes</h1>
 
 <div class="cupcakes">
-	{% for cupcake in site.posts %}
+	{% for cupcake in site.cupcakes %}
 		<div class="cupcake">
 			<div class="image"><img src="{{ cupcake.image_path }}" alt="{{ cupcake.type }}" /></div>
 			<h2>{{ cupcake.type }}</h2>
