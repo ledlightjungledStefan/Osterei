@@ -1,22 +1,30 @@
-<html>
-  <head>
-<title>Project or Site name</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#157878">
-<link rel="stylesheet" href="{{ site.baseurl }}/Osterei/assets/css/caymantemplatechanges/antemplate.css">
-<link rel="stylesheet" href="{{ site.baseurl }}/Osterei/assets/css/caymantemplatechanges/visibility.css">
-<!--link rel="stylesheet" href="/css/default.css"-->
-
-  </head>
-  <body>
-<section class="page-header">
-<h1 class="project-name">Project or Site name</h1>
-<h2 class="project-tagline">A responsive theme for your project on Github Pages</h2>
-</section>
-<section class="main-content">
-<h1>Blog Posts Site Case</h1>
-</section>
-    {{ content }}
-
-  </body>
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>{{ page.title }}</title>
+		<link rel="stylesheet" href="/css/style.css">
+		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700" media="all">
+	</head>
+	<body>
+		<header>
+			<div class="container">
+				<nav class="main-nav">
+					<ul>
+						<li><a href="/">Home</a></li>
+						<li><a href="/blog.html">Blog</a></li>
+					</ul>
+				</nav>
+				<h1><a href="/">Bakery<strong>Store</strong></a></h1>
+			</div>
+		</header>
+		<div class="content">
+			{{ content }}
+		</div>
+		<footer>
+			<div class="container">
+				<p class="center-text"> <a href="http://cloudcannon.com">Created by CloudCannon</a></p>
+			</div>
+		</footer>
+	</body>
 </html>
