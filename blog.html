@@ -30,14 +30,12 @@ title: Blog
 			<p class="rating">
 				{% case cupcake.rating %}
 					{% when 1 %}
-						<img src="/images/rating/sick.png"/>
+						<img src="/images/rating/unhappy.jpg"/>
 					{% when 2 %}
-						<img src="/images/rating/unhappy.png"/>
-					{% when 3 %}
 						<img src="/images/rating/ok.png"/>
-					{% when 4 %}
+					{% when 3 %}
 						<img src="/images/rating/happy.png"/>
-					{% when 5 %}
+					{% when 4 %}
 						<img src="/images/rating/super_happy.png"/>
 				{% endcase %}
 			</p>
