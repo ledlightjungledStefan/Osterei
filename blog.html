@@ -5,7 +5,7 @@ title: Muffins
 <h1>Our cupcakes</h1>
 
 <div class="cupcakes">
-	{% for cupcake in site.cupcakes %}
+	{% for cupcake in site.posts %}
 		<div class="cupcake">
 			<div class="image"><img src="{{ cupcake.image_path }}" alt="{{ cupcake.type }}" /></div>
 			<h2>{{ cupcake.type }}</h2>
