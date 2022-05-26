@@ -4,26 +4,29 @@ title: Blog
 ---
 <!Doctype html>
 <head>
-      <style>
-img {
-  position: relative;
+</head>
+<body>
+<style>
+      img {
+	max-width: 100%;
+	height: auto;
+              position: relative;
   /*right: -107;
   top: -107;*/
   border: 3px solid #F7643D;
 }
 </style>
-</head>
-<body>
+{% for cupcake in site.posts %}
+  <img src="{{ cupcake.image_path }}"/>
+{% endfor %}
   <h1>Latest Posts</h1>
 <ul>
   {% for post in site.posts %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt | replace: "Pentagone", "Affen Hitze" }}
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
-    <img src="/Osterei/assets/4kirbs.png">
-      <a href="/Osterei/assets/AuswahlQuartale.docx">screen_print</a>
 </body>
 </html>
