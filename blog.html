@@ -6,22 +6,15 @@ title: Blog
 <head>
 </head>
 <body>
-<style>
+    <style>
       img {
-  border: 3px solid #F7643D;
+	max-width: 100%;
+	height: auto;
 }
-</style>
+    </style>
 {% for cupcake in site.posts %}
   <img src="{{ cupcake.image_path }}"/>
 {% endfor %}
-  <h1>Latest Posts</h1>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+
 </body>
 </html>
