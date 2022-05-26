@@ -104,6 +104,10 @@ nav.main-nav li a {
 	padding: 10px;
 }
 
+div.content {
+	background: #fff;
+}
+
 section.hero {
 	padding: 120px 0;
 }
