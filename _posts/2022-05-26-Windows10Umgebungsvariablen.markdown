@@ -3,7 +3,7 @@ layout: post
 excerpt_separator: <!--more-->
 type: Chocolate
 rating: 4
-image_path: /Osterei/images/cupcakes/chocolate_banana.jpg
+image_path: /Osterei/images/cupcakes/chocolate_banana.png
 description: Rich chocolate cupcake with chocolate icing.
 ---
 Mit der Eingabeaufforderung und einem Umgebungsvariablen Wort für einen Windows 10 Desktoppfad mit einem Ordner kann<br>
