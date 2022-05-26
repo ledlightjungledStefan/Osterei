@@ -1,7 +1,10 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-image_path: /assets/AK.png
+type: Chocolate
+rating: 4
+image_path: /images/cupcakes/chocolate_banana.jpg
+description: Rich chocolate cupcake with chocolate icing.
 ---
 Mit der Eingabeaufforderung und einem Umgebungsvariablen Wort für einen Windows 10 Desktoppfad mit einem Ordner kann<br>
 nach der Eingabe für den Pfad in den Ordner Reaktionszeit für arbeiten im Internet geübt werden.
