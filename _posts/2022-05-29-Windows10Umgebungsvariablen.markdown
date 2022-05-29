@@ -34,4 +34,4 @@ ist meine Frage für mich warum ich nicht die passenden statischen Meditationen 
 für die Nährstoffe die ich auch noch suchen muss um in meinem Immunsystem weiter verstehen zu können für mich.
 
 Den mein Immunsystem ist angeschlagen weil ich nicht verstehen kann das Schen die mich nicht verstehen können und meine Reihenfolge
-nicht beachten und mit mir sprechen oder so interagieren, dass sie mich nur für ihre Zwecke in ihrer Lesezeiechenreihenfolge führen.
+nicht beachten und mit mir sprechen oder so interagieren, dass sie mich NICHT nur für ihre Zwecke in ihrer Lesezeiechenreihenfolge führen.
