@@ -6,6 +6,18 @@ rating: 4
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: Rich chocolate cupcake with chocolate icing.
 ---
+Alsbald ich keine Rücksicht nehme mit den Wunden auf andere Schen um mein Immunsystem unterstützen zu lernen desto eher
+habe ich nicht Zeit Schen die Raubabbau an meinem Leben führen gelernt haben wissen lassen zu können das die Schen
+das unterlassen können sollen.
+
+Ich bin friedlich Aufgewachsen und in der Zeit als noch kein Berufsheer in Slowenien gewesen ist für drei Tage beim
+Militärdienst gewesen. Nachdem ich nicht teilnehmen konnte weil ich keine Gefahr sah, war es auch mit der Diagnose
+Sitz offer das erste mal das ich in einer geschlossenen Abteilung eines Spitals untergebracht wurde.
+
+Es gab auch in Österreich noch mehrer Streitpunkte. Friedlich sein und keine Gefahr als Priorität führen ist
+verpönt. Siehe Otto Wagner Spital AKH Franz Josefs Spital Baden Landesklinikum. Der Staat Österreich ist nur
+aussenpolitisch möglicherweise neutral innenpolitisch ein brutales FLEISCHFRESSENDES Dinosaurierreich.
+
 Ich kann nicht verstehen warum weibliche und männliche Schen die mich nicht verstehen können
 keine Rücksicht auf mich nehmen können.
 
