@@ -4,9 +4,25 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#157878">
-<link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/Backgroundcolorpublicdomainfolder.css">          
+        
+        <style>    
+<p>My face has <span style="color:blue;font-weight:bold">blue</span> eyes and my mirror has <span style="color:darkolivegreen;font-weight:bold">dark green</span> eyes.</p>
+   <span class="ribbon">Beachte, wo die orange Box ist.</span>
+        .ribbon {
+  background-color: #5BC8F7;
+}
+
+.ribbon::after {
+  content: "Sieh dir diese orange Box an.";
+  background-color: #FFBA10;
+  border-color: black;
+  border-style: dotted;
+}
+    </style>
+
 <link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/normalize.css">
 <link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/cayman.css">
+<link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/Backgroundcolorpublicdomainfolder.css">
     <title>HornElemente</title>
     </head>
 <body>
@@ -23,20 +39,6 @@
 <a href="https://github.com/pages-themes/cayman/zipball/master" class="btn">Cayman zipfile</a>
 <a href="/Osterei/assets/FirstStepsForRubyGemInstallation.pdf" class="btn">SomeRubyLines</a>
  
-<h1>The span element</h1>    
-<style>    
-<p>My face has <span style="color:blue;font-weight:bold">blue</span> eyes and my mirror has <span style="color:darkolivegreen;font-weight:bold">dark green</span> eyes.</p>
-   <span class="ribbon">Beachte, wo die orange Box ist.</span>
-        .ribbon {
-  background-color: #5BC8F7;
-}
-
-.ribbon::after {
-  content: "Sieh dir diese orange Box an.";
-  background-color: #FFBA10;
-  border-color: black;
-  border-style: dotted;
-}
-    </style>
+<h1>The span element</h1>
 </body>
 </html>
