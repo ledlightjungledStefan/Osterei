@@ -6,6 +6,9 @@ rating: 4
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: Rich chocolate cupcake with chocolate icing.
 ---
+Warum ist speichern notwendig. Meine Sachlage zu diesem Thema ist, wenn Alan Wake stirbt dann soll
+etwas gespeichert werden.
+
 Stellen Sie sich vor, ohne das ich Sie kennen gelernt haben werde während Sie dies lesen,
 dass es eine Möglichkeit gibt eine persönliche und individuelle Kontrolle mit der Programmiersprache
 
@@ -25,3 +28,10 @@ Also fand ich es für mich Ratsam die Vorgaben der Dokumentationen auszuarbeiten
 
 Bevor ich mich dem Abenteuer eine für mich individuelle Kontrolle entwickeln zu lernen widme.
 https://docs.microsoft.com/en-us/dotnet/desktop/winforms/controls/how-to-develop-a-simple-windows-forms-control?view=netframeworkdesktop-4.8
+
+Meine Art mir erklären zu können wie ich nicht mehr alleine arbeiten muss ist auch ein Teil meines Forumsbeitrages
+mit der question and answer umgebung der Dokumentatcijonen.
+https://docs.microsoft.com/en-us/answers/questions/723345/what-has-to-be-done-to-load-a-labelpaintevent-rect.html
+
+Gegen Ende des Artikels im Link what-has etcetera habe ich die Klasse Rectangle nicht mit einem neuen Objekt Rectangle
+gespeichert.
