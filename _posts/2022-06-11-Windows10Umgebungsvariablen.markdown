@@ -60,3 +60,24 @@ Der Raum meines Herzens ist weit und frei.
 Ich empfinde die Leichtigkeit eines offenen Herzens.
 
 Ich lebe in Liebe und Mitgefühl für alle Geschöpfe.
+
+https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/keypress-event
+
+![image](https://user-images.githubusercontent.com/75255909/173191026-6d5a2ef5-82d5-4b84-be9a-00b5d5996d32.png)
+
+Nun, Speicherstellen, im englischem storage units, kann alles in Reichweite eines Lebewesens sein. Möglicherweise,
+ich muss mich nicht festlegen gibt es deswegen IoT internet of things.
+
+Also könnte alles auch eine Tastatur sein den Betriebssysteme kann es auch ohne geometrische Formen geben. Algen,
+Überwucherungen gLYPHOSATMüllberge. Mit der Programmiersprache Visual Basic dot Net können sie alles drücken für
+
+ihre Programme und Zuweisungen bis auf eine Enter Taste, eine Tabulatortaste, die Pfeiltasten rechts unten oder
+SEHR SPANNEND WENN SIE EINEN BUTTON HABEN UND EINE TEXTBOX SO IN ETWA ZWEI KONTROLLEN DÜRFEN SIE NICHT ZWISCHEN
+
+DEN KONTROLLEN WECHSELN MIT EINER TASTE. Sprich sie können sowohl Kontrollen definieren als auch alle erdenklichen
+Schriftformen nur müssen sie schon bestehende Zeichen verwenden um zwischen Kontrollen wechseln zu können.
+
+![image](https://user-images.githubusercontent.com/75255909/173191345-e2dc778c-3ee5-462c-8d42-cf1c0ce849b9.png)
+
+![image](https://user-images.githubusercontent.com/75255909/173191378-5dff3cb8-5c4e-4b4a-952e-57da77786924.png)
+
