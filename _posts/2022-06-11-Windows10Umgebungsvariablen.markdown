@@ -37,6 +37,7 @@ und erkenne immer nur den nächsten Atemzug zum einatmen. Und wieder loslassen.
 ![image](https://user-images.githubusercontent.com/75255909/173179517-385f29eb-c15e-4d92-90ae-38c3e6153a18.png)
 
 Nun ich konnte meine Atemübungen solange machen bis ich wieder eine Taste gedrückt haben werde.
+
     Private Sub Form1_KeyUp(sender As Object, e As KeyEventArgs) Handles Me.KeyUp
         Select Case e.KeyCode
             Case Keys.A
@@ -50,11 +51,12 @@ Nun ich konnte meine Atemübungen solange machen bis ich wieder eine Taste gedr�
         End With
     End Sub
     
-    Diesmal mit dem Ergebnis, dass ein helleres Quadrat als die Hintergrundfarbe sichtbar gewesn ist. Dann kann
-    ich wieder loslassen und mich auf meine "Ecke" konzentrieren. Für die nächste Übung.
-    
-    ![image](https://user-images.githubusercontent.com/75255909/173179614-4db4f32c-80ae-4a8f-9dc1-eeebe20acd23.png)
-Der Raum meines Herzens ist weit und frei.
+Diesmal mit dem Ergebnis, dass ein helleres Quadrat als die Hintergrundfarbe sichtbar gewesen ist. Dann kann
+ich wieder loslassen und mich auf meine "Ecke" konzentrieren. Für die nächste Übung.
 
+![image](https://user-images.githubusercontent.com/75255909/173179614-4db4f32c-80ae-4a8f-9dc1-eeebe20acd23.png)
+
+Der Raum meines Herzens ist weit und frei.
 Ich empfinde die Leichtigkeit eines offenen Herzens.
+
 Ich lebe in Liebe und Mitgefühl für alle Geschöpfe.
