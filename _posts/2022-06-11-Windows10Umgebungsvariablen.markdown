@@ -12,9 +12,6 @@ Rechenarchitekturen von mir bei der Wahl eines zu tippenden Textes berücksichti
 Ein Metronom ist auch nicht nur ein Hebel um störende Frequenzen wie Autolärm abschalten zu können. Außerdem
 kann ein Ast im Wind auch ein Takt sein.
 
-Das Beürfnis nach Rythmus schließe ich für mich daraus, dass wenn ich eine aktive Kontrolle abschalten muß um
-mit der Tastatur eine Eingabe tätigen zu können
-
     Private Sub Form1_Click(sender As Object, e As EventArgs) Handles Me.Click
         With Me
             .ActiveControl = Nothing
@@ -27,17 +24,6 @@ mit der Tastatur eine Eingabe tätigen zu können
         End With
     End Sub
     
-ist meine Mühe meist dahingehend, dass eine einfache Änderung, ob ich mit der linken oder rechten Hand tippen soll
-zum Bilden Sätzen nur von mir in meine Erinnerung gerufen wird um mich auf meinen Brustkorb konzentrieren zu können.
-
-Das senken meines Brustkorbes für mich ist einfacher, da ich aufstehen und alles fallen lassen kann. Nachdem ich nach
-gebeugt mit meinen Fingerspitzen versuchen kann meine Zehen erreichen zu können habe ich alles losgelassen
-
-und erkenne immer nur den nächsten Atemzug zum einatmen. Und wieder loslassen.
-![image](https://user-images.githubusercontent.com/75255909/173179517-385f29eb-c15e-4d92-90ae-38c3e6153a18.png)
-
-Nun ich konnte meine Atemübungen solange machen bis ich wieder eine Taste gedrückt haben werde.
-
     Private Sub Form1_KeyUp(sender As Object, e As KeyEventArgs) Handles Me.KeyUp
         Select Case e.KeyCode
             Case Keys.A
@@ -51,33 +37,13 @@ Nun ich konnte meine Atemübungen solange machen bis ich wieder eine Taste gedr�
         End With
     End Sub
     
-Diesmal mit dem Ergebnis, dass ein helleres Quadrat als die Hintergrundfarbe sichtbar gewesen ist. Dann kann
-ich wieder loslassen und mich auf meine "Ecke" konzentrieren. Für die nächste Übung.
+Das senken meines Brustkorbes für mich ist einfacher, da ich aufstehen und alles fallen lassen kann. Nachdem ich nach
+gebeugt mit meinen Fingerspitzen versuchen kann meine Zehen erreichen zu können habe ich alles losgelassen
+
+und erkenne immer nur den nächsten Atemzug zum einatmen. Und wieder loslassen.
+![image](https://user-images.githubusercontent.com/75255909/173179517-385f29eb-c15e-4d92-90ae-38c3e6153a18.png)
 
 ![image](https://user-images.githubusercontent.com/75255909/173179614-4db4f32c-80ae-4a8f-9dc1-eeebe20acd23.png)
+![image](https://user-images.githubusercontent.com/75255909/173193399-2e47f634-4893-4452-bba8-ac6d1e08dfdd.png)
 
-Der Raum meines Herzens ist weit und frei.
-Ich empfinde die Leichtigkeit eines offenen Herzens.
-
-Ich lebe in Liebe und Mitgefühl für alle Geschöpfe.
-
-https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/keypress-event
-
-![image](https://user-images.githubusercontent.com/75255909/173191026-6d5a2ef5-82d5-4b84-be9a-00b5d5996d32.png)
-
-Nun, Speicherstellen, im englischem storage units, kann alles in Reichweite eines Lebewesens sein. Möglicherweise,
-ich muss mich nicht festlegen gibt es deswegen IoT internet of things.
-
-Also könnte alles auch eine Tastatur sein den Betriebssysteme kann es auch ohne geometrische Formen geben. Algen,
-Überwucherungen gLYPHOSATMüllberge. Mit der Programmiersprache Visual Basic dot Net können sie alles drücken für
-
-ihre Programme und Zuweisungen bis auf eine Enter Taste, eine Tabulatortaste, die Pfeiltasten rechts unten oder
-SEHR SPANNEND WENN SIE EINEN BUTTON HABEN UND EINE TEXTBOX SO IN ETWA ZWEI KONTROLLEN DÜRFEN SIE NICHT ZWISCHEN
-
-DEN KONTROLLEN WECHSELN MIT EINER TASTE. Sprich sie können sowohl Kontrollen definieren als auch alle erdenklichen
-Schriftformen nur müssen sie schon bestehende Zeichen verwenden um zwischen Kontrollen wechseln zu können.
-
-![image](https://user-images.githubusercontent.com/75255909/173191345-e2dc778c-3ee5-462c-8d42-cf1c0ce849b9.png)
-
-![image](https://user-images.githubusercontent.com/75255909/173191378-5dff3cb8-5c4e-4b4a-952e-57da77786924.png)
-
+![image](https://user-images.githubusercontent.com/75255909/173193472-60d7829a-2102-4596-8432-d02603950b53.png)
