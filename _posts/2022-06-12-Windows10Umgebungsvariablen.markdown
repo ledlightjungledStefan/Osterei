@@ -6,6 +6,11 @@ rating: 4
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
+Ich stelle mir eine Aufgabe. Eine Hörstelle: ist der Strom ausgefallen, die drei ??? und der schreiende Nebel.
+europa hörspiele auf youtube die Folge 162 10 Minuten und 18 Sekunden.
+
+Nein der Strom ist nicht ausgefallen.
+
 ![image](https://user-images.githubusercontent.com/75255909/173236093-a760442d-2ee1-4964-aec8-593602a9e5bd.png)
 Hilberts Hotel ist ein Beispiel um zeigen zu können, dass bei einer Reihe mit einer festen Indexzahl,
 
