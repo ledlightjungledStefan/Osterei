@@ -73,3 +73,6 @@ und Befehlszeilen von VB Dateien in einer CMD Datei gespeichert sind.
 
 https://pastebin.com/LBdbaRP7
 Zum üben hab ich genug. Der nächste Schritt währen response files Dateierweiterung RSP
+
+![image](https://user-images.githubusercontent.com/75255909/173445784-11949a93-2a4b-4f49-9914-090ef33142d6.png)
+
