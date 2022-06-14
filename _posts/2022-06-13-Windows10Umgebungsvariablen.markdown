@@ -6,6 +6,11 @@ rating: 4
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
+Minimal Ciakralik: Knusper Häushijen wer knuspert: zrükknuspr
+Ich habe facebook Gerücht eingereicht hier: commited (kumite) das der Datenschutznebel von Schengen wm gemacht wurde
+
+weil Geräte verwendet werden können um im DS erkennen zu können, klar? hm _
+
 Ich stelle mir eine Aufgabe. Eine Hörstelle: ist der Strom ausgefallen, die drei ??? und der schreiende Nebel.
 europa hörspiele auf youtube die Folge 162 10 Minuten und 18 Sekunden.
 
