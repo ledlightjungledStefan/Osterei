@@ -15,7 +15,7 @@ Die Markierung kann nicht an einer Bildschirmstelle beendet werden die nicht im 
 in meiner Windowsversion verwendet werden soll kann von mir nicht in Regiestriermenüs geändert werden.
 
 ![image](https://user-images.githubusercontent.com/75255909/173646718-ef76c948-a427-46b2-8e6c-1208f51ca1b0.png)
-
+![image](https://user-images.githubusercontent.com/75255909/173874101-f1b7cc83-159d-4be6-aa1b-d3652172bd9e.png)
 
 Für alle die nicht einen Wikipedia Account haben, empfehle ich für chrome die Erweiterung Wikiwand: Wikipedia Modernized
 einzubinden.
