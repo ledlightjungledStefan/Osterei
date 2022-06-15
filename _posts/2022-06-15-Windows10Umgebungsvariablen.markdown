@@ -25,3 +25,9 @@ https://www.wikiwand.com/de/Zeichenorientierte_Benutzerschnittstelle?wprov=srpw1
 
 etwas mit ascii tabellen zu tun hat. Querstrich und Teile eines vertikalen Rechtecks mit einer Biegung links unten.
 Ein slawisches Wort für fällt aus ist spade, weil shovel und spade eine Schaufel sind und die Diamantenform fällt aus.
+
+In a response file, multiple compiler options and source-code files can appear on one line. A single compiler-option
+specification must appear on one line (cannot span multiple lines). Response files can have comments that begin with
+
+the # symbol. Für ein 50 50 Ticket um lernen zu können wählte ich stackoverflow und konnte dort sowohl english lernen
+als auch nicht angeben das ich english gelernt habe.
