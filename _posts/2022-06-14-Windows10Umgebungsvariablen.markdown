@@ -15,3 +15,9 @@ Die Markierung kann nicht an einer Bildschirmstelle beendet werden die nicht im 
 in meiner Windowsversion verwendet werden soll kann von mir nicht in Regiestriermenüs geändert werden.
 
 ![image](https://user-images.githubusercontent.com/75255909/173646718-ef76c948-a427-46b2-8e6c-1208f51ca1b0.png)
+
+![image](https://user-images.githubusercontent.com/75255909/173822931-b1a09fe1-63da-4994-8b46-ff3717934ca8.png)
+![image](https://user-images.githubusercontent.com/75255909/173823775-d785feff-ab69-43d5-9388-027ef1ac76d7.png)
+
+![image](https://user-images.githubusercontent.com/75255909/173824674-6a4da8bd-ee83-4b5b-8feb-9fa6bb8a1355.png)
+![image](https://user-images.githubusercontent.com/75255909/173825047-99ed478d-b587-4300-98ce-8426d0ef6aa6.png)
