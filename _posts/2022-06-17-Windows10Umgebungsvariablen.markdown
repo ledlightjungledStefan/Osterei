@@ -31,3 +31,8 @@ specification must appear on one line (cannot span multiple lines). Response fil
 
 the # symbol. Für ein 50 50 Ticket um lernen zu können wählte ich stackoverflow und konnte dort sowohl english lernen
 als auch nicht angeben das ich english gelernt habe.
+
+Nachdem ich mir nicht bestättigen kann, dass die Version der Dokumentationen zu dem Befehlswort, rem, der Informatik
+micht nur für mich geschrieben worden sind reiche ich auch nicht einen link mit diesem post ein.
+
+rem braucht mehr speicher.
