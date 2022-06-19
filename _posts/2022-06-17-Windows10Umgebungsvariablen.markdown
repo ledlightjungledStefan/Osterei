@@ -6,33 +6,12 @@ rating: 4
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
-![image](https://user-images.githubusercontent.com/75255909/173559473-3eb493be-8888-42e4-ac33-f6994a677d77.png)
+Erfolg. Ich tippte einen Satz und ich tippte einen Satz der an einer Stelle gewesen ist.
+Wenn ich einen Knopf habe und statt einer Taste den Knopf verwende,
 
-Der Rahmen der Datei karu im Ordnerverzeichnis kann hellblau Markiert sein. Nach dem öffnen der Eigenschaftenseite,
-ist im Karteikartenreiter Sicherheit der Pfad mit doppelklick markierbar.
+dann kann ich auch wie einen Satz an anderer Stelle eine rechteckige Struktur an einer Stelle
+welche nicht auf dem Knopf ist speichern.
 
-Die Markierung kann nicht an einer Bildschirmstelle beendet werden die nicht im Markierungsrahmen ist. Alles was
-in meiner Windowsversion verwendet werden soll kann von mir nicht in Regiestriermenüs geändert werden.
-
-![image](https://user-images.githubusercontent.com/75255909/173646718-ef76c948-a427-46b2-8e6c-1208f51ca1b0.png)
-![image](https://user-images.githubusercontent.com/75255909/173874101-f1b7cc83-159d-4be6-aa1b-d3652172bd9e.png)
-
-Für alle die nicht einen Wikipedia Account haben, empfehle ich für chrome die Erweiterung Wikiwand: Wikipedia Modernized
-einzubinden.
-
-Meine Theorie zum hashkey zu deutsch Rautetaste ist, dass das Symbol mit der Abkürzung für common language interface
-https://www.wikiwand.com/de/Zeichenorientierte_Benutzerschnittstelle?wprov=srpw1_1
-
-etwas mit ascii tabellen zu tun hat. Querstrich und Teile eines vertikalen Rechtecks mit einer Biegung links unten.
-Ein slawisches Wort für fällt aus ist spade, weil shovel und spade eine Schaufel sind und die Diamantenform fällt aus.
-
-In a response file, multiple compiler options and source-code files can appear on one line. A single compiler-option
-specification must appear on one line (cannot span multiple lines). Response files can have comments that begin with
-
-the # symbol. Für ein 50 50 Ticket um lernen zu können wählte ich stackoverflow und konnte dort sowohl english lernen
-als auch nicht angeben das ich english gelernt habe.
-
-Nachdem ich mir nicht bestättigen kann, dass die Version der Dokumentationen zu dem Befehlswort, rem, der Informatik
-micht nur für mich geschrieben worden sind reiche ich auch nicht einen link mit diesem post ein.
-
-rem braucht mehr speicher.
+Nach dem betätigen eines Knopfes sollte ich auch einen Teil einer Struktur abschalten lernen
+und nach einer Eingabe in einer Textbox einen Listeneintrag erhalten können mit dem ich
+eine neue Position bestimmen lernen kann.
