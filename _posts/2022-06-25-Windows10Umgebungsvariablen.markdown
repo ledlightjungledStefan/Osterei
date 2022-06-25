@@ -22,3 +22,37 @@ windows 10 raute menü bitmap
 
 und nicht das meiner sichtweise zu folge sunny side up symbol bei dem auf der anderen seite nichts und
 etwas ganz anderes sein kann.
+
+auf der seite
+
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/194af1fa-d8e5-4c88-9034-5886c4f54847/painting-fill-function?forum=vbgeneral
+
+sind die textspeicherstellen für den visual studio bereich mit VB dot net forms
+
+https://pastebin.com/5DpHgBCH
+
+nach einem Link von der developer seite auf der ich eine Frage postete
+
+https://social.msdn.microsoft.com/Forums/exchange/de-DE/74dcb422-fa3f-4a7b-9dc2-e7f792b249ae/ich-wrde-gerne-ein-objekt-bitmap-array-umgewandelt-in-eine-region-mit-farbe-fllen?forum=visualbasicde
+
+Die visual basic dot net visual studio forms form1 datei ist ein durcheinand farbsalat
+
+https://pastebin.com/1QXPjeFG
+
+eine klassendatei mybutton
+
+https://pastebin.com/FSQ43z3w
+
+ist auch zum speichern von mir gesetzt worden
+den ich kann einen schaltknopf mit zwei bitmaps gebildet und nach dem ersten betättigen wird links oben
+
+auf der form die bitmap der ersten knopfstelle gezeigt um dann nach dem klicken auf die flächen
+die farben solange zu wählen bis gespeichert werden soll
+
+dann kann der knopf noch einmal geklickt werden und ein bilschirmdruck wird von der stelle der form
+links oben gespeichert
+
+ich habe als speicherort nicht den ausgabe ort gewählt also habe ich nur einen anfang erstellt um
+die dateien form1 und mybutton zu vereinfachen zeilen zu löschen und auch den speichervorgang
+
+anzupassen, den es wird nicht einen oder mehrere einhetliche farben gespeichert sondern sehr viele.
