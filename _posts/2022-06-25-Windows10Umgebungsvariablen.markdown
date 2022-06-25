@@ -6,6 +6,18 @@ rating: 4
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
+Zagma eins der ersten komptuerschpile war in etwa ein unter anführungsceihen panel
+
+![image](https://user-images.githubusercontent.com/75255909/175784030-117c88d0-e5f9-4546-a544-f210758067c4.png)
+
+und konnte in einer graphic interface datei angehalten anders kombiniert und wieder gestarte werden disco thek
+ich habe die form1 datei wieder komplett ersetzt und nur zwei zeilen geändert
+
+        'm_Bitmap = New Bitmap(Me.ClientRectangle.Width, Me.ClientRectangle.Height)
+        m_Bitmap = New Bitmap("C:\entwurf.png")
+        Dim gr As Graphics = Graphics.FromImage(m_Bitmap)
+        'gr.Clear(Color.Silver)
+
 Nun ist ein Bildschirmdruck nicht nur eine Zwischenspeichermöglichkeit
 
 https://social.msdn.microsoft.com/Forums/vstudio/en-US/3d258c2b-64b9-431f-9df8-398a7866de40/vbnet-save-windows-form-as-an-image-getformimage?forum=vbgeneral
