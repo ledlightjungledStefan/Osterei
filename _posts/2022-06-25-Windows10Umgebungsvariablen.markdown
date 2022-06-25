@@ -6,6 +6,10 @@ rating: 4
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
+Nun ist ein Bildschirmdruck nicht nur eine Zwischenspeichermöglichkeit
+
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/3d258c2b-64b9-431f-9df8-398a7866de40/vbnet-save-windows-form-as-an-image-getformimage?forum=vbgeneral
+
 ![image](https://user-images.githubusercontent.com/75255909/175780860-6c0f360b-55ec-4fd3-9c02-e69e79253eda.png)
 
 passend zum Wetter der Ring of fire
