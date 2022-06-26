@@ -6,32 +6,20 @@ rating: 4
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
+Nachdem ich keine Probleme mit meiner Reihenfolge habe und meine Energiebahnen nicht immer die
+selben und die gleichen Knotenpunkte haben müssen,
 
-![image](https://user-images.githubusercontent.com/75255909/175784030-117c88d0-e5f9-4546-a544-f210758067c4.png)
+ist mein Heilungsprozess für mich von mir gewährleistet. Wie ist es zu Wunden gekommen, es gibt
+auch Situationen die sich mit Unfall mit FahrerInflucht vergleichen lassen könnten, zu mindest
 
-Müssen, im deutschen Sprachraum, hat möglicherweise etwas mit dem Buchstaben M zu tun. Nüsse sind Waldfrüchte
-mit sehr harter Schale.
+aus meiner Sicht. Das Hauptthema das ich mit der Frage warum Schuldzuweisungen stattfinden hatte
+ist das Wunden, meine, immer weider Aufgerissen wurden.
 
-Mit meinen Erfahrungen musste ich auch verwundet Entscheidungen für mein Leben treffen. Psychopharmazeutische
-Produkte sind möglicherweise Entscheidungshilfen und dennoch sind natürliche Entscheidungsprozesse ohne täglicher
+Verwundet gesehen zu werden und erkannt zu werden ist also auch für Täter und TäterInen nicht
+ein annehmbarer Anblick.
 
-Chemie passender. Ich behaupte für mich ich habe keine psychische Krankheit, weil energetische Verspannungen
-verspannungen sind, und ich meinen Körper nicht zwischen Energiedichten trenne.
+Meine Psychotherapeutin kann sich auf meine Gesundheit konzentrieren und ich kann mich wieder
+auf meine Gesundheit konzentrieren ohne mich den Schuldzuweisungen aus zu setzen Angriffe
 
-Wahrheiten anderer Lebewesen erkennen können hat in meinem Leben nicht mit Reinsubstanzen zu tun indem ich
-Baumrinde ausschließlich auf einem Ort sammle.
-
-Ich verstehe mich und kann euch nicht erklären warum. Meine zermürbende Wahrheit ist, dass mir nicht wichtig ist
-welche Würdentrachten Lebewesen tragen.
-
-Ich kann kein Wunschkonzert bieten, und relativ ist wenn meine Gefühle nicht erkannt werden können. Oder wenn ich
-Gefühle nicht erkennen kann die aktuell nicht begleitet werden von der Person die ich für diesen Text wählte.
-
-Ich hörte von einer Geschichte, das die Eingeborenen die Landungsschiffe nach dem sie am Starnd anlegten erst
-gesehen wurden und nicht schon auf offenem Meer.
-
-Das vermeintliche Indien, der neue Kontinent, Amerika, ist ja nicht nur von einer Geschichte begleitet. Wenn die
-Wikinger schon im Norden landeten und zwischen Russland und Alaska das Land und die Inseln trocken waren
-
-kann ich mir weiter bilden, dass das eigentliche Thema die Antworten sind die nicht in Frage gestellt werden
-müssen. Die erste Antwort. Ich lebe solange ja bis ich Nein sagen kann, kann auch als Frage formuliert werden.
+gegen mich verursacht zu haben. Falls ich nicht aktiv in einer Geschichte bin kann ich mir
+mittlerweile statt ja und nein auch einfach apfel erbse denken, eine Stoptaste.
