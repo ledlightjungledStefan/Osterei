@@ -6,19 +6,13 @@ rating: 4
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
-Nun während ich tippe entscheide ich mich wie ich mich nicht mehr ausbeuten lasse. Einschüchterungen
-und Drohungen sind in der Wirtschaft jeden Tag die Parolen.
+Also nachdem zwischenmenschliche Probleme die staatlich für die Wirtschaft ausgebeutet werden
+nur ein "glitch" sind, let's get back to work.
 
-Ich bin ene Blume die nicht nachgeben möchte und zum Gegenangriff übergehen sondern weiter blühen
-möchte. Das Hauptproblem ist das Tai Chi, mit fürnf Gramm eine Tonne ablenken, möglich ist
+Ein Ereigniss bei Visual Basic dot Net ist ein Hilfsgriff um alle angeschlossenen Geräte zusammengefasst
+zu einem System verstehen lernen zu können.
 
-und Kung Fu das statt einer Schildmuskulatur, aufbauend bei einer Psychotherapie, zum abwehren
-von Schlägen zur Reaktionszeit auch möglich ist nur das ich nicht weiß wie ständige Provokationen
+Ein Ereigniss ist das Paint Ereigniss mit dem ich mir versuche zu erklären wie ich ein mit Paint erstelltes
+Bild auf einer zwei dimensionalen Oberfläche darstellen kann um nach einer Änderung wieder gespecihert
 
-beendet werden können. Den wehr den Angrif provoziert wird den Sturm ernten. Irgendwann bricht der
-biegsame Stab und hell breaks loss.
-
-Provokationen sind nicht immer gut wenn Schuldzuweisungen von Angreifern und AngreiferInen dadurch
-gerchtfertigt werden. Vorsicht. Auch wenn Ihr weiterhin meine Isolation und Einsamkeit daurch
-
-zu Eurem Nutzen fördet.
+wird auf einer anderen Datei oder der Ausgangsdatei.
