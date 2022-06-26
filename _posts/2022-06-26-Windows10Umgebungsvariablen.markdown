@@ -6,20 +6,19 @@ rating: 4
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
-Nachdem ich keine Probleme mit meiner Reihenfolge habe und meine Energiebahnen nicht immer die
-selben und die gleichen Knotenpunkte haben müssen,
+Nun während ich tippe entscheide ich mich wie ich mich nicht mehr ausbeuten lasse. Einschüchterungen
+und Drohungen sind in der Wirtschaft jeden Tag die Parolen.
 
-ist mein Heilungsprozess für mich von mir gewährleistet. Wie ist es zu Wunden gekommen, es gibt
-auch Situationen die sich mit Unfall mit FahrerInflucht vergleichen lassen könnten, zu mindest
+Ich bin ene Blume die nicht nachgeben möchte und zum Gegenangriff übergehen sondern weiter blühen
+möchte. Das Hauptproblem ist das Tai Chi, mit fürnf Gramm eine Tonne ablenken, möglich ist
 
-aus meiner Sicht. Das Hauptthema das ich mit der Frage warum Schuldzuweisungen stattfinden hatte
-ist das Wunden, meine, immer weider Aufgerissen wurden.
+und Kung Fu das statt einer Schildmuskulatur, aufbauend bei einer Psychotherapie, zum abwehren
+von Schlägen zur Reaktionszeit auch möglich ist nur das ich nicht weiß wie ständige Provokationen
 
-Verwundet gesehen zu werden und erkannt zu werden ist also auch für Täter und TäterInen nicht
-ein annehmbarer Anblick.
+beendet werden können. Den wehr den Angrif provoziert wird den Sturm ernten. Irgendwann bricht der
+biegsame Stab und hell breaks loss.
 
-Meine Psychotherapeutin kann sich auf meine Gesundheit konzentrieren und ich kann mich wieder
-auf meine Gesundheit konzentrieren ohne mich den Schuldzuweisungen aus zu setzen Angriffe
+Provokationen sind nicht immer gut wenn Schuldzuweisungen von Angreifern und AngreiferInen dadurch
+gerchtfertigt werden. Vorsicht. Auch wenn Ihr weiterhin meine Isolation und Einsamkeit daurch
 
-gegen mich verursacht zu haben. Falls ich nicht aktiv in einer Geschichte bin kann ich mir
-mittlerweile statt ja und nein auch einfach apfel erbse denken, eine Stoptaste.
+zu Eurem Nutzen fördet.
