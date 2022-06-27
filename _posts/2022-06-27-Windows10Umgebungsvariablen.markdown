@@ -22,3 +22,12 @@ eine Formel die ich nicht erstellt habe. Im Fall oben hae ich in visual studio n
 
 Punkt gesetzt um zu sehen ob intelli sense property window sich öffnet. Tat es, Erfahrungswert. Nun es "" hatte
 auch einen Eintrag Save.
+
+Der eine Weg ist, ja die Bitmap im MyButton Klassendateibereich entfernen und Me.BackgroundImage.Save zu bilden.
+![image](https://user-images.githubusercontent.com/75255909/175936360-ee7eef12-45fd-4838-bed2-c02499087c60.png)
+
+Der zweite get und set Besitze zu bilden und auf Funktionen zusteuern um einen möglichen Speicherstellenrahmen
+finden zu können bei dem mit Strom einen Speicherstelle von null auf eins gesetzt wird.
+
+Und ganz Wild ohne Wissen ist das Thema try and catch weil möglicherweise muss ich nicht den timer erwischen
+sondern der timer mich respektive das timing.
