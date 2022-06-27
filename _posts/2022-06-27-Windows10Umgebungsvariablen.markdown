@@ -6,7 +6,10 @@ rating: 4
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
-![image](https://user-images.githubusercontent.com/75255909/175892333-bab2212e-5dd2-4237-ba20-e0d88c8dad75.png)
+![image](https://user-images.githubusercontent.com/75255909/175934214-d68be794-01b8-4f8e-ba77-e0f3554a473e.png)
+
+Ich habe wie so oft zwei Möglichkeiten zur Wahl entweder der elektrische Strom ist relativ nicht stabil für das
+menschliche Zusammenleben oder dem relativen Strom kann ich nicht passend aktuelle Grundlagen formen.
 
 Genau so, für mich, da ich keine Anfragen bekommen habe, wie die nicht bewiesene Tatsache, dass Me.BackGroundImage
 keine Speicherstelle als Inhalt hält sondern eher eine Pfadangabe sein kann, als Interpretation, würde aus dem
