@@ -6,13 +6,27 @@ rating: 4
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
-Also nachdem zwischenmenschliche Probleme die staatlich für die Wirtschaft ausgebeutet werden
-nur ein "glitch" sind, let's get back to work.
+Ich habe mit Github schon eine nicht einhalten können, nach dem anmelden mit meinen Accountdaten
+für die Community, sah ich ich sollte nicht Accountdaten öffentlich bekannt geben.
 
-Ein Ereigniss bei Visual Basic dot Net ist ein Hilfsgriff um alle angeschlossenen Geräte zusammengefasst
-zu einem System verstehen lernen zu können.
+Bevor ich mich anmeldete habe ich dennoch schon meine eMail Addresse riharstefan@aon.at
+bekannt gegeben.
 
-Ein Ereigniss ist das Paint Ereigniss mit dem ich mir versuche zu erklären wie ich ein mit Paint erstelltes
-Bild auf einer zwei dimensionalen Oberfläche darstellen kann um nach einer Änderung wieder gespecihert
+Nun mittlerweile habe ich sehr viel störende spam mails. Im Menü extras gibt es den
+Menüpunkt Filter. Einige Addressen aus den Headern habe ich schon angeben können.
 
-wird auf einer anderen Datei oder der Ausgangsdatei.
+Es muß nicht sein das die spam mails nach meiner bekanntgabe auf github pages stattgefunden haben wird.
+Thunderbird hat auch ein chatprogramm.
+
+Also ist niemandem auch nicht mir klar warum kein kontakt zu mir hergestellt wurde. Chat?
+Ich werde auf meiner Seite auch weiterhin kein Chatprogramm einrichten,
+
+da ich mihc mit der Technolodie nicht auskenne.
+Außerdem habe ich noch immer mit Fehlermeldungen zu kämpfen wie
+
+![image](https://user-images.githubusercontent.com/75255909/175845727-633e0e69-725c-4764-9f14-34a0f0248ac6.png)
+
+Für
+
+![image](https://user-images.githubusercontent.com/75255909/175845789-f6865a1f-b060-4ae7-954f-0a9c94fdf926.png)
+![image](https://user-images.githubusercontent.com/75255909/175845846-ee888c3d-69b7-457b-acf8-29803ec1a7b4.png)
