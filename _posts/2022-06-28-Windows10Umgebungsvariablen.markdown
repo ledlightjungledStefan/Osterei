@@ -15,15 +15,5 @@ Ja, und Feuer und Erde sind immer die passenden Bewegungen im Radkörper.
 Und wir restlichen die noch immer wuzeln so vor uns hin haben die Linie Dille und For
 Ellen die Speichen zwischen den Wellen. Zitrone?
 
-Großes Land Deu hat Werner mit Staubsauger NENENENENENENENENENENENENENENENENENENENENE
-SO NE zASTAVA kUTSCHE eher nicht mercedes wie bei den franzosen "sprechen sie farnzö"
-
-ne mercedes oder stern also nicht rennauto citroen radüschchien piezo rennauto.
-Au dit schon gesagt. Wario.
-
-![image](https://user-images.githubusercontent.com/75255909/176154125-d3d0f0bd-7838-486f-b4af-50bd5eca43bc.png)
-
-"Ha", flüssiges Styropor oder Radischien.
-![image](https://user-images.githubusercontent.com/75255909/176154992-42acd916-5fc1-4f0c-94f4-514bce4bb010.png)
-
-Oder der Model Chien im Hintergrund.
+![image](https://user-images.githubusercontent.com/75255909/176155648-68685c72-d3dc-4be7-88c3-6c6f2107bf31.png)
+HM IN FÜNF MINUTEN WERDE ICH MC DOZZER GEWESEN SEIN
