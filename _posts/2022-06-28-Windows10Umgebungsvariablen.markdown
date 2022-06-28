@@ -6,14 +6,14 @@ rating: 4
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
-Und wie schaut's aus, wenn es Reaktionszeit gibt ist wohl die fantastischste Vermutung
-das ein Zweibeiner oder eine Zweibeinerin dennoch alt und jung werden können im Rahmen
+Na gut. Was hab ich. Eine Wohnung nicht für mich alleine. Und 4 Euro am Konto
+![image](https://user-images.githubusercontent.com/75255909/176247244-831e0f43-3bd5-4682-9498-a7f9b890eb30.png)
 
-das nur die Nährstoffe zirkulieren zwischen Wasser und Luft. Son richtiger Yogikult.
-Ja, und Feuer und Erde sind immer die passenden Bewegungen im Radkörper.
+Das Bild kann ich in Paint nach belieben ändern und in einer Form als Hintergrund laden.
+https://docs.microsoft.com/en-us/dotnet/api/system.drawing.graphics.drawrectangle?view=dotnet-plat-ext-6.0#system-drawing-graphics-drawrectangle(system-drawing-pen-system-drawing-rectangle)
 
-Und wir restlichen die noch immer wuzeln so vor uns hin haben die Linie Dille und For
-Ellen die Speichen zwischen den Wellen. Zitrone?
-
-![image](https://user-images.githubusercontent.com/75255909/176155648-68685c72-d3dc-4be7-88c3-6c6f2107bf31.png)
-HM IN FÜNF MINUTEN WERDE ICH MC DOZZER GEWESEN SEIN
+    Public Sub DrawRectangleRectangle(ByVal e As PaintEventArgs)
+        Dim blackPen As New Pen(Color.CornflowerBlue, 3)
+        Dim rect As New Rectangle(50, 50, 200, 100)
+        e.Graphics.DrawRectangle(blackPen, rect)
+    End Sub
