@@ -22,3 +22,8 @@ ne mercedes oder stern also nicht rennauto citroen radüschchien piezo rennauto.
 Au dit schon gesagt. Wario.
 
 ![image](https://user-images.githubusercontent.com/75255909/176154125-d3d0f0bd-7838-486f-b4af-50bd5eca43bc.png)
+
+"Ha", flüssiges Styropor oder Radischien.
+![image](https://user-images.githubusercontent.com/75255909/176154992-42acd916-5fc1-4f0c-94f4-514bce4bb010.png)
+
+Oder der Model Chien im Hintergrund.
