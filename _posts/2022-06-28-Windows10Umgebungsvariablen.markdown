@@ -11,3 +11,6 @@ das ein Zweibeiner oder eine Zweibeinerin dennoch alt und jung werden können im
 
 das nur die Nährstoffe zirkulieren zwischen Wasser und Luft. Son richtiger Yogikult.
 Ja, und Feuer und Erde sind immer die passenden Bewegungen im Radkörper.
+
+Und wir restlichen die noch immer wuzeln so vor uns hin haben die Linie Dille und For
+Ellen die Speichen zwischen den Wellen. Zitrone?
