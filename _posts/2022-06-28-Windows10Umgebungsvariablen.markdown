@@ -6,6 +6,11 @@ rating: 4
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
+Hallo mein Name ist Štefan. Sie können mir nicht eine Schicht verkaufen wenn sie
+nicht eine Bedienungsanleitung haben in der steht wie Breit die zwei Schichten sind
+
+nachdem sich eine abschaltete.
+
 lambda zähler verbunds zuweisungs operator brain storming
 
 +=
