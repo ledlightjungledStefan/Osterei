@@ -10,6 +10,8 @@ lambda zähler verbunds zuweisungs operator brain storming
 
 +=
 
+also ist oben ein headshop und deswegen hieß es nur es ist ein operator ohne name
+
 Das tipp ich nur weil ich schlechte Laune habe weil mir langeweile ist
 
 Hallo mein ist Ochop ich bin Krzlvlrz sie wissen schon die mit den vier bunten Farben
