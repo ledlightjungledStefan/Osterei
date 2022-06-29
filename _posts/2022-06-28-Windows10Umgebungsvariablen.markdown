@@ -6,27 +6,9 @@ rating: 4
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
-Hallo mein Name ist Štefan. Sie können mir nicht eine Schicht verkaufen wenn sie
-nicht eine Bedienungsanleitung haben in der steht wie Breit die zwei Schichten sind
+![image](https://user-images.githubusercontent.com/75255909/176505083-f7a6354b-c091-442d-ad5c-f51a921859b4.png)
+![image](https://user-images.githubusercontent.com/75255909/176505228-7baa9a65-d97b-4b8e-82cf-0c9e92e7e488.png)
 
-nachdem sich eine abschaltete.
+![image](https://user-images.githubusercontent.com/75255909/176505324-153f183c-066f-46f3-b5e8-86cdbb16065d.png)
 
-lambda zähler verbunds zuweisungs operator brain storming
 
-+=
-
-also ist oben ein headshop und deswegen hieß es nur es ist ein operator ohne name
-
-Das tipp ich nur weil ich schlechte Laune habe weil mir langeweile ist
-
-Hallo mein ist Ochop ich bin Krzlvlrz sie wissen schon die mit den vier bunten Farben
-nicht nur von dem LinHust
-
-Ich verkaufe ihnen ein halbes lambda gaerret Holländer nicht Schuwede Lunkvist gibt es nicht
-den auch nicht er ist wahn sinnig geworden.
-
-Etne ich schvief ab. Nach dem Vulkan eine lambda += lambda ist ist lambda += 1 nicht lamda
-
-sonderfall lambda += 1 nicht lambda ist in lambda += lambda weil 2 = 1 mit kianti
-
-wollen sie kaufen schrt aus.
