@@ -13,12 +13,22 @@ Das ist ein Arduino
 ![image](https://user-images.githubusercontent.com/75255909/178091748-bab24742-78cf-48d0-845b-0279df2e330b.png)
 
 https://www.youtube.com/watch?v=D29ZfSasjVk
-![image](https://user-images.githubusercontent.com/75255909/178091777-8799611c-73c4-42af-88dd-3e429c409e93.png)
+![image](https://user-images.githubusercontent.com/75255909/178124971-47ebea97-8b0c-4cd3-9c0a-c555aeb2e47a.png)
+
+Spannend. Mit der Form hatte ich zwei PictureBoxen geladen und die linke PictureBox ist mit einem Bild geladen.
+Spannend ist, dass ein Eigentum der PictureBox ist das Zoom verwendet wird und das Bild wirklich nur mit dem
+
+Format geladen ist das Verfügbar ist. Noch immer, jedesmal wenn ich den windows Texteditor verwende, drücke ich
+erst die Entertste und dann die Tabulatortaste um ein gefühl dafür haben zu können, dass ich windows nicht
+
+entwickelt habe.
+Das was ich noch angeben möchte ist, dass das Bild nicht Formfüllend in der PictureBox geladen wurde.
 
     Public Class Form1
     Public TheeasiestWay As New MyButtons
     Public WieErwartet As New MyPictureBoxes
     Public InsOffeneMesser As New MyLabel
+
     Public Sub New()
 
         ' Dieser Aufruf ist für den Designer erforderlich.
@@ -46,5 +56,9 @@ https://www.youtube.com/watch?v=D29ZfSasjVk
         TheeasiestWay.KnopfZwei(TheeasiestWay.AimedSteam)
         TheeasiestWay.KnopfEins(TheeasiestWay.StummbleUpon)
         Controls.AddRange({TheeasiestWay.StummbleUpon, TheeasiestWay.AimedSteam, TheeasiestWay.UkeViolent})
+    End Sub
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles Me.Load
+        WieErwartet.ZoomOut.Image = New Bitmap(Image.FromFile("C:\Users\plane\OneDrive\Bilder\expand.jpg"))
     End Sub
     End Class
