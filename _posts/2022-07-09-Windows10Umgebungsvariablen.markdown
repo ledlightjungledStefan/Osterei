@@ -13,52 +13,9 @@ Das ist ein Arduino
 ![image](https://user-images.githubusercontent.com/75255909/178091748-bab24742-78cf-48d0-845b-0279df2e330b.png)
 
 https://www.youtube.com/watch?v=D29ZfSasjVk
-![image](https://user-images.githubusercontent.com/75255909/178124971-47ebea97-8b0c-4cd3-9c0a-c555aeb2e47a.png)
+Die Mediendatei hat als Inhalt csharp c# Dateien. Nachdem doch mit der auch Konvertoberfläche in der Seite telerik
 
-Spannend. Mit der Form hatte ich zwei PictureBoxen geladen und die linke PictureBox ist mit einem Bild geladen.
-Spannend ist, dass ein Eigentum der PictureBox ist das Zoom verwendet wird und das Bild wirklich nur mit dem
+nicht alle Zeilen überstezt werden können kann mir möglicherweise bei meiner Frage im Q&A Microsoft Konto
+https://docs.microsoft.com/en-us/answers/questions/920923/pixel-manipulation-written-in-csharp-needs-more-th.html
 
-Format geladen ist das Verfügbar ist. Noch immer, jedesmal wenn ich den windows Texteditor verwende, drücke ich
-erst die Entertste und dann die Tabulatortaste um ein gefühl dafür haben zu können, dass ich windows nicht
-
-entwickelt habe.
-Das was ich noch angeben möchte ist, dass das Bild nicht Formfüllend in der PictureBox geladen wurde.
-
-    Public Class Form1
-    Public TheeasiestWay As New MyButtons
-    Public WieErwartet As New MyPictureBoxes
-    Public InsOffeneMesser As New MyLabel
-
-    Public Sub New()
-
-        ' Dieser Aufruf ist für den Designer erforderlich.
-        InitializeComponent()
-        MethodThree()
-        MethodTwo()
-        MethodOne()
-        ' Fügen Sie Initialisierungen nach dem InitializeComponent()-Aufruf hinzu.
-        With Me
-            .Location = New Point(100, 100)
-            .Size = New Size(1100, 700)
-        End With
-    End Sub
-    Sub MethodThree()
-        InsOffeneMesser.KontaijnerGaeng(InsOffeneMesser.GerundBindung)
-        Controls.Add(InsOffeneMesser.GerundBindung)
-    End Sub
-    Sub MethodTwo()
-        WieErwartet.BildKisteZwei(WieErwartet.ZoomOut)
-        WieErwartet.BildKisteEins(WieErwartet.StreamFight)
-        Controls.AddRange({WieErwartet.ZoomOut, WieErwartet.StreamFight})
-    End Sub
-    Sub MethodOne()
-        TheeasiestWay.KnopfDrei(TheeasiestWay.UkeViolent)
-        TheeasiestWay.KnopfZwei(TheeasiestWay.AimedSteam)
-        TheeasiestWay.KnopfEins(TheeasiestWay.StummbleUpon)
-        Controls.AddRange({TheeasiestWay.StummbleUpon, TheeasiestWay.AimedSteam, TheeasiestWay.UkeViolent})
-    End Sub
-
-    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles Me.Load
-        WieErwartet.ZoomOut.Image = New Bitmap(Image.FromFile("C:\Users\plane\OneDrive\Bilder\expand.jpg"))
-    End Sub
-    End Class
+Danke und schönes ausklingendes Wochenende wünsche ich allen.
