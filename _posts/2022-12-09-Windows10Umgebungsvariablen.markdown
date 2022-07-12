@@ -31,7 +31,7 @@ soll. Misstrauen, dass sich zu Paranoia ausdehnt ist nicht nur FakeNews. Ich leb
 den oder der zu helfenden sprechen lasse und minimal Fragen stelle.
 
 Was sehen Sie. Können Sie Ihr Sichtfeld loslassen und sich nur auf Ihr Gleichgewicht konzentrieren. Das
-Gleichgewicht das für den Maßstab Ihres Körpers und die Pysionomie der ergonomischen Bewegungsfreiheit ideal
+Gleichgewicht das für den Maßstab Ihres Körpers und die Physionomie der ergonomischen Bewegungsfreiheit ideal
 
 für Sie ist? DD. Dare Devil, der Blinde mit der Barrierfreiheit nicht auf sein AugenLicht rücksicht nehmen zu
 müssen. Ich bin nicht DareDevil aber auch nicht der Punisher der meiner Lebensweise zu folge, falls noch nicht
