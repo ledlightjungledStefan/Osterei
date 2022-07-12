@@ -15,6 +15,32 @@ Das ist ein Arduino
 [C# Events & Delegates Part 2](https://www.youtube.com/watch?v=D29ZfSasjVk)
 Um eine Übersetzungsmöglichkeit von c# nach vb.net finden zu können beginne ich ein neues Projekt.
 
+Was sehen Sie auf Ihrem Bildschirm. Ich kann es nicht genau erkennen auf meinem Bildschrirm was ich Ihnen sagen
+könnte. Ich habe schon einmal von der amerikansichen Radiosendung gehört wo lebhaft von der Landung von Aliens
+
+berichtet wurde und scheinbar eine Familie Selbstmord begangen hat um sich vor Übergriffen zu schützen. Außerdem
+wußte ich damals nicht von einem Bericht den ich entweder auf ORF oder ARTE sah, das eine Familie mit dem
+
+Namen Staufenberg keinen Kontrollierten Selbstmord begang indem der Stammhalter eine Granate beim Mittagessen
+unter dem Wohnzimmer Tisch gezündet haben soll. Sehr oft weiß ich nicht welche Geschichten nur Geschichten sind
+
+und welche Geschichten nur Wiederholungen von Geschichten wie zum Beispiel die Heute Nachricht, dass ein
+narzisstischer Stammhalter seine Frau vor getötet haben soll mit der er vier oder fünf Kinder gehabt haben
+
+soll. Misstrauen, dass sich zu Paranoia ausdehnt ist nicht nur FakeNews. Ich lebe so das ich bei Hilfeanfragen
+den oder der zu helfenden sprechen lasse und minimal Fragen stelle.
+
+Was sehen Sie. Können Sie Ihr Sichtfeld loslassen und sich nur auf Ihr Gleichgewicht konzentrieren. Das
+Gleichgewicht das für den Maßstab Ihres Körpers und die Pysionomie der ergonomischen Bewegungsfreiheit ideal
+
+für Sie ist? DD. Dare Devil, der Blinde mit der Barrierfreiheit nicht auf sein AugenLicht rücksicht nehmen zu
+müssen. Ich bin nicht DareDevil aber auch nicht der Punisher der meiner Lebensweise zu folge, falls noch nicht
+
+fertig programmiert wurde ausrückt und Shadowrun Rätsel, in meinem Fall in Form von Sudoku konfrontiert. Ich weiß
+wer ich bin und ich kann nur in meinem Rahmen rücksicht nehmen der für mein Gleichgewicht mir geignet scheint.
+
+Ich kann gesprächsbereit sein. Due Klassendatei die ich erstellte nannte ich PapierStreifen.
+
 Mein neues Projekt, PapierSchachtel. Mit meinem Deluxe250 Logitech kann ich die rechte Strg Taste erreichen.
 Also kann ich für mich nur eine linke Taste als nächste erreichen, denn der Weg die entfernteste Taste zu
 
