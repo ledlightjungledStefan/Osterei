@@ -57,6 +57,9 @@ body {
 }
 </style>
 </head>
+body {
+    background-color: #59A1D3;
+}
 <body>
 
 <h2>Animated Button</h2>
