@@ -77,11 +77,58 @@ Den wievielten Atest hatten wit heute?
     End Sub
     End Class
 
-![image](https://user-images.githubusercontent.com/75255909/179051085-422be465-07e3-4d9b-8b40-1927819d9f7d.png)
+Nachdem Set eine beliebige Stelle sein kann währe Get eine Funktionsgleichung und in Windows gab es nicht schon alle Beispiele.
+Der zweite nachfolgende Link ist nicht mit einer Funktionsgleichung und außerdem mit nicht mit Operatorenzeichen.
 
-Und last but not least:
+Das Beispiel das ich zusammenstellte ist folgendermassen:
 
-![image](https://user-images.githubusercontent.com/75255909/179051246-1fa93505-31cb-435f-9ebc-89123587c0ef.png)
-![image](https://user-images.githubusercontent.com/75255909/179055606-dd50324b-6162-43b8-adeb-3e6807ae8523.png)
+    Public Class Form1
+    Dim FirstName, LastName As String
+    Property FullName() As String
+        Get
+            If LastName = "" Then
+                Return FirstName
+            Else
+                Return FirstName & " " & LastName
+            End If
+
+        End Get
+        Set(ByVal Value As String)
+            Dim Space As Integer = Value.IndexOf(" ")
+            If Space < 0 Then
+                FirstName = Value
+                LastName = ""
+            Else
+                FirstName = Value.Substring(0, Space)
+                LastName = Value.Substring(Space + 1)
+            End If
+        End Set
+    End Property
+    Function StringBrowser()
+        Return "MyFirstName MyLastName"
+    End Function
+    Dim StrangeOdds As String
+
+    Public Sub New()
+        StrangeOdds = StringBrowser()
+        MsgBox(StrangeOdds)
+        ' Dieser Aufruf ist für den Designer erforderlich.
+        InitializeComponent()
+
+        ' Fügen Sie Initialisierungen nach dem InitializeComponent()-Aufruf hinzu.
+
+    End Sub
+    End Class
+
+dER aUSDRUCK IST
+![image](https://user-images.githubusercontent.com/75255909/179172075-0158474b-87ae-49e5-b277-bd6186b699ae.png)
+
+[Isolation - Mind Field (Ep 1) - YouTube](https://www.youtube.com/watch?v=iqKdEhx-dD4)
+[SET ein beliebtes Kartenspiel](https://ledlightjungledstefan.github.io/Osterei/assets/SET%20INSTRUCTIONS%20-%20GERMAN.pdf)
+
+[GET oder SET in Windows](https://docs.microsoft.com/de-at/dotnet/visual-basic/programming-guide/language-features/procedures/how-to-create-a-property)
+Ich empfehle noch zusätzlich den Link
+
+[Ausgaben von Funktionen müssen nicht in sich geschlossen sein](https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/procedures/function-procedures)
 
 Ist in Arbeit!
