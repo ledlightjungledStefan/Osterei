@@ -6,22 +6,21 @@
         <title>TITAN</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#157878">
-    <style>
+<style>
 .center {
   margin: auto;
   width: 60%;
-  border: 3px solid #73AD21;
+  border: 3px solid #7e099f;
   padding: 10px;
 }    
-.outer {
+/*.outer {
   width: 800px;
   height: 300px;
   top: 300px;
   left: 400px;
   overflow: scroll;
-  padding-left: 150px;
-      }  
-    </style>
+  padding-left: 150px;}*/  
+</style>
 <link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/normalize.css">
 <link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/cayman.css">
         <link rel="stylesheet" href="/Osterei/assets/css/BackgroundcolorApfelErbse.css">
@@ -41,19 +40,17 @@
   <h1>Blog Posts Site Case</h1>
 
     </section>
-    <div class="center">    
+<div class="center">    
     <div class="outer">
         <p>Ohne eine Speicherstelle kann für die Suche nach einer<br>
         Property, ein Rechteck einer Kontrolle oder diverse<br>
         Funktionen, eine Public Verschlüsselungsebene<br>
         ein und Ausgetragen werden.</p>
-      <p>
-        Das Quadrat hat eine Seitenlänge und eine Diagonale.
+        <p>Das Quadrat hat eine Seitenlänge und eine Diagonale.
         Eine halbe Diagonale ist nicht so lang wie eine halbe Seite.
         An einer Ecke ist immer nur ein Kreis.
         Alle Kreise können unterschiedlich groß sein.
-        Nicht alle Quadrate können Dreiecke fasen die mit den drei Eckpunkten immer alle Seiten berühren können.
-      </p>
+        Nicht alle Quadrate können Dreiecke fasen die mit den drei Eckpunkten immer alle Seiten berühren können.</p>
         <img src="/Osterei/assets/RootChakra.bmp">
         <img src="/Osterei/assets/VSVBTKen.bmp">
      </div>
@@ -64,6 +61,31 @@
       <a href="https://pastebin.com/MC8MeM8Y" class="btn">MyLabel Classfile</a>
       <a href="https://pastebin.com/RJkp5XBE" class="btn">MyButton Classfile</a>
     <a href="https://pastebin.com/UrC2yUKh" class="btn">MyListBox Classfile</a>
-    <a href="/Osterei/assets/PartialClass.pdf" class="broesel">Screen prints for the keyword partial</a>
+    <a href="/Osterei/assets/PartialClass.pdf" class="btn">Screen prints for the keyword partial</a>
+    <h1>User Interfaces in VB.NET: Windows Forms and Custom Controls</h1>
+    <p>page 25</p>
+    <h2>Delegates</h2>
+    <p>Delegates define the signature os a method. For example, they might indicate that_<br>
+        a function has a string return value, and accepts two integer parameters. Using a<br>
+        delegate, you can create a variable that points to specific method and invoke the<br>
+        method through the delegate.</p>
+    {% highlight vb.net %}
+        ' To define a delegate, identify the method's parameters and return type.
+        Public Delegate Function StringProcessFunction(Input As String) As String
+    {% endhighlight %}
+    <p>You can then create a delegate variable based on this definition:</p>
+    {% highlight vb.net %}
+        Dim StringProcessor As StringProcessFunction
+    
+        ' This variable can hold a reference to any method with the right signature.
+        ' It can be a shared method or an instance method. You can then invoke it later.
+        ' (Here we assume that our code contains a function named CapitalizeString.)
+        StringProcessor = AdressOf CapitalizeString
+    
+        ' This invokes the CapitalizeString function.
+        Dim returnValue As String = StringProcessor("input text")
+    {% endhighlight %}
+    <p>Besides being an interesting way to implement type-safe function pointers,<br>
+        delegates are also the foundation of .NET´s event handling.</p>
 </body>
 </html>
