@@ -132,3 +132,15 @@ Ich empfehle noch zusätzlich den Link
 [Ausgaben von Funktionen müssen nicht in sich geschlossen sein](https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/procedures/function-procedures)
 
 Ist in Arbeit!
+Und um wissenschaftlich weiter keine große Nummer sein zu müssen wählte eine KünstlerVideo wie das oben (mIND fIELD)
+
+![image](https://user-images.githubusercontent.com/75255909/179182843-63ebe9c8-f4fa-4cc2-bf4e-86336eae5af9.png)
+DEN, im Endeffekt ist mir wichtig im Kontextmenü der Windowsversion einen Eintrag haben zu können, wie Elektrizität
+
+funktionsmäßig stattfand. Und bezüglich Animationen gibt es derweilen jetzt wenn möglich später noch mehr Möglichkeiten
+entweder eine Bildabfolge eine Schablone die verschoben werden kann oder Wurflinien mit Pixel oder auch nicht.
+
+Dazu fand ich ein Video das ich für mich soeben erwähnt diesbezüglich einereihte.
+[The drawing advice that changed my life](https://www.youtube.com/watch?v=M6NsEDwHHiE)
+
+Der Titel ist nicht mein Titel. Auch habe ich keine Anfrage an den Author gestellt. Auch keinen Querverweis. Auch an den nicht.
