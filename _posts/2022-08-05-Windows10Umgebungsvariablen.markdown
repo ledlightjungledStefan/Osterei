@@ -173,6 +173,38 @@ könnte auch sein
 also ein Bezeichner für das was die Form nicht ist Me meiner Ansicht nach. Und Me ohne Beweis wurde möglicherweise
 gewählt weil im Internet angeschlossene Computer sich als Me identifizieren haben lassen können.
 
+Also machte ich es wie die grossen Schneefeldhasen in der Hitze. Mich gibt es einfach nicht. Um genau sein zu
+können mich gab es nicht vor dem nächsten Speichern. Ich verstehe das mit github pages und jekyll so, alle
+
+timer sind zu einer Hauptlaufzeit angeschlossen. Und wenn ich etwas nicht beweisen kann muss ich abspeichern
+und neu einwählen wenn ich nicht zu müde sein sollte.
+
+Weil live reload bedeutet für mich ich muss nicht zwischenspeichern. Schon, ich, weil ich die Technologie nicht
+verwenden kann und auch meine persönliche Reaktionszweit eher einem Schaf entspricht und nicht einem Schwertfisch.
+
+Und der Schwertfisch ist kein Palmgecko und das Schaf keine Wüstenspringmaus. Nun als ich im Karteikartenreiter
+von Visual Studio ein Menü, (NICHT SIE WISSEN SCHON DAS MENÜ), wählte welches auch mit der Steureungstaste Strg
+
+gedrückt halten und F2 antippen gewählt werden kann ist die Markierung unter der Karteikartenreiter darstellend
+Kunst so in etwa wie scratch, eine Porgrammiersprache, grafiken zum aneinanderreihen gebastelt wurden.
+
+Dann können Sie entweder mit dem Zeiger der "Maus" oder mit der "Tab" Tabulatortaste im mittleren Verzeichniss
+AUCH Ereignisse für die Form oder andere Kontrollen wählen und in dem Verzeichniss rechts davon ein passendes
+
+Ereigniss. In meinem Projekt ist gespeichert
+
+    Private Sub SmoothieMixer_SelectedIndexChanged(sender As Object, e As EventArgs) Handles SmoothieMixer.SelectedIndexChanged
+        Dim lb As ListBox = CType(sender, Control)
+        Me.squarecolor = lb.SelectedItem
+        Me.Invalidate()
+    End Sub
+
+![image](https://user-images.githubusercontent.com/75255909/183085151-919afcaf-94d3-47a4-840a-3cd40ef7fb22.png)
+![image](https://user-images.githubusercontent.com/75255909/183085439-1f884176-4b04-40f5-a6a0-27aef8b5f53b.png)
+
+![image](https://user-images.githubusercontent.com/75255909/183085560-fde0225b-5aff-4ef3-b931-787ef78d7a99.png)
+
+
 [SET ein beliebtes Kartenspiel](https://ledlightjungledstefan.github.io/Osterei/assets/SET%20INSTRUCTIONS%20-%20GERMAN.pdf)
 riharstefan@aon.at
 
