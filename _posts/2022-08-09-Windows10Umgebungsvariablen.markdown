@@ -284,3 +284,5 @@ riharstefan@aon.at
         Me.Invalidate()
     End Sub
     End Class
+
+Zum Wort Namespace eine Dimension kann sowohl der Inhalt einer Klasse ein Dateiinhalt, als auch die Textverabreitung für eine Ausgabe sein.
