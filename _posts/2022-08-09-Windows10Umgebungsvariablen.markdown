@@ -7,6 +7,44 @@ image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
 
+Zum Wort Namespace eine Dimension kann sowohl der Inhalt einer Klasse ein Dateiinhalt, als auch die Textverabreitung für eine Ausgabe sein.
+Nach dem
+
+[ListControl.ValueMember Property](https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.listcontrol.valuemember?view=windowsdesktop-6.0)
+
+Aufruf,
+sind meine ersten Fragen: Wie bilde ich ein Rechteck?
+                          Wie bilde ich ein zweites Rechteck?
+                          Wie bilde ich aus zwei Rechtecken ein Quadrat?
+                          Was ist eine Unterscheidungsmöglichkeit wenn möglich Barrierefrei?
+
+![image](https://user-images.githubusercontent.com/75255909/184102768-771fea53-c878-40b6-a297-b74386ed4c1c.png)
+
+    Public Class HuegelKette
+        Private myShortName As Integer
+        Private myLongName As String
+    End Class
+    Public Sub New()
+
+        Dim USStates As New ArrayList()
+        USStates.Add(New HuegelKette("Alabama", "AL"))
+        USStates.Add(New HuegelKette("Washington", "WA"))
+    End Sub
+
+Auch die Programmiersprache VBNet hat eine Geschichte. Ring the Bell. Oder, Ring the integer name FE -> 8 .
+Ein anderes Wort für integer ist passend. Also wenn ihr Name Gustav Gans währe dann könnte ihr integer Name
+
+sein Glück passend und im Bereich ganzer Zahlen. Zum Thema ganze Zahlen habe ich nur zu sagen ganze Zahlen
+sind möglich weil Gleitkommazahlen FE 4,3 verwendet werden können. Ich wählte 4,3 weil ein Teilbereich von
+
+Net ist LINQ der nur für Gleitkommazahlenreihen verwendet wurde. Also wenn weiße Mäuse kontrolle haben CSV
+comma und LINQ comma haben die Labormäuse die Weltherrschaft und nicht die Quallen. Diesmal.
+
+Meersbewohner haben wohl nicht das Problem ob sie den Strom schon wieder erfunden haben oder erfinden müssen.
+Möglicherweise oder welcher Bug muß in ein Ruder verwandelt werden mit welchem Passwort.
+
+Normal. To be continued.
+
 Ich habe in meinem Zwischenspeicher einen Bildschirmdruck den ich mit der Drucktaste rechts neben der F12
 Taste löste. In meinem Fall verwendte ich löste weil ich loslassen konnte von einer Massstabs treuen
 
@@ -218,4 +256,3 @@ riharstefan@aon.at
 ![image](https://user-images.githubusercontent.com/75255909/179389170-dc39cad9-d3b1-468d-ac83-206a11e989aa.png)
 
 [Project file content](https://pastebin.com/uirVq2Bc)
-Zum Wort Namespace eine Dimension kann sowohl der Inhalt einer Klasse ein Dateiinhalt, als auch die Textverabreitung für eine Ausgabe sein.
