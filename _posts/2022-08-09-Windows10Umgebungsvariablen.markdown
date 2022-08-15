@@ -31,228 +31,233 @@ sind meine ersten Fragen: Wie bilde ich ein Rechteck?
         USStates.Add(New HuegelKette("Washington", "WA"))
     End Sub
 
-Auch die Programmiersprache VBNet hat eine Geschichte. Ring the Bell. Oder, Ring the integer name FE -> 8 .
-Ein anderes Wort für integer ist passend. Also wenn ihr Name Gustav Gans währe dann könnte ihr integer Name
+Wieso ist eine Speicherstelle kein Kondensator? Von 100 bis 1.000.000 bei einer Millionenshow. Für 100. Weil ersetzen
+nicht verwenden sein sollte.
 
-sein Glück passend und im Bereich ganzer Zahlen. Zum Thema ganze Zahlen habe ich nur zu sagen ganze Zahlen
-sind möglich weil Gleitkommazahlen FE 4,3 verwendet werden können. Ich wählte 4,3 weil ein Teilbereich von
+Michaela Muthig hat ein Buch drucken lassen. Auf Seite 18 Zeile 13 Zeichen 48 began der Satz mit einem D. Die Bingo
+Zahl unter meiner D Taste ist C4.
 
-Net ist LINQ der nur für Gleitkommazahlenreihen verwendet wurde. Also wenn weiße Mäuse kontrolle haben CSV
-comma und LINQ comma haben die Labormäuse die Weltherrschaft und nicht die Quallen. Diesmal.
+Der Satz aus dem Buch ist "Das Einzige, worauf sie noch stolz sein konnte, waren ihre Unbeugsamkeit und ihre Prinzipstärke."
+Für mich ist es möglich gewesen schon mit Seite 19 nicht mehr von links nach rechts lesen zu müssen.
 
-Meersbewohner haben wohl nicht das Problem ob sie den Strom schon wieder erfunden haben oder erfinden müssen.
-Möglicherweise oder welcher Bug muß in ein Ruder verwandelt werden mit welchem Passwort.
+Meine Antwort mit dem Satz ist Nein. Auch der nächste Satz auf Seite 18 für mich mit Nein beantwortet. "Der Saboteur hatte"
+"ganze Arbeit geleistet und eine ausweglose Situation geschaffen."
 
-Normal. To be continued.
+Ich kaufte das Buch im Libro. Nach dem lesen meine Erklärung und dann meine Antwort. Erster Satz des Buches auf dieser
+Seite wiedergegeben, "Jeder Mensch besteht aus mehreren Persönlichkeitsanteilen, und nicht immer sind sich alle Anteile"
 
-Ich habe in meinem Zwischenspeicher einen Bildschirmdruck den ich mit der Drucktaste rechts neben der F12
-Taste löste. In meinem Fall verwendte ich löste weil ich loslassen konnte von einer Massstabs treuen
+"einig." Für meine Gesundheit wählte ich mein denken einheitlich, sprich Erinnerungen und das Gleichgewicht für Abstände
+zu Lebewesen ist mir nicht wichtiger als meine Gesundheit.
 
-Übersetzung der Speicherstellen. Der Bildschrimdruck ist mit einem Abbild meiner Visual Studio Oberfläche.
-Mit dem nachfolgendem Beispiel habe ich mittlerweile den Versuch gestartet auch die Farbfläche zu ändern.
+Alle Anteile also Körperorgane können sich nur einig gewesn sein. Meine Antwort für mich Nein.
+"Der Obermufti, seines Zeichens Gedankenminister und Chef der kognitiven Regierung, versuchte angesterngt, sich Gehör zu"
 
-Ich werde mit dem Zeigegerätzeiger das Programm Paint mit einem Tippklick starten. Es ist schon offen dennoch
-verwende ich das Wort starten nochmal. Und mit dem Befehl "Einfügen" im Karteikartenreiter "Start" den Bild
+"verschaffen." Ich Anteil an der Käsewahlweise und die emotionalen Verbinungen im Libro versuchte mir nicht Gehör zu
+verschaffen. Nein.
 
-schirmdruck sehen. Den Bereich "Einfügen" zum lösen der Markierung um den Bildschirmdruck werde ich erst
-Tippklicken wenn ich den Bildschirmdruck nach links oben verschoben haben werde.
+""Meine Damen und Herren", hob er an, "ich sehe, Sie sind alle sehr aufgeregt, aber ..."". Liebe Pappkameradinen und
+Pappkameraden. Nein.
 
-Den Kontrolle FormEinsBereich, den oberen Rand, werde ich ausserhalb des sichtbaren Bereichs verschieben
-nur um die Formoberfläche mit dem grauen Hintergrund von links oben nach rechts unten im linken oberen
+"Weiter kam er nicht, da er gleich von mehreren Personen unterbrochen wurde." Sind persönliche Fürwörter anonymisierte
+Namen? Nein.
 
-sichtbaren Bereich des Programmes Paint loslassen zu können mit noch einem Tippklick des Befehls "Einfügen".
-Mein Ziel ist es danach im Karteikartenreiter Anischt das Kontrollkästchen für das Linieal zu betätigen.
+""Wie kann es denn sein, dass dieses Projekt schon wieder gescheitert ist?", fragte der innere Kritiker scharf." Mir
+wurde kein scheiterndes Projekt zur verfügung gestellt. Nein.
 
-Nach dem Ziel fahre ich mit dem Zeiger des Zeigergerätes zur Formoberfläche mit dem grauen Hintergrund nach
-rechts unten um mit dem gdrückt halten der Zeigergerättaste nach rechts oben fahren zu können.
+""Wir werden nie Erfolg haben!", schluchtzte der Angsthase mit hoher und durchdringender Stimme dazwischen." Kann das
+sein? Nein.
 
-Den markierten Bereich kann ich danach im Kartekartenreiter "Start" zuschneiden lassen. Der Befehl "Zuschneiden"
-ist derzeit in einer Grautonfarbe die als Hinweis dient das der Befehl nicht betätigt werden kann.
+""Alle werden merken, dass wir unfähig sind"." Ich konnte ja sagen und für meine Gesundheit sage ich für mich Nein. Nein.
+"Wieder stieg der Geräuschpegel, und der Obermufti hatte Mühe, die Menge zur Ruhe zu bringen."
 
-Erst nach dem markieren ist eine Hinweisfarbe sichtbar die mit den schon gewonnen Erfahrungen als Hinweis dienen kann, dass
-der Befehl verwendet werden könnte um nur den Teilbereich der zugeschnitten werden soll als Bearbeitungsoberfläche
+Organe Käsesorten einzuteilen ist kein Diskusionsgeräuschpegel. Nein. ""Eure Exzellenz" - eine tiefe und klare Stimme"
+"ertönte und der Obermufti wandte sich erleichtert dem Sprechenden zu."
 
-zugeschnitten zu haben. Unter dem Befehl "Einfügen" im Karteikartenreiter "Start" ist ein kleiner Pfeil mit dem
-mittels eines TippKlicks ein Panel geöffnet werden kann in dem der Befehl "Alles Auswählen" eingetragen ist.
+Nein. ""Herlock Sholmes! Wie gut, dass Sie da sind. Was sagen Sie zu dem ganzen Schlamassel?" Herlock war der analytische"
+"Anteil und zudem ein Meisterdetektiv."
 
-Nach dem Auswählen kann ich eine Kopie der markierten Oberfläche drücken? Die Kopietaste? kann ich im Kontextmenü
-finden. Das Kontextmenü kann ich mit einem TippKlick des Zeigergerätes öffnen lassen.
+Nichts. Type script hat was mit Datentypen zu tun und sind keine Quallenchips der Dänen zumindest einem Artikel einer
+Zeitung nach. Der Artikel Dänen erfinden Quallenchips sind keine Polizeiautos die um einen Müllwagen kreisen.
 
-Und auf dieser Seite im Kontextmenü mit dem Befehl "Einfügen" laden lassen. Die "Form" hat nun auch eine ListBox.
-Die LisBox ist auf der Kopie des Teilbereichs des Bildschirmdrucks nur eine grauer Rand mit weissem Hintergrund.
+Die Recyclingstationen der Weltmeere Quallen produzieren Gifte beim Recyclen. Nein.
+"Mit seinem scharfen Verstand analysierte er Probleme und fungierte als Berater der kognitiven Regierung." Nein.
 
-![image](https://user-images.githubusercontent.com/75255909/183038049-a2b9d3e5-bafb-4471-9b19-71c1e476d6d2.png)
-Mit Windows, ich habe meine Windowsversion nicht mit anderen überprüft, ich schätze das gilt für mehrere
+""Eure Exzellenz", begann er nochmals. "Ich glaube, ich habe die Ursache für das Scheitern des Projekts entdeckt"."
+Nein.
 
-Windowsversionen, ist die Fläche die zugeschnitten wurde auch druckbarer Bereich und hat die Eigenschaft sich nach
-dem Format des Druckerblattes, in meinem Fall das Format das ich nicht becherrsche A4, über die größere Fläche
+""Ich bin der Überzeugung, dass wir sabotiert werden", erklärte er." Nachdem ich nicht Obermufti und Herlock Sholmes sein
+kann, Nein.
 
-eigentlich die gesamte Fläche des A4 Blattes aber nicht ganz, kommt auf die Seitenränder an, gedruckt. Also es wird
-nicht nach dem Zuschnitt im vergleich zur restlichen Fläche des Programmes Paint der "ideale" Teilbereich gedruckt.
+""Natürlich!", rief der Obermufti erleichtert." Falls es gerufen worden währe. Nein.
+""Wir werden ganz klar sabotiert"." Möglich bis Seite 18 aus meiner Sicht. Ja.
 
-Nach meiner Frage auf der Seite
-[MonkeyIslandSoft respektive Microsoft Q&A How to chose a fillrectangle color form a listbox list entry?](https://docs.microsoft.com/en-us/answers/questions/951468/how-to-chose-a-fillrectangle-color-form-a-lisbox-l.html?childToView=956177#comment-956177)
+""Ich bemerke schon lange, dass unser Nachbar neidisch ist, und der Kollege von nebenan ..."" Nein weil oberflächlich
+kein Aberglaube ist.
 
-ist die Möglichkeit zwei ListBoxen zu haben und sowohl Farbe als auch Koordinaten zu ändern schon gewährleistet.
-Meine "Insel" muss ich für mich denoch weiter bearbeiten mit den Themen DataSource, DataBindings und Attributs
+""Nein, Eure Exzellenz. Wir werden nicht von außen sabotiert. Es ist einer von uns"." Minions können einen violeten
+Zustand haben und einer alleine ist kein Passwort. Ja.
 
-den DataSource währen die schon gespeicherten Speicherstellen und DataBindings die Speicherstellen nach dem aktualisiern
-mit der gewohnten und regional bekannten Rechenarchitektur.
+""Von uns? Von unserem inneren Persönlichkeitsteam?!" Der Obermufti war so schockiert, dass er sich in den nächstbesten"
+"Sessel fallen ließ, ungeachtet der Tatsache, dass dort schon der Jammerlappen saß." Nein.
 
-Eine Eigenschaftenliste für Farben habe ich nur soweit in Reichweite, dass ich das Thema weiter führen lernen kann. Mit dem
-Bildschirmdruck
+"Mit großen Augen starrte er den Meisterdetektiv an." Ich teilte mich nicht ungeachtet in der Personen. Nein.
+""Aber ...aber das ist doch nicht möglich? Wer ... wer ist es?""
 
-![image](https://user-images.githubusercontent.com/75255909/183041648-01f1750a-0823-41da-9c84-3d530fe0b3cc.png)
-währen in einem fertigen Programm neben den Farbnamen auch möglichen Eigenschaften berücksichtigbar.
+"Kann es sein, dass wir einen inneren Saboteur haben, der uns absichtlich behindert und uns systematisch schadet?"
+Ich stellte mir die Frage ein Schwächeanfall? Nein.
 
-Mit dem Beispiel weiter unten ergänzt mit einer ListBox abrufbar nach dieser Leserichtung und
+"Diese Frage haben Sie sich vielleicht auch gestellt, als Sie dieses Buch zur Hand genommen haben."
+Horten. Nein.
 
-        With SmoothieMixer
-            .Location = New Point(450, 100)
-        End With
+"Es fällt uns schwer zu verstehen, warum es in uns solch einen destruktiven Persönlichkeitsanteil geben soll." Hm.
+"Und doch ahnen Sie, dass es so sein muss." Ja.
 
-wenn das Abrufgerät die Darstellung unterstützt mit dem link
-[Pastename NoScreenWithoutCircuits](https://pastebin.com/hP3QNa9B)
+"Seine Existenz erklärt, warum Sie bisher immer wieder an bestimmten Zielen gescheitert sind, obwohl Sie sich doch"
+"schon so lange um einen Erfolg bemühen." Nein.
 
-könnte eingefügt werden
+"Erinnern Sie sich einmal an all die Vorhaben, die Sie schon seit Jahren mit sich herumtragen, ohne einen bedeutenden"
+"Schritt weitergekommen zu sein." Ok.
 
-            .Size = New Size(200, 160)
-            
-und ein unübliches Wort aus der literatur MISTGABEL. Die MISTGABEL. Im englischen meiner Ansicht nach FOGFORK.
-Die handelsübliche Mistgabel ist mindestens 10 Kilo schwer. Das Metall, die legierung, geeignet das Werkzeug
+"Und denken Sie gleichzeitig an all die Kompetenzen, die Sie haben, und an das Wissen, auf das Sie zugreifen können."
+Ja.
 
-vorsichtig in der Mitte zu halten und auf der Erdoberfläche abzulegen. Das Photon ist kein Elektron. Zweifelnd
-ob ich ein Feld bstechen BEt und der Eimer so ein Eifer Wasser halten zu können rechen auch zulässt, sicher,
+"Rein logisch betrachtet, müssetn Sie Ihre Probleme schon längst bewältigt haben." Ja.
+"Es sei denn, Sie werden gezielt und heimlich sabotiert." Nein.
 
-also ein Feld. Wo ist der Unterschied ob ich einen Stein in Ein Fled lege oder danach ein Ei:. Wo ist die
-Mistgabel, fragte ich mich. Da drüben. Also nicht beim Ei. Gut. Also was suchen Schafe Wölfe Schimpansen
+"Aus Sicht des Saboteurs ist Selbstsabotage ein notwendiger Schritt, um Ihre persönliche Integrität und Ihren"
+"Selbstwert zu schützen." Nein.
 
-Gibons Leminge Dodos und Menschen. Felder. Die Schafe provozieren die Wölfe Schafe zu sein und in meiner
-Welt wissen das die Lemminge. Denoch ist diese Diskusion so schwer das ich auch nur Mensch bin. Und weil
+"Da er einer vollständig eigenen Logik folgt, können wir diese Argumentation jedoch kaum nachvollziehen." Nein.
+"Erst wenn wir akzeptieren, dass seine Gedankenwelt nicht unserer entspicht, können wir unseren Saboteur besser"
 
-ich ein Mensch bin sind meine FreundInen nicht copy and paste aber es ist praktisch solange keine Fehlermeldung
-erklärt werden muss. Von mir. Und copy and paste muss auch nicht erklärt werden auch nicht mit
+"verstehen." Ja.
+"Als ich vor Jahren in einer psychosomatischen Klinik zu arbeiten begann, musste ich auch erst einmal vieles hinterfragen"
+", was ich bislang zu wissen glaubte." Im Libro. Nein.
 
-         Dim ColorNames(), ColorName As String
-         ColorNames = System.Enum.GetNames(GetType(KnownColor))
-         Dim cnvrt As TypeConverter = TypeDescriptor.GetConverter(GetType(KnownColor))
-    
-         For Each ColorName In ColorNames
-             ColorObjList.Add(Color.FromKnownColor(cnvrt.ConvertFromString(ColorName)))
-         Next
-         
-Dennoch gibt es Fehlermeldungen ohne
+"Viele Verhaltens- und Sichtweisen der Patineten waren mir neu und unbegreiflich." Der MitarbeiterInen des Libros? Nein.
+"Ich lernte nach und nach, dass ein und dasselbe Ereignis ganz unterschiedlich wahrgenommen und begründet werden konnte."
 
-         Imports System.ComponentModel
-         
-und
+Ja.
+"Offensichtlich waren wir alle in zahlreichen Parallelwelten unterwegs, und jede einzelne hatte ein ganz spezielles"
 
-         Public ColorObjList As New ArrayList
-         
-Und mit meinen näherrückenden Erfahrungswerten ist es immer der Beweis der Stress macht. Erfahrung wo ist am Computer
-Erfahrung sichtbar?
+"Muster." Nein.
+"So wurde ich durch meine Arbeit zu einer Forschungsreisenden und erkundete immer mehr dieser inneren Gedanken- und"
 
-        BarrierField.DataSource = ColorObjList
-        
-Das ist kein Beweis und keine Antwort das ist nur eine Speicherstelle. Ich hab ja keine Erfahrung auch nicht
-alleine oder gemeinsam. Hab ich nicht. Ich weiß nicht wer den Text dieser Seite lesen konnte. Und das ich
+"Erlebniswelten." Zu einer Forschungsreisenden Parallelwelt um das weibliche Fürwort sie tippen zu können. Immer mehr
+Forschungsreisen. Nein.
 
-die ListBox weiter oben SmoothieMixer nannte. Und nachdem ich keine Bestättigungsmöglichkeit erfragen kann
-bei Pictogrammen die neben Weibchen oder Männchen angebracht wurden ändere ich das "Barriere Feld" in einen
+"Dabei kam ich mit den unterschiedlichsten Persönlichkeitsanteilen in Berührung." Gefängnisen zu Urteilen würde ich sagen
+Provokant ist ein schwieriges Thema. Blind.
 
-"SmoothieMixer". Farbverwaltung.
+"Den ersten bewussten Kontakt mit dem inneren Saboteur hatte ich in einem Gespräch mit einer Patientin, die unter"
+"massiven Schmerzen am ganzen Körper litt." Nein da ich beim Kauf des Buches weder Saboteur noch die Kassiererin
 
-        SmoothieMixer.DataSource = ColorObjList
+Patientin war. ""Die Arbeit hat mich krank gemacht", berichtete sie mir." Nein.
+""In dieser Arbeit bleibe ich"." Hm.
 
-Und nachdem ich ein Teil Europas bin konzentrierte ich mich nicht was die Archtiktektur im vergleich zu den
-Schaltkreisen sein soll sondern auf mit dem SmoothieMixer ist eine Oberfläche und auf der Oberfläche ist
+"Ich war verblüfft, glaubte mich verhört zu haben." Nein. Das Wort Schizophrenie hat sich schon eingebürgert. Erstes Schild.
+In dieser Arbeit bleibe ich, meine Arbeit macht mich nicht krank. Für mich. [Speicherstelle für hm]
 
-eine SmoothieMixer.
+""Sie wollen in einem Job bleiben, der Sie krank gemacht hat und vermutlich auch dafür sorgt, dass Sie weiterhin krank" "bleiben"?" Nein.
 
-        SmoothieMixer.DataSource = ColorObjList
-        With SmoothieMixer
-            .Location = New Point(450, 100)
-            .Size = New Size(200, 160)
-        End With
-        
-Und im englischen Sprachraum gibt es nicht nur fish und chips sondern auch sentences like
-"That's not a smoothie mixer".
+"Die Patientin bestätigte mir dies lebhaft nickend." Hm.
+"Für sie war es selbstverständlich und logisch, dass sie unter allen Umständen an ihrer Arbeit festhalten musste, da es"
 
-![image](https://user-images.githubusercontent.com/75255909/183071751-4b8a5ce8-d4fc-400d-b6ff-6fe0421e440c.png)
-Nun hier ist eine ListBox kein SmoothieMixer und eine Form keine Form1. Die Textfelder sind weder ein Smoothie
+"zu kränkend wäre, sich beim Arbeitsamt vorstellen zu müssen und auf Unterstützung angeweisen zu sein."  Ich bin kein
+Ermittler. Nein.
 
-und ein Mixer aber auch keine Form und eine 1. Und im chaotischen Wirbelsturm der Textfelder ist eine logische
-nächste Weise ein Schnaps. Ich habe
+""Wer nimmt mich denn sonst noch, jetzt wo ich solch ein körperliches Wrack bin"?" Für mich als ehemaligen
+Psychiatriepatienten ist mein Theaterbeitrag, ich: Ich gehe morgen nicht in eine Apotheke und bestelle ein Wrack
 
-        Dim blueBrush As New SolidBrush(Color.Blue)
-        
-Aus dem Beispiel und möchte es mit
+weil ich angehender Medizinstudent sein möchte. Ok.
+"Nein, ich werde darum kämpfen, diese Stelle zu behalten, und wenn ich dabei draufgehe." Mhm. Alleine? Mit einem Buch?
 
-        Public squarecolor As Color
-        
-verknüpfen. Also kann ich mit nur einem Schnaps den Namen squarecolor der keine Klasse Color ist mit einer
-Lerrstelle einem Operator ist gleich und noch einer Leerstelle ergänzen um dann die Klasse Color in ein
+"Diese Frau war fest entschlossen, sehenden Auges in die Katastrophe zu laufen." Welche?
+"Ihr war bewusst, dass diese Entscheidung ihr schaden würde, sie hatte aber zu große Angst, das Wenige an Selbstrespekt"
 
-Objekt zu ändern und mit einem Farbnamen "Green" zu verknüpfen und das ist nach dem Prozess nur eine
-Speicherstelle kein Fehler der Rechenarchitektur. Dann kann ich Color.Blue markieren zum Beispiel was
+", das ihr noch geblieben war, durch Arbeitslosigkeit aufs Spiel zu setzen." Also hm Angst ich würde nicht einen
+Saboteur als Verteidigung üben wollen.
 
-in meinem Fall ratsam ist weil ich nicht alles konzentrieren kann indem ich doppel Tippklicke auf das TextFeld
-Color die linke Umschaltetaste unter der Feststelltaste gedrückt halte und mit der Pfeiltaste nach rechts
+Mit bedacht sich retten lassen ist auch üblich bei Fragen die Existent sind. Bitte. Und der, für mich, krampflösende
+Satz, eine Frage: Für den Theaterbeitrag auf den Osterinseln zwei Sprachgruppen zu trennen, wie viele Millionenshows
 
-bis ans Ende des letzten Buchstaben die Felder markiere. Dann könnte ich squarecolor tippen. Und nachdem ich
-keinen Beweis führen kann ist alles nur ein Tipp weil, 
+sollen gewonnen werden? Oder ein Arbeitsamt mit dem auch Steuergelder ausgezahlt werden ist eine Wasseroberfläche.
+"Ihre Selbstachtung hatte sie aufgrund ihrer Schmerzen und ihrer nachlassenden Leistungsfähigkeit verloren."
 
-        LabelRectangle.squarecolor = lb.SelectedItem
-        
-könnte auch sein
+Nun hier zu meiner Schmerzgrenze. Nächster Theatereintrag: Nein Frau Ameise sie müssen nicht für mich arbeiten sie
+können am Sozialamt die Hackordnung haecken.
 
-        Me.squarecolor = lb.SelectedItem
-        
-also ein Bezeichner für das was die Form nicht ist Me meiner Ansicht nach. Und Me ohne Beweis wurde möglicherweise
-gewählt weil im Internet angeschlossene Computer sich als Me identifizieren haben lassen können.
+"Das Einzige, worauf sie noch stolz sein konnte, waren ihre Unbeugsamkeit und ihre Prinzipstärke." Die Paralellwelt
+im Buch. Die Seiten sind nicht unbeugsam und aus Papier und die Prinzipstärke nicht die oder eine Todesstarre.
 
-Also machte ich es wie die grossen Schneefeldhasen in der Hitze. Mich gibt es einfach nicht. Um genau sein zu
-können mich gab es nicht vor dem nächsten Speichern. Ich verstehe das mit github pages und jekyll so, alle
+"Der Saboteur hatte ganze Arbeit geleistet und eine ausweglose Situation geschaffen." Nein und ich konnte mir
+beweisen kein Saboteur zu sein.
 
-timer sind zu einer Hauptlaufzeit angeschlossen. Und wenn ich etwas nicht beweisen kann muss ich abspeichern
-und neu einwählen wenn ich nicht zu müde sein sollte.
+"Diese selbstzerstörerische Entschlossenheit, die mich heute noch beeindruckt, fand ich auch in anderen Lebensgeschichten"
+"wieder: Patientinnen mit Magersucht, die es in Kauf nahmen, an ihrem Untergewicht zu sterben, nur um nicht das letzte"
 
-Weil live reload bedeutet für mich ich muss nicht zwischenspeichern. Schon, ich, weil ich die Technologie nicht
-verwenden kann und auch meine persönliche Reaktionszweit eher einem Schaf entspricht und nicht einem Schwertfisch.
+"bisschen Macht und Kontrolle abgeben zu müssen." Oberflächlich kann ich das Thema nicht beenden und ich sollte
+oberflächlich anfangen können, Datenschutz ist kein trockenes Brot.
 
-Und der Schwertfisch ist kein Palmgecko und das Schaf keine Wüstenspringmaus. Nun als ich im Karteikartenreiter
-von Visual Studio ein Menü, (NICHT SIE WISSEN SCHON DAS MENÜ), wählte welches auch mit der Steureungstaste Strg
+Ein verwirrendes Beispiel von mir, ich anonymisierte meinen Namen NIKSMUZEN STEFAN.
+Soeben. Mein Name ist Stefan.
 
-gedrückt halten und F2 antippen gewählt werden kann ist die Markierung unter der Karteikartenreiter darstellend
-Kunst so in etwa wie scratch, eine Porgrammiersprache, grafiken zum aneinanderreihen gebastelt wurden.
+"Männer, die sich lieber in einen Burnout und körperlichen Zusammenbruch arbeiteten, nur um sich nicht die eigenen"
+"Belastungsgrenzen eingestehen zu müssen."
 
-Dann können Sie entweder mit dem Zeiger der "Maus" oder mit der "Tab" Tabulatortaste im mittleren Verzeichniss
-AUCH Ereignisse für die Form oder andere Kontrollen wählen und in dem Verzeichniss rechts davon ein passendes
+Powershell und Kiesel. Schlüsselantenne und
+"Frauen, die viel zu lange bei gewalttätigen Ehemännern blieben, nur um nicht öffentlich zugeben zu müssen, dass sie"
 
-Ereigniss. In meinem Projekt ist gespeichert
+"sich in der Partnerwahl geirrt hatten und die Familie doch recht behalten hatte." Das Wetter.
+"Sie alle hatten gemeinsam, dass sie das in ihrer Wahrnehmung einzig Richtige taten: hartnäckig den einen Weg zu"
 
-    Private Sub SmoothieMixer_SelectedIndexChanged(sender As Object, e As EventArgs) Handles SmoothieMixer.SelectedIndexChanged
-        Dim lb As ListBox = CType(sender, Control)
-        Me.squarecolor = lb.SelectedItem
-        Me.Invalidate()
-    End Sub
+"verfolgen, der ihnen scheinbar noch offenstand." Lies ließ liest sich Todesstrafe.
+Seltsamerweise mit dem was ich schon laß, ich laß nur bis Ende Seite 19. ist auf Seite 19 die fünfte Zeile
 
-![image](https://user-images.githubusercontent.com/75255909/183085151-919afcaf-94d3-47a4-840a-3cd40ef7fb22.png)
-![image](https://user-images.githubusercontent.com/75255909/183085439-1f884176-4b04-40f5-a6a0-27aef8b5f53b.png)
+"ihre Erkrankung und in eine Ausweglosigkeit hinein." Nach einer Todesstrafe eine Krankheit hinnehmen.
+"Dabei konnten sie nicht erkennen, was von außen so offenschtlich war: Erst durch diese Radikalität hatten sie sich"
 
-![image](https://user-images.githubusercontent.com/75255909/183085560-fde0225b-5aff-4ef3-b931-787ef78d7a99.png)
+"von allen anderen Möglichkeiten abgeschnitten und mit jedem Schritt auf diesem Weg manövrierten sie sich weiter"
+"in ihre Erkrankung und in eine Ausweglosigkeit hinein."
 
+Ich könnte den Text nicht ohne einen Strom tippen und habe kein Kontextmenüeintrag um verstehen zu können was ein
+Strom sein kann. Interstellar ist, für mich, eine Staustufe für einen Rand einer compact diskette eine Aufzeichnung
 
-[SET ein beliebtes Kartenspiel](https://ledlightjungledstefan.github.io/Osterei/assets/SET%20INSTRUCTIONS%20-%20GERMAN.pdf)
-riharstefan@aon.at
+nicht nachstellbar von mir und ich habe auch keine Fähigkeit Passwörter aus überlagernden Bild und Tonspuren neben
+den Speichrstellen für Schaltkreisweichen bilden zu können.
 
-[Meine Adresse und Telefonnummer](https://github.com/ledlightjungledStefan/Osterei/blob/gutenberggnu/_includes/adressof_dateiformat.png))
-![image](https://user-images.githubusercontent.com/75255909/179389068-463fa241-6681-4b4b-8cfb-0b2173e26bf2.png)
+"Der Saboteur löst durch seine Radikalität ein Selbstwertproblem, das wir ohne ihn gar nicht hätten." Nein.
+"Das alles trifft zum Glück nicht auf mich zu, mögen Sie nun vielleicht denken." ?
 
-![image](https://user-images.githubusercontent.com/75255909/179389093-ff10e30f-ffaf-4a7c-8a62-1b77ec399f16.png)
-![image](https://user-images.githubusercontent.com/75255909/179389143-4f8e0409-a5b0-4e24-8a2a-56ce005c3b85.png)
+"Irrtum!" ?
+"Selbstsabotagen kommen auch im ganz normalen Alltag vor und werden vom Betroffenen oft gar nicht bemerkt." Auf
+gut Glück. Ich kann der Eigenheit Selbssabotage nicht entkommen, denn mein Ziel währe ein regionales
 
-![image](https://user-images.githubusercontent.com/75255909/179389160-e7e6c27b-0655-41d1-875d-13946562ef14.png)
-![image](https://user-images.githubusercontent.com/75255909/179389170-dc39cad9-d3b1-468d-ac83-206a11e989aa.png)
+und das kann ich nicht leisten. Ein Beispiel ist eine integere Zahl 50 Wahlweise als Lager oder Währungszahl.
+"Im Gegensatz zu den oben geschilderten Patientenbeispielen sind diese kleinen Störaktionen längst nicht so"
 
-[Project file content](https://pastebin.com/uirVq2Bc)
+"extrem und gefährden nicht gleich die gesamte Existenz und Identität einer Person." Ich arbeitete nicht zum Wohl
+aller.
+
+"Und doch folgen sie alle dem gleichen Muster: Die Lösung, die wir für ein Problem gefunden haben, führt langfristig"
+"zu einer Verstärkung des Problems." Meine Frage an die Autorin die ich nicht kenne ist Stromleuchtball?
+
+"Und je mehr wir uns mit dem Problem abmühen, desto beharrlicher halten wir an unserer Selbstsabotage-Strategie fest."
+Möglicherweise ist das eine logische Konsequenz weil wenn wir nicht dem Angriff einer Selbstsabotage entrinnen
+
+konnten, halten wir am Arbeitsplatz, unserem, fest.
+"Wir verhalten uns also nicht unbedingt schlauer als die Fliege, die immer wieder an derselben Stelle den Ausweg"
+
+"sucht und das geöffnete Fenster dabei übersieht."
+Paranoia geht nicht nur mit Tabletten vorbei. Ich bin praktisch nicht in der Lage das Thema beenden zu können.
+
+"Ich verfolgte zum Beispiel eine Diskussion in einem Sparforum, in der ein Mann um Hilfe bei seinen Geldproblemen"
+End eder Seite 19.
+
+In dieser Seite ist auf Zeile 94 bei meinem Edge Explorer der Zeilnumbruch nach dem Wort oberflächlich. Mit dem
+tippen von tags wie br mit spitzen klammern könnte das skalieren noch viel genauer sein nur Geldprobleme sind
+
+auch mit Zeit gebunden und es gibt auch escape chractere um dann spitze klammern bei tags in einer markdown datei
+darstellen zu können ohne eine Funktion der Speicherstellen mit dem Rechenwerk.
+
+Dafür das offline programmiert werden könnte ist das Weltall explodiert.
