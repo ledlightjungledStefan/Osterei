@@ -261,3 +261,7 @@ auch mit Zeit gebunden und es gibt auch escape chractere um dann spitze klammern
 darstellen zu können ohne eine Funktion der Speicherstellen mit dem Rechenwerk.
 
 Dafür das offline programmiert werden könnte ist das Weltall explodiert.
+Allso chronologisch dann danach gibt es noch folgendes portable networkgraphics bild
+
+![image](https://user-images.githubusercontent.com/75255909/185728109-053c1f8e-34a3-4014-8ba3-33628c20e1f2.png)
+
