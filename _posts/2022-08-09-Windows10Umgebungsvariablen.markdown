@@ -10,6 +10,7 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 Zum Wort Namespace eine Dimension kann sowohl der Inhalt einer Klasse ein Dateiinhalt, als auch die Textverabreitung für eine Ausgabe sein.
 Nach dem
 
+![image](https://user-images.githubusercontent.com/75255909/185788525-0512c8fa-04f8-4c2b-b2bb-755700ffc781.png)<br>
 [ListControl.ValueMember Property](https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.listcontrol.valuemember?view=windowsdesktop-6.0)
 
 Aufruf,
@@ -33,6 +34,35 @@ sind meine ersten Fragen: Wie bilde ich ein Rechteck?
 
 Wieso ist eine Speicherstelle kein Kondensator? Von 100 bis 1.000.000 bei einer Millionenshow. Für 100. Weil ersetzen
 nicht verwenden sein sollte.
+
+Nachdem ich für mich meine BOA Bedarfsorientiertenaufträge selbstständig organisieren muss,<br>
+sind meine Hinweise auch immer am Schluss eines von mir verfassten Textes.
+
+Ein Hinweis ist in der Klasse HuegelKette, siehe oben, mit den Dimensionsnamen myShortName und myLongName,<br>
+das das umschalten in eine Kommentarzeile, bei VB dot NET visual studio versionen, "HAS NO EFFECT" on content.
+
+Sprich, die squiggli red line, unter Alabama und Washington, währe in einer Wahrheitstafel bei PCS die lügen,
+können auf falsch eingestellt. Sprich die Speicherstelle, storage unit, ist für die Schaltkreise, circuits
+
+für einen Rechenprozessor nicht mit einer Bitmap 1 sondern 0 in einer Liste geführt. Das ist noch nicht das Ende
+des Hinweises, diese Wahrheitstabelle mit den Abkürzungen AL und WA für Wahlweise attention joke but true
+
+allen Banak Tarski Kombinationen in denen AL oder WA vorkommen können shows, zeigt, im visual studio keine Fehler<br>
+meldung. Denoch wenn die Dimensionsnamen myShortName und myLongName in einer Kommentarzeile und nicht ersetzt sind,
+
+keine Funktion zur Rechenzeit sind dann sind noch immer AL und WA mit keiner Fehlermeldung gereiht. WAS SOLL DAS.
+Naja erstens ich habe nicht statt wem oder einer anderen getippt und kein Fragzeichen gesetzt und es ist eine
+
+perfekt Ausrede um recherchieren zu können. Weil the observation let's say die Aufsicht, kann nicht erreicht werden
+und in Frage gestellt werden. Die "Strings" sind keine Fehlermeldung und können nur gewählt werden und nicht als
+
+Fehlermweldung verwendet werden. Und wenn die "Strings" gewählt werden müssen um manipuliert werden zu können so
+müssen das auch die Fehlermeldungen und es gibt keine Fehler.
+
+[From Clause (Visual Basic)](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/queries/from-clause)<br>
+![image](https://user-images.githubusercontent.com/75255909/185789730-a09a9a24-d2e1-494e-acd9-4685f8c07dae.png)
+
+][
 
 Michaela Muthig hat ein Buch drucken lassen. Auf Seite 18 Zeile 13 Zeichen 48 began der Satz mit einem D. Die Bingo
 Zahl unter meiner D Taste ist C4.
