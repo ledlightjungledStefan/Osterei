@@ -7,6 +7,21 @@ image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
 
+Eine Atemübung die ich üben kann ist eine Atemübung mit der ich jederzeit wieder mit dem Timing für meine Gesundheit<br>
+beginnen kann. Die logischen Zeichen PA JUP ziehe ich mit dem Kopf zum einatmen. Beim einatmen ziehe ich den Kopf aus<br>
+
+der Position nach hinten. Bevor ich den Kopf nach hinten ziehe konzentriere ich in meinem audio Sprachzentrum<br>
+das logische Zeichen P. Ich spanne meine Stimmbänder an mit der Spannung die ich im entspannten Atemzentrum habe<br>
+
+und ziehe mit dem einatmen den Kopf nach hinten während ich mit den Stimmbändern PA für mich hörbar forme. Das Ziel<br>
+ist sowohl durch den Mund wie auch die Nase gleichmässig einzuatmen. Nach dem Einatmen beginne ich mit dem Stossausatmen<br>
+
+um durch den JUP das Stossatmen auszuatmen. Während ich die Atemnübung machen kann muss ich mich nicht das Zungschnalzen<br>
+konzentrieren. Mit dem Zungenschnalzen die Zunge vom Gaumen lösen und nach unten schnalzen lassen ich kann auch den<br>
+
+Unterkiefer nach unten ziehen konzentriere ich die Zeichen TA um dann im schnalzen ein C hören zu können mit dem ich einen
+Unterschied zu TA hören kann.<br>
+
 Zum Wort Namespace eine Dimension kann sowohl der Inhalt einer Klasse ein Dateiinhalt, als auch die Textverabreitung für eine Ausgabe sein.
 Nach dem
 
