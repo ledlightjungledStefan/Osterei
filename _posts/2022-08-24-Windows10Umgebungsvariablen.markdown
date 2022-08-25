@@ -16,7 +16,7 @@ sind zwei Beispiele
 das Ereigniss, Speicherstellen die an Textprozesse geknüpft sind müssen nicht Vergleiche sein Inpulse speichern<br>
 zu können.
 
-Es gibt auch Prozesse nicht im Text die keine Inpulse vregleichen müssen. Timer sind ohne Elektrizität keine Inpuls<br>
+Es gibt auch Prozesse, nicht im Text, die keine Inpulse vergleichen müssen. Timer sind ohne Elektrizität keine Inpuls<br>
 Geräte. Ein 555 Timer wie ich die Internetrecherchen verstehen konnte, hat einen Vergleicher.
 
 Das Hauptaugenmerk sind schon bekannte Speicherstellen. Nachdem eine Architektur nicht nur eine Speicherstelle ist sind
@@ -74,4 +74,19 @@ Bewegung eine Sache von Stromstärken respektive Gewichten und KLEINEN WIE GROSS
 UND IN FERNER ZUKUNFT GAUCHES MIT OPERATOREN FÜR GESCHWINDIGKEITEN UND ZEITEN.
 Nachdem ich mit NPN Transistor Zeichnungen eher die Stromstärken einschätze als die Geschwindigkeiten für Vergleicher mit<br>
 
-Timern sind für mich persönlich Impulse mit Timer einacher einzuschätzen als Dispatcher Timer als Strings verstehen zu können.
+Timern sind für mich persönlich Impulse mit Timer einfacher einzuschätzen als Dispatcher Timer als Strings verstehen zu können.
+[W3 und die TagLinie BR](https://ledlightjungledstefan.github.io/Osterei/)
+
+ist mit meine Seite mit einem link der zu einem Inhalt führt VB dot NET Dateiinhalte die mit der möglichen Architektur<br>
+eines mainboards verwendet werden können ohne die personal computer Architectur verstehen zu müssen.
+
+Für Menschen die Datentypen nicht berechnen möchten müssen Textdateieninhalte nicht gespeichert werden sondern können
+als Zwischenspeicher für Label Textinhalte verstanden werden.
+
+Ich kann noch nicht eine Textdatei als Zwischenspeicher verwenden. Den Befehl Await verwendete ich schon um einen Character
+respektive Buchstaben, in meinem Fall B, erst nach dem drücken meiner Leertaste zu speichern.
+
+Um den Dateipfad für eine Textdatei passend tippen zu können, kann man, kann ich den link
+[File.CreateText(String) Methode](https://docs.microsoft.com/de-at/dotnet/api/system.io.file.createtext?view=net-6.0)
+
+klicken.
