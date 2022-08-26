@@ -28,7 +28,20 @@ Wenn Schalter nicht bekannt sein können, was sie auch nicht sind, ist eine Seit
 [Aggregationsvorgänge (Visual Basic)](https://docs.microsoft.com/de-de/dotnet/visual-basic/programming-guide/concepts/linq/aggregation-operations)
 <br>
 
-ratsam. 5 plus 10 ist 15 15 kann auch 12 plus 3 sein.
+ratsam.
+
+![image](https://user-images.githubusercontent.com/75255909/186897614-6ff694d0-aa60-43c3-8d58-c594b4a8e62f.png)
+![image](https://user-images.githubusercontent.com/75255909/186897646-4a91cc6d-aad1-40c4-bbbf-7485339da9d2.png)
+
+[ledlightjungled](https://stackoverflow.com/users/3720234/ledlightjungled)<br>
+Choose a switchfield, the field start and then settings.
+
+Choose personalize designs desktopsymbolsettings.<br>
+Acitvate controlsquare recycling bin and choose hm get, set. .. .
+
+![image](https://user-images.githubusercontent.com/75255909/186898710-b19e0ade-6760-46a2-b702-7b5807c81855.png)
+
+5 plus 10 ist 15 15 kann auch 12 plus 3 sein.
 Formate für Zahlen sind nicht originale Zahlen. Die zwei Varianten Texte mit Dimensionswörtern zu integrieren sind Format und<br>
 
 interpolation.
