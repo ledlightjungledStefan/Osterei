@@ -6,6 +6,18 @@ rating: 4
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
+Im Programmfenster GNU Privacy Assistent ist mir aufgefallen, dass die Schriftsprache keinen phonetischen
+Zeichensatz hatte für den Buchstaben L later kann auch sein Iater und ohne kverbalken unter dem Zeichen
+
+I für L l ohne einer Enum Attribut <Flag> ist auch mit den Zeichensetzen eines PCS für Tastenkürzen
+    zum Beispiel im Windows Editor für $ ein Interpolationszeichen 0024 Alt + x nicht genauer definiert.
+    
+    
+
+![image](https://user-images.githubusercontent.com/75255909/187084698-070aa813-68c2-48e5-a69c-e86f1e978516.png)
+![image](https://user-images.githubusercontent.com/75255909/187084992-ad7846ee-ca86-4359-9f31-ace9bdc1f56c.png)
+
+![image](https://user-images.githubusercontent.com/75255909/187085109-b356c236-d22a-4a94-9be7-5862f3bff947.png)
 
 Auf der Seite [Option Compare Statement](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/option-compare-statement)
 <br>
