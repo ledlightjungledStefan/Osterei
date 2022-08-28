@@ -9,7 +9,7 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 Im Programmfenster GNU Privacy Assistent ist mir aufgefallen, dass die Schriftsprache keinen phonetischen
 Zeichensatz hatte für den Buchstaben L later kann auch sein Iater und ohne kverbalken unter dem Zeichen
 
-I für L l ohne einer Enum Attribut <Flag> ist auch mit den Zeichensetzen eines PCS für Tastenkürzen
+I für L l ohne einer Enum Attribut \<Flag\> ist auch mit den Zeichensetzen eines PCS für Tastenkürzen
     zum Beispiel im Windows Editor für $ ein Interpolationszeichen 0024 Alt + x nicht genauer definiert.
     
     
