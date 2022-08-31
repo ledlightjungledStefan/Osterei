@@ -115,3 +115,18 @@ Um den Dateipfad für eine Textdatei passend tippen zu können, kann man, kann i
 [File.CreateText(String) Methode](https://docs.microsoft.com/de-at/dotnet/api/system.io.file.createtext?view=net-6.0)
 
 klicken.
+
+Hallo. Ein Zertifikat, für mich, derzeit ist ein Mulde Wasser Radischien eine Mulbinde Luft.
+Die Operatoren, ein Papierhaushaltstuch mit Wasser, weil ich entscheiden lernen kann wie viel
+
+Wasser vom Papier aufgenommen wird.
+Radischien kleine violett rote Gemüsebällchen schwimmen im Wasser weil auch Luft im Radischien ist.
+
+Wenn das schwimmende Gemüse zirkuliert wird kann ich eine Mulbinde ein in einer Apotheke erhältliches
+Band in Wasser halten und und der Wasserdruck wird beim zirkulieren etwas gebremst.
+
+Mit etwas Druck auf ein Radi. . . gegen eine Mulbinde im Wasser könnte mit all dem Wissen das Not-
+wendig ist um ein Zertfikiat für Internetverbindugen aktualisierbar (weg zu legen) seitlich ablegen
+
+,ab gelegt haben, eine Person mit Zertifkiat sagen können ETWAS MEHR DRUCK AUF DAS RADISCHIEN.
+Datenbankeintrag emsize string add. End.
