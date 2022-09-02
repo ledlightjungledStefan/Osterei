@@ -8,8 +8,9 @@ almdudler: PI Jača oder ein Pendel
         <title>{{ page.title }}</title>
             <meta name="viewport" content="width=device-width, initial-scale=1">
                 <meta name="theme-color" content="#157878">
-        <link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/normalize.css">
-            <link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/cayman.css">
+        <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+            <link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/normalize.css">
+                <link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/cayman.css">
     </head>
 <body>
     
@@ -29,6 +30,8 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 <br>    
 abcdefghijklmnopqrstuvwxyz--------------------px500/px450</p>
     
+<section class="content">
     {{ content }}
+</section>
 </body>
 </html>
