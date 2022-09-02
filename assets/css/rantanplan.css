@@ -1,9 +1,6 @@
-* {
-  box-sizing: border-box;
-}
-
 body {
   margin: 0;
+  box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -18,7 +15,6 @@ body {
   background-color: #111;
   overflow-x: hidden;
 }
-
 
 /* Side navigation links */
 .sidenav a {
@@ -38,12 +34,4 @@ body {
 .content {
   margin-left: 200px;
   padding-left: 20px;
-}
-
-img.CHEW {display: block;
-position: relative;
-bottom: 450px;
-left: 500px;}
-        .ribbon {
-  background-color: #5BC8F7;
 }
