@@ -1,7 +1,3 @@
-@{
-var dataFile = Server.MapPath("~/Osterei/assets/media/Persons.txt");
-Array userData = File.ReadAllLines(dataFile);
-}
 <!doctype html>
 <html>
     <head>
@@ -30,12 +26,9 @@ font, and it preserves
 both      spaces and
 line breaks
 </pre></p>
-@foreach (string dataLine in userData)
-{
-  foreach (string dataItem in dataLine.Split(','))
-  {@dataItem <text>&nbsp;</text>}
-  <br />
-}
 </section>
+<%
+response.write("My first ASP script!")
+%>
 </body>
 </html>
