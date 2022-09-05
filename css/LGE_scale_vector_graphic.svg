@@ -9,5 +9,4 @@
     </linearGradient>
   </defs>
   <ellipse id="PreOffNap" cx="200" cy="70" rx="85" ry="55" fill="url(#grad2)" />
-  <use href="#PreOffNap" x="50" />
 </svg>
