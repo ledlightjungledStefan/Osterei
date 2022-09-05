@@ -1,12 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="150" width="400">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="150" width="400">
 <style>
   @import url(visualyield.css);
 </style>
   <defs>
+    <pattern x="0" y="0" width="1" height="1">
     <linearGradient id="grad2" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1" />
       <stop offset="100%" style="stop-color:rgb(255,255,0);stop-opacity:1" />
     </linearGradient>
+      </pattern>
   </defs>
-  <ellipse id="PreOffNap" cx="200" cy="70" rx="85" ry="55" fill="url(#grad2)" />
+  <ellipse cx="200" cy="70" rx="85" ry="55" fill="url(#grad2)" />
 </svg>
