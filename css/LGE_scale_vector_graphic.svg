@@ -14,7 +14,8 @@
          height="1"
          patternUnits="objectBoundingBox">
 </pattern>  
-  <ellipse fill="url(#grad1)"
+  <ellipse id="myEllipse"
+           fill="url('#grad1')"
            cx="200"
            cy="70"
            rx="85"
@@ -32,4 +33,5 @@
           style="stop-color:rgb(255,255,0);stop-opacity:1"/>
 </linearGradient>
 </defs>
+  <use x="5" y="5" href="#myEllipse" fill="url('#square')" />
 </svg>
