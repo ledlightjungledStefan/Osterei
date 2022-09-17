@@ -149,3 +149,6 @@ a flower picture.
 If you do not have to assume breathing without floating in the air the water
 fire and earth can also change light intensity if only the background
 colour is of use.
+
+What is my curiosity to word by typing. Classic assumptions.
+And 
