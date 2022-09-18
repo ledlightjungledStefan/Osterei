@@ -15,7 +15,7 @@ almdudler: PI Jača oder ein Pendel
             .element {
                 position: absolute;
                 left: 400px;
-                top: 800px;}}
+                top: 600px;}}
         </style>        
     </head>
 <body>
@@ -49,9 +49,27 @@ abcdefghijklmnopqrstuvwxyz--------------------px500/px450</p>
     </p>
     
 <textarea rows="4" cols="50" class="element">
-    With absolute positioning, an element can be placed anywhere on a page.
-    The first problem measuring elctric flow is that in relation to water
-    it can be fix.
+    Dim dataSet As New DataSet("ListArray versus Field")
+            Dim parentColumn As DataColumn = _
+               dataSet.Tables("Suppliers").Columns("InReachQuestionMark")
+            Dim childColumn As DataColumn = _
+               dataSet.Tables("Products").Columns("InReachQuestionMark")
+            Dim relation As New DataRelation("SuppliersProducts", _
+               parentColumn, childColumn)
+            dataSet.Relations.Add(relation)
+
+            Console.WriteLine( _
+               "The {0} DataRelation has been created.", _
+               relation.RelationName)'RelationName assumpted not explainable
+    
+    <!--Dim USStates As New ArrayList()
+        USStates.Add(New capacitiveFeedback("LanguageMemoryDevelopment", "parentColumn"))
+        USStates.Add(New capacitiveFeedback("LanguageMemoryDevelopment", "childColumn"))
+        USStates.Add(New capacitiveFeedback("ExplainShapes", "parentColumn"))
+        USStates.Add(New capacitiveFeedback("ExplainShapes", "childColumn"))
+        USStates.Add(New capacitiveFeedback("KondensMilch", "parentColumn"))
+        USStates.Add(New capacitiveFeedback("KondensMilch", "childColumn"))
+        ListBox1.DataSource = capacitiveFeedback-->
 </textarea>
     
 <!--section class="content">
