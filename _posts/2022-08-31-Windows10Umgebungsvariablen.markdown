@@ -6,6 +6,74 @@ rating: 4
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
+° {::comment} ://ledlightjungledstefan.github.io/Osterei/blog {:/comment}
+<br>
+° {::comment} ://ledlightjungledstefan.github.io/Osterei/ {:/comment}
+<br>
+° RukolaSeiteEins
+<br>
+° solarplexus
+<br>
+° index
+
+My private Windows for Dummies theater
+- What do we know?
+- Nothing.
+- What is happening?
+- Changes.
+- For?
+- Ain't.
+- What?
+- Content.
+
+On page 349 in an old fashioned book named User Interfaces in VB .NET:
+the printed Text
+"Click an item in one of the lists above to change
+the font or color of this text. Once the initial
+conditions are set up
+(i.e the binding) this operation happens automatically"
+
+the theater continues.
+- Click the conditions.
+- Which?
+- in example the binding.
+- And the rest?
+- Asume you have no control to grant.
+
+The theater frame is the property. While you are searching a Net you migth stumble upon a W3 site.
+Some content is concidered with a tagline \<s\>
+
+One property can be
+
+    Sub HekelPapier(SchriftArten As Label)
+        With SchriftArten
+            .Location = New Point(200, 300)
+            .Size = New Size(450, 100)
+            .DataBindings.Add("ForeColor", ColorObjList, "")
+            .DataBindings.Add("Font", FontObjList, "")
+        End With
+    End Sub
+
+Location. A electric field or array is not easy to locate. Still impossible.
+To recognize other peoples possibilities is not the same recognizing other people.
+
+One possibility is to shrink infront a tension.
+
+- A storage unit shrinked.
+- What fore?
+- It shrinked.
+
+With a blank leave a corner can be with a starting or end point. The lighttension can
+changed. If the property ForeColor is not perfect for the weather conditions.
+
+A Text property, to talk about shapes that have not to be measured, i concidered because
+
+- Why do we hit buttons?
+- Well. . . . . . . . .
+
+![image](https://user-images.githubusercontent.com/75255909/191895931-b476ee91-bc9d-4e00-b00c-4bd8a2007529.png)
+![image](https://user-images.githubusercontent.com/75255909/191895964-08b87cd3-a6d7-4d89-84c4-076e38316db5.png)
+
 Im Programmfenster GNU Privacy Assistent ist mir aufgefallen, dass die Schriftsprache keinen phonetischen
 Zeichensatz hatte für den Buchstaben L later kann auch sein Iater und ohne kverbalken unter dem Zeichen
 
