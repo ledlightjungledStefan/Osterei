@@ -48,3 +48,84 @@ Einfügen
 Primär Taste
 EmptyScript.txt speichern (Strg + S)
 
+Nachdem ich auf meinem Blog keine Antwort erhielt möchte ich
+darauf Hinweisen das von meinem Bahnhof zwei Trassen führen
+
+und es noch nie einen Emeral Cahin Notfall gegeben hat sprich
+das zwei Zuggarnituren versetzt in ein und die selbe Richtung
+
+fuhren. Von anderen Städten und Dörfern auf dem Exoplaneten
+ist mir auch nicht bekannt ob es sowas gab.
+
+    Imports System.Enum
+    Imports System.ComponentModel
+    Imports System.Drawing.Text
+    Public Class Form1
+        Public WithEvents Tortenheber As New Label
+        Public WithEvents PflanzlichesGele As New ListBox
+        Public WithEvents Yoghurtarten As New ListBox
+        Dim FontObjList As New ArrayList
+        Dim ColorObjList As New ArrayList
+        Dim Family As FontFamily
+        Dim InstalledFonts As New InstalledFontCollection
+        Dim ColorNames(), ColorName As String
+        Dim cnvrt As TypeConverter = TypeDescriptor.GetConverter(GetType(KnownColor))
+
+        'Dim ColorNames(), ColorName As String
+        '    ColorNames = System.Enum.GetNames(GetType(KnownColor))
+        '    Dim cnvrt As TypeConverter = TypeDescriptor.GetConverter(GetType(KnownColor))
+
+        'For Each ColorName In ColorNames
+        '        ColorObjList.Add(Color.FromKnownColor(cnvrt.ConvertFromString(ColorName)))
+        '    Next
+
+        '    SmoothieMixer.DataSource = ColorObjList
+
+        Public Sub New()
+
+            ' Dieser Aufruf ist für den Designer erforderlich.
+            InitializeComponent()
+
+            ' Fügen Sie Initialisierungen nach dem InitializeComponent()-Aufruf hinzu.
+            Me.Controls.AddRange({Tortenheber, PflanzlichesGele, Yoghurtarten})
+            BrecherWerte(PflanzlichesGele)
+            BifidusKulturen(Yoghurtarten)
+            HekelPapier(Tortenheber)
+        End Sub
+
+        Sub BrecherWerte(KoordinatenSystem As ListBox)
+            For Each Family In InstalledFonts.Families
+                Try
+                    FontObjList.Add(New Font(Family, 12))
+                Catch
+
+                End Try
+            Next
+            With KoordinatenSystem
+                .Location = New Point(100, 100)
+                .Size = New Size(300, 150)
+                .DataSource = FontObjList
+                .DisplayMember = "Name"
+            End With
+        End Sub
+        Sub BifidusKulturen(LuftfeuchtigkeitsWerte As ListBox)
+            ColorNames = GetNames(GetType(KnownColor))
+            For Each ColorName In ColorNames
+                ColorObjList.Add(Color.FromKnownColor(cnvrt.ConvertFromString(ColorName)))
+            Next
+            With LuftfeuchtigkeitsWerte
+                .Location = New Point(450, 100)
+                .Size = New Size(300, 150)
+                .DataSource = ColorObjList
+                .DisplayMember = "Name"
+            End With
+        End Sub
+        Sub HekelPapier(SchriftArten As Label)
+            With SchriftArten
+                .Location = New Point(200, 300)
+                .Size = New Size(450, 100)
+                .DataBindings.Add("ForeColor", ColorObjList, "")
+                .DataBindings.Add("Font", FontObjList, "")
+            End With
+        End Sub
+    End Class
