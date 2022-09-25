@@ -87,6 +87,108 @@ DELET
 REROOT AND KEEP AN EYE ON KEYUP EVENTS
 STOP
 
+    Private Sub Form1_Click(sender As Object, e As EventArgs) Handles Me.Click
+        Me.ActiveControl = Nothing
+        MessageBox.Show("")
+    End Sub
+
+Wie gesagt visual studio hat unter den Kartekartenreitern drei Felder, rechteckige,
+die mit ctrl respektive strg plus F2 gewählt werden können.
+
+Oft können ähnliche Bereiche mit der Tabulatortaste gewechselt werden.
+EIN BLATT GEHALTEN ZWISCHEN DAUMEN UND ZEIGEFINGERN
+
+KANN EINEN ANFANGS ODER ENDPUNKT ALS EINEN INHALT BEWEGT WERDEN
+EIN BLATT MIT INHALT ZWISCHEN DEN DAUMEN UND ZEIGEFINGERN
+
+ALS ANFANGS ODER ENDWERT KANN BEWEGT WERDEN VON EINS NACH ZWEI
+ODER ZWEI NACH EINS
+
+LICHTINTENSITÄTEN ÄNDERN DIE SICHTBAREN FARBWERTE
+NACHDEM DIE SICHTBAREN FARBWERTE GEÄNERT WERDEN KÖNNEN
+
+KÖNNTE AUCH DIE FARBTIEFE EIN WEG VON A NACH B EIN AKUPUNKTURPUNKT SEIN
+UND EIN ZAHNSTOCHER ODER ANDERES HOLZ KANN WAHLWEISE INEINER ODER
+
+DER MITTE WIEDER WENN MÖGLICH ZWISCHEN DAUMEN UND ZEIGEFINGERN
+GEDREHT WERDEN WAHLWEISE IN EINE ODER ANDERE RICHTUNG
+
+RECHENWERKE MIT NUR EINEM ZUGANGSPUNKT KÖNNEN NICHT MIT ZWEI EBENEN VERWENDET WERDEN
+FALLS DER ERFINDER VON PYTHON SEINE ANGABE ER MÖCHTE KEIN ELSE
+
+HABEN BESTÄTTIGEN KÖNNTE MIR DANN WÄHRE FÜR MICH BESTÄTTIGT DAS
+ein stapel oder mehrer haufen (oder türme von hanoi) mit und
+
+ohne inseln respektive tupel
+nicht ein zweites rechenwerk sein sollten
+
+mit visual basic dot net in visual studio währe eine zweite ebene auf einer
+kontrolle form in einem fall mit zwei listboxen und einem label
+
+zwei listboxen und ein label
+um neben den von mir bekannten gespeicherten speicherstellen
+
+für die kontrollen mit den tasten die zur verfügung gestellt wurden
+auch funktionen wie eine messagebox aufrufen lassen zu können
+
+wenn möglich die überrollbügelleertaste drücken zu können muss
+an einer stelle der kontrolle form mit einer primärtaste des zeige
+
+gerätes respektive der maus ein klick ausgeführt werden
+nach dem klicken wurden alle kontrollen auf der kontrolle form
+
+aus dem focus rahmen genommen (select ist mit einem komponentendienst
+zum bilden einer zweit möglichen reihenfolge mit anfangs und endwert)
+
+neben wpf für kontrollbildungen für xml oberflächen können auch mit
+einem komponentendienst neue kontrollen gebildet werden
+
+nur das wpf für kontrollbildungen verwendet wurde die mit xml oberflächen
+bedient werden und visual basic dot net kann mit einer eigenen
+
+programmoberfläche nicht, wenn möglich, kontrollen erstellen lassen
+sondern erstellt werden alles was nicht automatisch ist ist ein treffer
+
+[Developing Custom Windows Forms Controls with the .NET Framework](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/controls/developing-custom-windows-forms-controls?view=netframeworkdesktop-4.8)
+
+https://www.microsoft.com/de-at/
+- Support
+- Mehr Unterstützung
+- Entwickler
+- Documentation
+- .NET
+- Windows Forms (.NET Framework)
+- Windows Forms Controls
+- Developing Custom Windows Forms Controls with the .NET Framework
+
+DIE TREFFER WERDEN NICHT IMMER BESTÄTTIGT RUFZEICHEN
+NACHDEM WPF ZUM BILDEN VON KONTROLLEN FÜR INTERNETSEITEN
+
+GEBILDET WERDEN KANN UND ASP DOT NET NICHT DADURCH BETROFFEN SEIN MUSS
+MUSS ES AUCH KEINE ART VON BESTÄTTIGUNG GEBEN
+
+SVG XML ZEILEN BIETEN BEIM ANMELDEN ÜBER USER AGENTS AUTOMATSICHE BOT
+SCRIPTS DEN EINTRAG FÜR STANDALONE EINGABEN MIT YES
+
+EINEN NÄCHSTE SCHERHEITSSTUFE FÜR INTERAKTIONEN ÜBER EIN NETZWERK IST
+DAS SDK UMGEBUNGEN SCHABLONEN ZUR VERFÜGUNG HABEN FÜR ARBEITEN MIT
+
+GITHUB ZUM BEISPIEL BLAZOR ODER RAZOR NUR SIND DIE SCHABLONEN NICHT
+IN VISUAL BASIC DOT NET ERHÄLTLICH SONDERN EHER MIT C RAUTE
+
+    Private Sub Form1_Click(sender As Object, e As EventArgs) Handles Me.Click
+        Me.ActiveControl = Nothing
+    End Sub
+
+    Private Sub Form1_KeyUp(sender As Object, e As KeyEventArgs) Handles Me.KeyUp
+        Select Case e.KeyCode
+            Case Keys.Space
+                'KlasseStattMasse(message)
+        End Select
+    End Sub
+
+also keyup
+
     'comments with visual basic dot net are used through a apostrophe symbol
     'type Dim path As String = ""
     'Dim path As String
