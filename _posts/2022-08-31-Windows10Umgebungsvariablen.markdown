@@ -16,263 +16,168 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 <br>
 ° index
 
-- Well. . . . . . . . .
+Bei dem Computerspiel gibt es nach der Hafeneinfahrt wenn die Tonspur
+gehört werden kann
 
-EmptyScript.txt
-Projektmappe "RadischienSalat" (1 von 1 Projekten)
+Ding Ding
+Ports Royal 2
 
-Primäre Taste auswählen
-Links
+Und jetzt? Alle anderen Blogger und Bloggerinen tippten auch weil
+social media noch schlechter zu verdauen waren als Bloggen.
 
-RadischienSalat
-Sekundär Taste
+Ich wünsche mir einen Sonenaufgang. Mhm.
+Und Tannenspröslinge eingelegt in Ahornsirup mit Karderwurzelbitter.
 
-Ordner in Datei-Explorer öffnen
-Addressleiste Speicherort RadischienSalat
+Ja und dazu hätte ich gerne Ingwersaft mit Spirulinaalgen und Vitamin C
+Brausen. Reismilch mit Heidelbeeren pürrirt.
 
-Sekundär Taste
-Adresse als Text kopieren
+Dannach Vanilleeis mit Joghurt und Bananen als Smoothie und etwas Zimt.
+Noch einen unbehandelten Zitronekompot mit Zimtpulver Nelkenpulver
 
-Editor Entertaste Tabulatortaste
-Kopie einfügen
+und Ingwerpulver. Dann noch aus einem Entsafter Ananas mit Selleristangen
+einen Apfelkompot mit Ahornsirup Grad B.
 
-Visual Studio Caret einschalten in der Datei EmptyScript.txt
-Click an item in one of the lists above to change the font or color of this text.
+Gedämpften Spinat mit Knoblauch und Dinkelkernlaibchen und einen Rukola
+Sellerie Salt mit Sauerrahm Schniitlauch Dressing etwas Olivenöl
 
-Once the initial conditions are set up (i.e the binding) this operation happens
-automatically
+und Rotweinessig mit ein wenig Salz und ganz wenig Pfefferpulver.
+Dann Pfefferpulver mit Zimtpulver und Zuckermelone mit Zitronensaft.
 
-Sekundär Taste
-Einfügen
+Eine Runde Ham and Eggs mit Semmel. Und Petersillie wenn möglich
+gtrocknet mit frischem Reis gekocht und Erbsen gekocht im
 
-Primär Taste
-EmptyScript.txt speichern (Strg + S)
+Reis. Dazu Rahmfisolen mit Dille pannierten Sellerie mit Knoblauch
+einschüben. Danach obično Frittatensuppe.
 
-Nachdem ich auf meinem Blog keine Antwort erhielt möchte ich
-darauf Hinweisen das von meinem Bahnhof zwei Trassen führen
+Die nächste Runde ist Gazpachosuppe mit Backserbsen erst heiß dann
+kalt und kalt ohne Backerbsen und mit Croutons wahlweiße
 
-und es noch nie einen Emeral Cahin Notfall gegeben hat sprich
-das zwei Zuggarnituren versetzt in ein und die selbe Richtung
+in Butter geschwenkt. Einige Pommbären mit frischen Birnen. Danach
+Zitronenmelise und Wasser mit Basilikum.
 
-fuhren. Von anderen Städten und Dörfern auf dem Exoplaneten
-ist mir auch nicht bekannt ob es sowas gab.
+Und Serviettenscheiben mit Rosmarien gebraten für Rotkraut wahlweiße
+mit Saurrahm oder Rotweinessig.
 
-It's like calling from europe to alaska: we are on an exoplanet and you?
-point of view (from your point of view)
+Einen halben Apfel und einen halben Apfel mit Hren gekochtem zerqutschtem
+Ei und noch ein Ei mit Eigelb das mit Salz Pfeffer und Kapernbeeren
 
-hide the planet we live on from whom
-(OPEN NOTPAD PRESS ENTER AND TABKEY IT IS NOT JUST A MOOD I HAVE NOT WRITTEN WINDOWS)
+gemischt und wieder angerichtet wurde. Dann dsa Rindfleisch zweimal
+kochen um nach dem zweitenmal Suppengrün anzureichern für
 
-DO YOU REACH
-PROJECTFOLDERNAME SECOND PRIMARY KEY OPEN FOLDER IN FILE EXPLORER
+einen Tafelspitz. Pommes mit Ketchup und Kroketten etwas Chinakohl
+salat mit Joghurtdressing und Kräutern.
 
-INPUT IN EDITOR
-PRESS ENTERKEY PRESS TABKEY
+Sauerampfer Melisse Oregano Jungzweibeln. Dann mit den Bratkartoffeln
+weiter mit Persilie wahlweiß trocken oder frisch.
 
-GO BACK TO VISUAL STUDIO SELECT IN YOUR PROJECT IF YOU WANT THE MENTIONED TEXTFILE
-PRESS SECONDARY MOUSE KEY SELECT COPY WHOLE PATH
+und die charlotten leicht gedünstet in rotwein dazu.
+Und zu guter letzt weil ich noch immer alleine bin und keinen einzigen
 
-GO BACK TO THE NOTEPAD INPUT
-THE CONTENT
+Blogger oder Bloggerin kenne und die westliche Welt die Facebook
+verwendet haben wird untergegangen ist und eher gegen Geisterschiffe
 
-OPEN IF YOU ARE CONECTED TO A NETWORK
-[File.CreateText(String) Methode](https://learn.microsoft.com/de-de/dotnet/api/system.io.file.createtext?view=net-6.0)
+kämpft als anzurufen und dergleichen
+dünne Baguettescheiben (ein Passwort aus einem Mittelalter für Weisbrot)
 
-type in class on form1
-YOU HAVE TO RESOLVE THE KEY OR THE KEYS FOR YOURSELF UNTIL KEYPRESS IS
+mit Thunfischpaste.
+Also liebe Sekretärinen und Sekretäre das Modewort Nothing ist eine
 
-NOT INTEGRATED IN YOUR ENVIRONMENT
-DELET
+Speicherstelle für "keinen Datentyp"
+Dim message As String = Nothing
 
-REROOT AND KEEP AN EYE ON KEYUP EVENTS
-STOP
+Bis zum nächsten Brezel irgendwie nicht lustig blaubaä fantasieworddokument pdf segen.
 
-    Private Sub Form1_Click(sender As Object, e As EventArgs) Handles Me.Click
-        Me.ActiveControl = Nothing
-        MessageBox.Show("")
-    End Sub
+        Imports System.Enum
+        Imports System.ComponentModel
+        Imports System.Drawing.Text
+        Imports System.IO
+        Public Class Form1
+            Public WithEvents Tortenheber As New Label
+            Public WithEvents PflanzlichesGele As New ListBox
+            Public WithEvents Yoghurtarten As New ListBox
+            Dim FontObjList As New ArrayList
+            Dim ColorObjList As New ArrayList
+            Dim Family As FontFamily
+            Dim InstalledFonts As New InstalledFontCollection
+            Dim ColorNames(), ColorName As String
+            Dim cnvrt As TypeConverter = TypeDescriptor.GetConverter(GetType(KnownColor))
+            Dim message As String = Nothing
+            Dim path As String = "C:\Users\plane\OneDrive\Desktop\RadischienSalat\EmptyScript.txt"
 
-Wie gesagt visual studio hat unter den Kartekartenreitern drei Felder, rechteckige,
-die mit ctrl respektive strg plus F2 gewählt werden können.
+            'Dim ColorNames(), ColorName As String
+            '    ColorNames = System.Enum.GetNames(GetType(KnownColor))
+            '    Dim cnvrt As TypeConverter = TypeDescriptor.GetConverter(GetType(KnownColor))
 
-Oft können ähnliche Bereiche mit der Tabulatortaste gewechselt werden.
-EIN BLATT GEHALTEN ZWISCHEN DAUMEN UND ZEIGEFINGERN
+            'For Each ColorName In ColorNames
+            '        ColorObjList.Add(Color.FromKnownColor(cnvrt.ConvertFromString(ColorName)))
+            '    Next
 
-KANN EINEN ANFANGS ODER ENDPUNKT ALS EINEN INHALT BEWEGT WERDEN
-EIN BLATT MIT INHALT ZWISCHEN DEN DAUMEN UND ZEIGEFINGERN
+            '    SmoothieMixer.DataSource = ColorObjList
 
-ALS ANFANGS ODER ENDWERT KANN BEWEGT WERDEN VON EINS NACH ZWEI
-ODER ZWEI NACH EINS
+            Public Sub New()
 
-LICHTINTENSITÄTEN ÄNDERN DIE SICHTBAREN FARBWERTE
-NACHDEM DIE SICHTBAREN FARBWERTE GEÄNERT WERDEN KÖNNEN
+                ' Dieser Aufruf ist für den Designer erforderlich.
+                InitializeComponent()
 
-KÖNNTE AUCH DIE FARBTIEFE EIN WEG VON A NACH B EIN AKUPUNKTURPUNKT SEIN
-UND EIN ZAHNSTOCHER ODER ANDERES HOLZ KANN WAHLWEISE INEINER ODER
+                ' Fügen Sie Initialisierungen nach dem InitializeComponent()-Aufruf hinzu.
+                Me.Controls.AddRange({Tortenheber, PflanzlichesGele, Yoghurtarten})
+                BrecherWerte(PflanzlichesGele)
+                BifidusKulturen(Yoghurtarten)
+                HekelPapier(Tortenheber)
+            End Sub
 
-DER MITTE WIEDER WENN MÖGLICH ZWISCHEN DAUMEN UND ZEIGEFINGERN
-GEDREHT WERDEN WAHLWEISE IN EINE ODER ANDERE RICHTUNG
+            Sub BrecherWerte(KoordinatenSystem As ListBox)
+                For Each Family In InstalledFonts.Families
+                    Try
+                        FontObjList.Add(New Font(Family, 12))
+                    Catch
 
-RECHENWERKE MIT NUR EINEM ZUGANGSPUNKT KÖNNEN NICHT MIT ZWEI EBENEN VERWENDET WERDEN
-FALLS DER ERFINDER VON PYTHON SEINE ANGABE ER MÖCHTE KEIN ELSE
+                    End Try
+                Next
+                With KoordinatenSystem
+                    .Location = New Point(100, 100)
+                    .Size = New Size(300, 150)
+                    .DataSource = FontObjList
+                    .DisplayMember = "Name"
+                End With
+            End Sub
+            Sub BifidusKulturen(LuftfeuchtigkeitsWerte As ListBox)
+                ColorNames = GetNames(GetType(KnownColor))
+                For Each ColorName In ColorNames
+                    ColorObjList.Add(Color.FromKnownColor(cnvrt.ConvertFromString(ColorName)))
+                Next
+                With LuftfeuchtigkeitsWerte
+                    .Location = New Point(450, 100)
+                    .Size = New Size(300, 150)
+                    .DataSource = ColorObjList
+                    .DisplayMember = "Name"
+                End With
+            End Sub
+            Sub HekelPapier(SchriftArten As Label)
+                Dim reader = My.Computer.FileSystem.ReadAllText(path & message)
+                With SchriftArten
+                    .Location = New Point(200, 300)
+                    .Size = New Size(450, 100)
+                    .Text = reader
+                    .DataBindings.Add("ForeColor", ColorObjList, "")
+                    .DataBindings.Add("Font", FontObjList, "")
+                End With
+            End Sub
+            Async Sub KlasseStattMasse(message)
+                Dim secondletter As Char = "B"
+                Using writer As StreamWriter = File.CreateText(message)
+                    Await writer.WriteAsync(secondletter)
+                End Using
 
-HABEN BESTÄTTIGEN KÖNNTE MIR DANN WÄHRE FÜR MICH BESTÄTTIGT DAS
-ein stapel oder mehrer haufen (oder türme von hanoi) mit und
-
-ohne inseln respektive tupel
-nicht ein zweites rechenwerk sein sollten
-
-mit visual basic dot net in visual studio währe eine zweite ebene auf einer
-kontrolle form in einem fall mit zwei listboxen und einem label
-
-zwei listboxen und ein label
-um neben den von mir bekannten gespeicherten speicherstellen
-
-für die kontrollen mit den tasten die zur verfügung gestellt wurden
-auch funktionen wie eine messagebox aufrufen lassen zu können
-
-wenn möglich die überrollbügelleertaste drücken zu können muss
-an einer stelle der kontrolle form mit einer primärtaste des zeige
-
-gerätes respektive der maus ein klick ausgeführt werden
-nach dem klicken wurden alle kontrollen auf der kontrolle form
-
-aus dem focus rahmen genommen (select ist mit einem komponentendienst
-zum bilden einer zweit möglichen reihenfolge mit anfangs und endwert)
-
-neben wpf für kontrollbildungen für xml oberflächen können auch mit
-einem komponentendienst neue kontrollen gebildet werden
-
-nur das wpf für kontrollbildungen verwendet wurde die mit xml oberflächen
-bedient werden und visual basic dot net kann mit einer eigenen
-
-programmoberfläche nicht, wenn möglich, kontrollen erstellen lassen
-sondern erstellt werden alles was nicht automatisch ist ist ein treffer
-
-[Developing Custom Windows Forms Controls with the .NET Framework](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/controls/developing-custom-windows-forms-controls?view=netframeworkdesktop-4.8)
-
-https://www.microsoft.com/de-at/
-- Support
-- Mehr Unterstützung
-- Entwickler
-- Documentation
-- .NET
-- Windows Forms (.NET Framework)
-- Windows Forms Controls
-- Developing Custom Windows Forms Controls with the .NET Framework
-
-DIE TREFFER WERDEN NICHT IMMER BESTÄTTIGT RUFZEICHEN
-NACHDEM WPF ZUM BILDEN VON KONTROLLEN FÜR INTERNETSEITEN
-
-GEBILDET WERDEN KANN UND ASP DOT NET NICHT DADURCH BETROFFEN SEIN MUSS
-MUSS ES AUCH KEINE ART VON BESTÄTTIGUNG GEBEN
-
-SVG XML ZEILEN BIETEN BEIM ANMELDEN ÜBER USER AGENTS AUTOMATSICHE BOT
-SCRIPTS DEN EINTRAG FÜR STANDALONE EINGABEN MIT YES
-
-EINEN NÄCHSTE SCHERHEITSSTUFE FÜR INTERAKTIONEN ÜBER EIN NETZWERK IST
-DAS SDK UMGEBUNGEN SCHABLONEN ZUR VERFÜGUNG HABEN FÜR ARBEITEN MIT
-
-GITHUB ZUM BEISPIEL BLAZOR ODER RAZOR NUR SIND DIE SCHABLONEN NICHT
-IN VISUAL BASIC DOT NET ERHÄLTLICH SONDERN EHER MIT C RAUTE
-
-    Private Sub Form1_Click(sender As Object, e As EventArgs) Handles Me.Click
-        Me.ActiveControl = Nothing
-    End Sub
-
-    Private Sub Form1_KeyUp(sender As Object, e As KeyEventArgs) Handles Me.KeyUp
-        Select Case e.KeyCode
-            Case Keys.Space
-                'KlasseStattMasse(message)
-        End Select
-    End Sub
-
-also keyup
-
-    'comments with visual basic dot net are used through a apostrophe symbol
-    'type Dim path As String = ""
-    'Dim path As String
-    'if possible try to build in the program paint on windows 10
-    'an argument for the word key with a balance between path and insert
-    'the insert key is one step below the print key
-    'copy the third line in the opened notepad
-    'use the mouse context menu or the schortkey abreviation with ctrl plus v
-    'paste
-    'C:\Users\plane\OneDrive\Desktop\RadischienSalat\EmptyScript.txt
-    'C:\...\...\...\Desktop\RadischienSalat\EmptyScript.txt
-    'i do not recognize my own environment in the internet
-    'i asume some similarities
-
-    Imports System.Enum
-    Imports System.ComponentModel
-    Imports System.Drawing.Text
-    Public Class Form1
-        Public WithEvents Tortenheber As New Label
-        Public WithEvents PflanzlichesGele As New ListBox
-        Public WithEvents Yoghurtarten As New ListBox
-        Dim FontObjList As New ArrayList
-        Dim ColorObjList As New ArrayList
-        Dim Family As FontFamily
-        Dim InstalledFonts As New InstalledFontCollection
-        Dim ColorNames(), ColorName As String
-        Dim cnvrt As TypeConverter = TypeDescriptor.GetConverter(GetType(KnownColor))
-        Dim path As String = "C:\Users\plane\OneDrive\Desktop\RadischienSalat\EmptyScript.txt"
-
-        'Dim ColorNames(), ColorName As String
-        '    ColorNames = System.Enum.GetNames(GetType(KnownColor))
-        '    Dim cnvrt As TypeConverter = TypeDescriptor.GetConverter(GetType(KnownColor))
-
-        'For Each ColorName In ColorNames
-        '        ColorObjList.Add(Color.FromKnownColor(cnvrt.ConvertFromString(ColorName)))
-        '    Next
-
-        '    SmoothieMixer.DataSource = ColorObjList
-
-        Public Sub New()
-
-            ' Dieser Aufruf ist für den Designer erforderlich.
-            InitializeComponent()
-
-            ' Fügen Sie Initialisierungen nach dem InitializeComponent()-Aufruf hinzu.
-            Me.Controls.AddRange({Tortenheber, PflanzlichesGele, Yoghurtarten})
-            BrecherWerte(PflanzlichesGele)
-            BifidusKulturen(Yoghurtarten)
-            HekelPapier(Tortenheber)
-        End Sub
-
-        Sub BrecherWerte(KoordinatenSystem As ListBox)
-            For Each Family In InstalledFonts.Families
-                Try
-                    FontObjList.Add(New Font(Family, 12))
-                Catch
-
-                End Try
-            Next
-            With KoordinatenSystem
-                .Location = New Point(100, 100)
-                .Size = New Size(300, 150)
-                .DataSource = FontObjList
-                .DisplayMember = "Name"
-            End With
-        End Sub
-        Sub BifidusKulturen(LuftfeuchtigkeitsWerte As ListBox)
-            ColorNames = GetNames(GetType(KnownColor))
-            For Each ColorName In ColorNames
-                ColorObjList.Add(Color.FromKnownColor(cnvrt.ConvertFromString(ColorName)))
-            Next
-            With LuftfeuchtigkeitsWerte
-                .Location = New Point(450, 100)
-                .Size = New Size(300, 150)
-                .DataSource = ColorObjList
-                .DisplayMember = "Name"
-            End With
-        End Sub
-        Sub HekelPapier(SchriftArten As Label)
-            With SchriftArten
-                .Location = New Point(200, 300)
-                .Size = New Size(450, 100)
-                .DataBindings.Add("ForeColor", ColorObjList, "")
-                .DataBindings.Add("Font", FontObjList, "")
-            End With
-        End Sub
-    End Class
+            End Sub
+            Private Sub Form1_Click(sender As Object, e As EventArgs) Handles Me.Click
+                Me.ActiveControl = Nothing
+                MessageBox.Show("")
+            End Sub
+            Private Sub Form1_KeyUp(sender As Object, e As KeyEventArgs) Handles Me.KeyUp
+                Select Case e.KeyCode
+                    Case Keys.Space
+                        KlasseStattMasse(message)
+                End Select
+            End Sub
+        End Class
