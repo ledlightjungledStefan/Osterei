@@ -57,6 +57,50 @@ das zwei Zuggarnituren versetzt in ein und die selbe Richtung
 fuhren. Von anderen Städten und Dörfern auf dem Exoplaneten
 ist mir auch nicht bekannt ob es sowas gab.
 
+It's like calling from europe to alaska: we are on an exoplanet and you?
+point of view (from your point of view)
+
+hide the planet we live on from whom
+(OPEN NOTPAD PRESS ENTER AND TABKEY IT IS NOT JUST A MOOD I HAVE NOT WRITTEN WINDOWS)
+
+DO YOU REACH
+PROJECTFOLDERNAME SECOND PRIMARY KEY OPEN FOLDER IN FILE EXPLORER
+
+INPUT IN EDITOR
+PRESS ENTERKEY PRESS TABKEY
+
+GO BACK TO VISUAL STUDIO SELECT IN YOUR PROJECT IF YOU WANT THE MENTIONED TEXTFILE
+PRESS SECONDARY MOUSE KEY SELECT COPY WHOLE PATH
+
+GO BACK TO THE NOTEPAD INPUT
+THE CONTENT
+
+OPEN IF YOU ARE CONECTED TO A NETWORK
+[File.CreateText(String) Methode](https://learn.microsoft.com/de-de/dotnet/api/system.io.file.createtext?view=net-6.0)
+
+type in class on form1
+YOU HAVE TO RESOLVE THE KEY OR THE KEYS FOR YOURSELF UNTIL KEYPRESS IS
+
+NOT INTEGRATED IN YOUR ENVIRONMENT
+DELET
+
+REROOT AND KEEP AN EYE ON KEYUP EVENTS
+STOP
+
+    'comments with visual basic dot net are used through a apostrophe symbol
+    'type Dim path As String = ""
+    'Dim path As String
+    'if possible try to build in the program paint on windows 10
+    'an argument for the word key with a balance between path and insert
+    'the insert key is one step below the print key
+    'copy the third line in the opened notepad
+    'use the mouse context menu or the schortkey abreviation with ctrl plus v
+    'paste
+    'C:\Users\plane\OneDrive\Desktop\RadischienSalat\EmptyScript.txt
+    'C:\...\...\...\Desktop\RadischienSalat\EmptyScript.txt
+    'i do not recognize my own environment in the internet
+    'i asume some similarities
+
     Imports System.Enum
     Imports System.ComponentModel
     Imports System.Drawing.Text
@@ -70,6 +114,7 @@ ist mir auch nicht bekannt ob es sowas gab.
         Dim InstalledFonts As New InstalledFontCollection
         Dim ColorNames(), ColorName As String
         Dim cnvrt As TypeConverter = TypeDescriptor.GetConverter(GetType(KnownColor))
+        Dim path As String = "C:\Users\plane\OneDrive\Desktop\RadischienSalat\EmptyScript.txt"
 
         'Dim ColorNames(), ColorName As String
         '    ColorNames = System.Enum.GetNames(GetType(KnownColor))
