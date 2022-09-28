@@ -85,3 +85,6 @@ v okviru windows 10 v windows 10 upoštevan z prijavo z angleško besedo await.
 
 Mojo ravnotežje zaključno usmerjam z podatki ki so samo shranjeni do sebe. In Internet explorer usmerja
 v dojemanje zunanjega sveta.
+
+![image](https://user-images.githubusercontent.com/75255909/192835437-33b01a66-13d9-4ac1-b416-0fbaef073a46.png)
+[DialogResult Enum](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.dialogresult?view=windowsdesktop-6.0)
