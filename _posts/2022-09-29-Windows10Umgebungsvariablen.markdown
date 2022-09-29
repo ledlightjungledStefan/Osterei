@@ -142,3 +142,7 @@ z mano ali tudi ne. VBdotNet nudi? površino agregacije. 10 + 5 = 15
 Nasplošna motenja nista druge architecture kot lastne. Tdui če nepoznam windows
 
 10 ogrodja. Zame strahovi in paranoija niso razvidni več kot v lastnem življenju.
+ASTROPITEKUS
+
+![image](https://user-images.githubusercontent.com/75255909/192978530-b8da3c0f-fd79-482a-a605-930f80b9dd82.png)
+![image](https://user-images.githubusercontent.com/75255909/192978338-053e6869-58b2-467a-ac49-13b40c4e7c2d.png)
