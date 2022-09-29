@@ -113,3 +113,32 @@ naprimer VPN povezave so morda razvidni s klučom ampak namesto enega symbola se
 
 da vnesti in uporabljat literarični drug symbol to se pravi če je črka a kluč 8
 je doseglijv s morda shrajenem prevodom z. a je 8 preko tipke z.
+
+Če tipke nsio rzvidne za windows 10 ogrodje brez povezave preko antene samo računalnik
+in shranjene možnosti priprava do vrstnega reda sta get end set properties.
+
+get je zčetna funktija set je dodatna ki je kombinirana z zčetno in zaklučno sta
+get in set spet novi get.
+
+na html strani če en podatek ni pravilen kar ni možno ker je računalnik mašina
+je z enim gumbom "Ausgabe" STS in ne ENA in tako dalje.
+
+Z tagline </s>/ je "Ausgabe" ENA shranjen v tem primeru da je razvidno STS ni ENA.
+tagline </span/> je lahko uporabljena z rgb ali hex in tako dalje barvo.
+
+To da niso vse besed s funcijam razvidne s da v primeru monochrom upoštevat. To
+je samo ena barva kar je zame že čista znanstvena fantastika.
+
+Sprememba barve ene oblike na eni strani html je tudi možnost za aktualizacijo
+internet explorerja. Ni nujno da je internet explorer aktualizeran.
+
+html span barva. ali hmtl span barva refresh internet explorer s podatkom.
+Trenutno še zaklučno če je povezava z internetom so lahko visual basic
+
+"gumbi" za meni in spremembe v folderju na primer html so lahko v sodelavi
+z mano ali tudi ne. VBdotNet nudi? površino agregacije. 10 + 5 = 15
+
+12 + 3 = 15 . 15 ni druga shranilna točka 10 5 12 3 so druge st (abriviation).
+Nasplošna motenja nista druge architecture kot lastne. Tdui če nepoznam windows
+
+10 ogrodja. Zame strahovi in paranoija niso razvidni več kot v lastnem življenju.
