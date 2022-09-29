@@ -88,3 +88,28 @@ v dojemanje zunanjega sveta.
 
 ![image](https://user-images.githubusercontent.com/75255909/192835437-33b01a66-13d9-4ac1-b416-0fbaef073a46.png)
 [DialogResult Enum](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.dialogresult?view=windowsdesktop-6.0)
+
+09.29 8 44
+Predpogoj da tipke niso razvidne za funktije katere upoštevam pri izbir besed tudi tipke ki
+uporabljam z miško za sebe zaklučem z nepoznano možnostjo da tudi mobilni telefoni
+
+shranjen s statistčno uporabo tipk niso nujno povezan z razvidno napetost.
+Pri določenih razlagah graivaticije so bile upštevane modelne strukture ki se
+
+nanesejo na krpo z uteženo vdolbino toraj model tudi vela za druge statistične uporabe
+če veličina prebivalstva uporablja pretežno ene vrste tipk je nerazvidna možnost
+
+za prepkrivanje zaprtih lokaciji poenstavljen tako da po poteku devh ur nabrane tipke
+določene količine so fuzijonsko usmerjene do ene ki je theoretično en konc
+
+algoritmov in permutaciji za sha ali blob to pomeni da naprimer obstajajo komande
+s katero če vnesem eno besedo so shranjene točke spremenjene v klučno kombinacijo
+
+in nameravam dokazat da VPN povezave so tako zgrajene. To se pravi kup. V enem kupu
+je z windows 10 ogrodjom možno vnest preusmeritev da prvič ni razvidna povezava
+
+drugič je razvidna povezava ampak samo kluči so razvidni. Tretič z komando shadow
+naprimer VPN povezave so morda razvidni s klučom ampak namesto enega symbola se
+
+da vnesti in uporabljat literarični drug symbol to se pravi če je črka a kluč 8
+je doseglijv s morda shrajenem prevodom z. a je 8 preko tipke z.
