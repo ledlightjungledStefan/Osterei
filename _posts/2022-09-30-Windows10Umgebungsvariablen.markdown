@@ -86,9 +86,6 @@ v okviru windows 10 v windows 10 upoštevan z prijavo z angleško besedo await.
 Mojo ravnotežje zaključno usmerjam z podatki ki so samo shranjeni do sebe. In Internet explorer usmerja
 v dojemanje zunanjega sveta.
 
-![image](https://user-images.githubusercontent.com/75255909/192835437-33b01a66-13d9-4ac1-b416-0fbaef073a46.png)
-[DialogResult Enum](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.dialogresult?view=windowsdesktop-6.0)
-
 09.29 8 44
 Predpogoj da tipke niso razvidne za funktije katere upoštevam pri izbir besed tudi tipke ki
 uporabljam z miško za sebe zaklučem z nepoznano možnostjo da tudi mobilni telefoni
@@ -142,7 +139,13 @@ z mano ali tudi ne. VBdotNet nudi? površino agregacije. 10 + 5 = 15
 Nasplošna motenja nista druge architecture kot lastne. Tdui če nepoznam windows
 
 10 ogrodja. Zame strahovi in paranoija niso razvidni več kot v lastnem življenju.
-ASTROPITEKUS
+Ni nujno da internet explorer aktualizera automatično.
 
-![image](https://user-images.githubusercontent.com/75255909/192978530-b8da3c0f-fd79-482a-a605-930f80b9dd82.png)
-![image](https://user-images.githubusercontent.com/75255909/192978338-053e6869-58b2-467a-ac49-13b40c4e7c2d.png)
+Nin nujno da VBdotNet na računalniku aktualizera automatično uvrščen shranjen "bit"!
+Preko automatične synchronizacije.
+
+Ni nujna da "user agent" "shranjen bot" "morda varnostna omarca prez dalinske naprave"
+poteza aktualizer(ana) automatično.
+
+Če so xml vrstice shranjen v automatočen? okvir brez ozira na dostavo
+za "scale vector graphik" Datei (nnn) je možno vnest vrstico za okvir -standalone- "Yes"
