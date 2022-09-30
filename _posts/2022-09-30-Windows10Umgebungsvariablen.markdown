@@ -186,3 +186,10 @@ Also alle die die Diagnose Schizophrenie führen oder geführt haben alle aller 
 Personale angemeldet mit Lizenz oder ohne nicht angemeldet mit Lizenz oder ohne
 
 auch alle Patientinen und Patienten das Leben habe ich nicht gewählt.
+Die Massenpolitik hat mein Leben zerstört.
+
+Während meiner Arbeit im Lebensmittelhandel Merkur habt Ihr die Epedemie ausgerufen.
+Wenn sich zwei streiten müssen alle anderen Bereitschaftsdienst machen um die führende
+
+politische Meinung potentiel zu untersützen auch gegen den willen aller.
+Ukraine Russland wenn sich zwei streiten. .
