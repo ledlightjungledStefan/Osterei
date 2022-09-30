@@ -19,24 +19,218 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 
 Jaz sem sam.
 
-Ich ändere Rosskastanien in Irgendeinschnitt(Rosskastanien).
-Ich drückte die linke Umschaltetaste und lies sie gedrückt. Dann
+hmtl buttons are vbdotnet buttons. controls for xml environments are
+in windows framework build with windowspresentationfonds.
 
-drückte ich Positions eins Taste und lies sie los. Danach lies ich
-die linke Umschaltetaste los.
+scenario: two shapes tagline </defs>/ can have more than one part.
+            one part can be saved in the tagline </g>/
+            
+            if two literate shapes can be moved up down left or right
+            the final stop is the question.
+            
+            beyound a final stop if just me is able to save the obtained
+            shape in a mangable filename
+            
+            it is still not easy to make a start stop sequenz.
+            the start sequenz would be if i am online
+            
+            until i do not find a solution for a stop sequenz
+            without my knowledge.
+            
+            -sign-
+            the standard procedure was overriden because the clinical
+            
+            studies for psychiatric issues was a figth for all
+            therefore in my security environment
+            
+            i decided to paste my https address to nubreaks and facebook
+            in conclusion to my knowledge
+            
+            i did not copy the cayman template with an google SEO
+            find me link support
+            
+            .
+            the sequenz mentioned above is not necessary with
+            
+            html tagline buttons but can also be reached with
+            other possibilties.
+            
+            a final link would be an refresh or update of the
+            saved form in the internet explorer.
+            
+            the link support is not the same as with async
+            await spacebar label entries through a textfile
+            
+            content. the primary case is to save the desktop
+            changes and the storage unit entries should not
+            
+            be the same as the conected link with the internet
+            explorer. some stress infront of my PC is not
+            
+            in a way i can explain for me because a VPN Tunnel
+            (i do not research or have one)
+            
+            with a shadow symbol, let's is save (say) an uni A
+            with not researched ascii A on a PC architecture
+            
+            mine that i do not know. make a sha or blob out
+            of the literaly A and the key is used with a
+            
+            shadow symbol. The theoretical "line" is screen file
+            vga technicolor responsive screen designe pc
+            
+            architecture timer kondensator storeage units
+            logical interface polygons.
+            
+            The impossible translation is server metafiles
+            type script. I am aware that screens are blinding
+            
+            someone lietrarly not me who would use an arduino
+            instead could mangae to use serverside programming.
+            
+            nowadays it is possible to have a printer with scanner
+            to make serverside programming.
+            
+            The mainframe for internetbridegs is still the question
+            programming without leds ectera lets say Phasenprüfer.
+            
+            The tension is not alawys obvious and in case someone needs
+            money and is not fit with closed systems in time.
+            
+            All over no chance.
+            Embeded Systems tend to refresh the not obvious tension
+            
+            to use antena frequencies beside serverside programming
+            and FCC rules are also concidered.
+            
+            The part i ignored while i was training and my diagnosis was
+            schizophreniea was a socalled eprom storage unit.
+            
+            You can find if possible some text about it on wiki.
+            Because the world wide paranoi tension for
+            
+            using micro changes could not be prevented. A eprom
+            for such a case is not everybodies knowledeg.
+            
+            You can if possible build a eprom i did not and
+            eproms can be erased through ultra violet ligth.
+            
+            The second possible art for storage units to evade
+            unkown tensions are socalled cassetadapters.
+            
+            C64. You can use a casset with a link like a phonehead
+            and load programms to RAM.
+            
+            See youtube videos if available.
+            One youtube video even conciders bitcoin mining with
+            
+            an old gameboy. And who can proof that nintendo games
+            have not been programmed either with only sound
+            
+            or only picture. Two buttons? Hm.
+            What i wrote is not been build by me. If you want to
+            
+            know how i can remember 555 timer and ben EATER videos
+            also carry ann an ram circuit building.
+            
+            Concider please also that latex uses signs for operators
+            that are more concidered as fusion between arithmetic
+            
+            and electric logic. i still do not find last words.
+            microsoft documentations conider timer logic. Compare
+            
+            as keyword you need at least one comperator for 555 timer
+            logic. and even if the compare lines are in comment do
+            
+            not only erase the comment symbol for vbdotnet because
+            if you want to prepare for high velocities in an
+            
+            open network first take a look at bit shifting than batch
+            filesystems have two comment possibilites
+            
+            one is rem the other ::
+            rem takes more memory and also some other cases to concider
+            
+            like if or case
+            i cannot remember take a look at your desktop windows
+            
+            if you hit with the mouse pointer something a label
+            apears and you can wait or press escape.
+            
+            github has three options to upload mediafiles
+            markdown files jhold 10mb serveruploads 25
+            
+            and clonesystem uploads 100mb
+            if you make a video the more movements the more storage
+            
+            is used. Virtual memory is a case where you can use
+            hardwarestorage disks not only ram as key or dynamic
+            
+            file systems. In literatur every named device preseeds @
+            see rps respond files.
+            
+            respond files are concidered that a device can be an interegr value
+            and is read line by line.
+            
+            to evade confiusions if possible every sheet entry is new
+            a tsunami wave can also hit a coast.
+            
+            I have not build windows often enough i pointed out
+            that first press tab and enter when you
+            
+            hit notepad to evade this possibility.
+            the :: commentsymbols do not have to be erased
+            
+            to make changes to internet systems and also the
+            above mentioned compare method can be used
+            
+            ase polygon alogorythm
+            the heaviest case are so called permutations if the
+            
+            star trek sphere computer really existes do you know
+            which room you have left?
+            
+            bitshifting is a work with the question why to shift.
+            the second timer options are dispensors like in
+            
+            red cross facilities. The word dipsensor is used to
+            prepare medication and a dispensor timer has not
+            
+            impulses like ligthhouse fire.
+            reviewe if possible oscillations that can also be
+            
+            dynamic pictures that do not move in realation and balance
+            to static pictures.
+            
+            A keyboard has also a time frame to have a different file
+            system. once i have seen a youtube video to vga screens
+            
+            like my compaq 9500 device.
+            The structure? is filled with electrons and hold by magnets
+            
+            to hold the color that is through the pins on the conector
+            saved in codes to files.
+            
+            I am also aware thet out there are many windows versions.
+            I even have not registered one context menu.
+            
+            The context menu i aim for is a bit a condensator and like
+            sheets one operator at return.
+            
+            to concider why and how a 555 timer can be used to explain
+            feedback looping.
+            
+            If you think i can make a screen with cooked onion skin
+            and citron kristalls you are wrong.
+            
+            I do not know even one person exactly that can observe my work
+            i am not blind or color blind.
+            
+            To balance the tensions is my blindnes. Good nigth.
 
-Nachdem die Zeile "Ich ändere Rosskastanien in irgendeinschnitt(Rosskastanien)"
-markiert hatte drückte ich die Steuerungstaste und lies sie gedrückt. Danach
+Ich errinere mich an die FAHRDRAHTHÖHE.
 
-drückte ich die Taste C und lies sie los. Nachdem loslassen der Steuerungstaste
-konzentrirte ich mich auf das Wort Zwischenspeicher.
-
-Ich errinere mich an die FAHRDRAHTHÖHE. Am Standortschild ist kein Korbflechtwerk
-
-übergestülpt. Radischien sind eine Möglichkeit das ich auf Lebewesen meiner Erinnerung
-Rücksicht genommen haben werde.
-
-Um genau sein zu können auch Schrumbelradischien. Ein Werkzeug mit dem keine BÄUME
+Ein Werkzeug mit dem keine BÄUME
 gefällt werden können hat eine Form zusammenhaltenden Namensschildern bei
 
 Tischgedecken. Eine Form ist in etwa so wie zwei Bierdeckel die eine A Form stehen.
