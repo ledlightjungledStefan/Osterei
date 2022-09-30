@@ -178,3 +178,11 @@ unter der Feststelltaste its eigentlich CARET falls blinkend oder und auch wenn 
 
 Meine Meinung zu dem Thema CARET ist, dass die freie Übersetzungsmöglichkeit
 vom englischen ins deutsche nicht einfach frei war.
+
+Viel Eck. <!---] [ ]°[ Bl att bL k (bulk) ai med.--->
+![image](https://user-images.githubusercontent.com/75255909/193240006-93b305b5-f069-4dec-aee5-e0b8ee0fa114.png)
+
+Also alle die die Diagnose Schizophrenie führen oder geführt haben alle aller medizinischen
+Personale angemeldet mit Lizenz oder ohne nicht angemeldet mit Lizenz oder ohne
+
+auch alle Patientinen und Patienten das Leben habe ich nicht gewählt.
