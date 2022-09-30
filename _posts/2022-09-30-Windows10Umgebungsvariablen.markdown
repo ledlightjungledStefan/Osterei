@@ -141,3 +141,40 @@ den eine "Intermission", one ADD, not Ed, ist Anweisungen an bediente Nutzfahrze
 der Landwirtschaftlichen Flächen zu geben um den Erntefall optimieren zu lernen
 
 ) bo w
+nicht in nicht
+
+am besten gar nicht in Mobilen
+PassantInen und Paasanten müssen nicht für Mobils und dergleichen Arbeiten
+
+{}
+mit VBdotNet ist es möglich eine Oberfläche zu bilden um nach druck auf eine
+
+oder die Leertaste einen "bUCHSTABEN" ein Zeichen and er selben "Stelle" Bild
+Oberfläche ersetzen zu können.
+
+Ein altes Kalenderformat kann auch sein wie ein Stapel Papiere mit Zahlen.
+Eine Tilde ~ ![image](https://user-images.githubusercontent.com/75255909/193232858-09ac278d-74e3-423a-b94f-138207c0008a.png)
+
+kann auch eine glasierte Oberfläche einer Kachel oder Fließe sein.
+C raute ist für versierte Leute schneller Abzutippen mit weniger Zeilen mit dem selben
+
+Ergebnis wie VBdoTnet.
+Bei meiner Version von Visual Studio Code ist es interessanter Weise so, dass
+
+wenn ich zwei geschwungene Klammern verwende. {} und mit deder nicht gerichteten
+Größe Rohstruktur Pfeil nach links tippe
+
+somit zwischen { } { | } der Zeileneinschub (automatisch) eine Zeile einschob.
+Sprich das passende Geräuisch, für mich, fand ich bei einer täglichen Herausforderung
+
+von hust vier Fahnen F rot grün gelb blau Puzzle.
+Die Herausforderung ist mit schon zusammengestellten Puzzelteilen die ein Schlosssymbol
+
+in einer nicht Fachkraft definierten Mitte haben.
+Ein wenig in meinem regionalem Sprchraum zur Erklärung.
+
+Die englische Bezeichnung für den Vertikalbalken, rechts von der rechten Umschaltetaste
+unter der Feststelltaste its eigentlich CARET falls blinkend oder und auch wenn nicht.
+
+Meine Meinung zu dem Thema CARET ist, dass die freie Übersetzungsmöglichkeit
+vom englischen ins deutsche nicht einfach frei war.
