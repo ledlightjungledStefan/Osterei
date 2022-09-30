@@ -22,8 +22,8 @@ Jaz sem sam.
 hmtl buttons are vbdotnet buttons. controls for xml environments are
 in windows framework build with windowspresentationfonds.
 
-scenario: two shapes tagline /<defs/> can have more than one part.
-            one part can be saved in the tagline /<g/>
+scenario: two shapes tagline \<defs\> can have more than one part.
+            one part can be saved in the tagline \<g\>
             
             if two literate shapes can be moved up down left or right
             the final stop is the question.
