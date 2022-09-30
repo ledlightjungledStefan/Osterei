@@ -195,4 +195,7 @@ politische Meinung potentiel zu untersützen auch gegen den willen aller.
 Ukraine Russland wenn sich zwei streiten. .
 
 Welcher ist der äußerste Scharfschütze welcher Bananrepublik um zu erpressen?
-Cyclonen?
+Cylonen?
+
+Wie wird die neuseste Verschlüsselung erreicht in einer Höhe von 10.000 Kilometern.
+Mit BWing oder einem MK-III Viper?
