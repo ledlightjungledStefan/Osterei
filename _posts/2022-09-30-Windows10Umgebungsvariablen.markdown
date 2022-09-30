@@ -193,3 +193,6 @@ Wenn sich zwei streiten müssen alle anderen Bereitschaftsdienst machen um die f
 
 politische Meinung potentiel zu untersützen auch gegen den willen aller.
 Ukraine Russland wenn sich zwei streiten. .
+
+Welcher ist der äußerste Scharfschütze welcher Bananrepublik um zu erpressen?
+Cyclonen?
