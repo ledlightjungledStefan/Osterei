@@ -199,3 +199,18 @@ Cylonen?
 
 Wie wird die neuseste Verschlüsselung erreicht in einer Höhe von 10.000 Kilometern.
 Mit BWing oder einem MK-III Viper?
+
+Ohne eine Antwort werde ich keine Angabe haben.
+Wie ist es möglich das die gesmate Fahrzeugindustrie auf alles Rücksicht nehmen konnte
+
+und dennoch nicht auf Fahrgemeinschaftsbewußtsein hinweist.
+Das ist so ähnlich für mich autonome Fahrbuse die von der Mobiltelefonsteuerung
+
+ausgesperrt sind. Was weiter geführt von mir mich gedeutet wird für mich von mir
+ein autonomer Autobus mit nur einem Fahrgast, zum Beispiel mir, kann mit meinem
+
+Mobiltelefon von mir gesteuert werden. Also ist nicht die Fahrgemeinschaft das
+ausschlaggebende sondern der Fahrplan. Also die Fahrplanzeiten des DR Richard
+
+Zeitplans in Letscholand für ibob optimieren. Speißingerstraße Liesing OEBB.
+Eine Auslastung der sich die Wiener Linien nicht optimal anpassen müssen.
