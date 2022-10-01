@@ -71,3 +71,16 @@ Aerogel is absorbing something infront of solar panels.
 JOMA a radio signal due to construction missing with me manual
 
 about hwo borg skin changes structure when hit by WELTRAUMMÜLL.
+If the markdown filname with date is misspelled an action error.
+
+Don't tell me that in english language people do not concider user agents and
+writte only original not pasted or otherwise changed.
+
+The mycel network is not working while and because
+the netwerk is inside and in balance with a continuum
+
+cycl. A important part of the script would be "tHE SHIP"
+"is not moving while black alert have you turned on or"
+
+"off your inside mycels".
+"wHAT DO YOU SAY THATS SCIENCE FICTION GIBBERISH JUmnP"
