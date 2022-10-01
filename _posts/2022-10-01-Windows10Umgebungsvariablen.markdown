@@ -24,3 +24,18 @@ O.
 
 samo O trenutno.
 Nur. Run.
+
+Sprechen Sie deutsch? Vielleicht.
+Ja. Nein. Ein wenig.
+
+Ich sammle keine Trophäen und bin kein Trophäenjäger.
+Jamhadar sind auch keine.              Trophäenjäger.
+
+Deep space nine. Ist nicht logisch. Hat Raumschiffe.
+A Telek R'Mor.
+
+If the xbox game cannot build a swarm antena...
+![image](https://user-images.githubusercontent.com/75255909/193401661-f4e54e9a-e35d-4c47-937f-1b46120c1994.png)
+
+I proved for myself i cannot reach control.
+![image](https://user-images.githubusercontent.com/75255909/193401741-6f4d096a-a325-446f-ad16-1d1876e3a005.png)
