@@ -39,3 +39,8 @@ If the xbox game cannot build a swarm antena...
 
 I proved for myself i cannot reach control.
 ![image](https://user-images.githubusercontent.com/75255909/193401741-6f4d096a-a325-446f-ad16-1d1876e3a005.png)
+
+![image](https://user-images.githubusercontent.com/75255909/193401901-bd46ae70-dbe5-4756-b993-deaf22f6cd87.png)
+rcipi turtel rinde
+
+spielen germ sync
