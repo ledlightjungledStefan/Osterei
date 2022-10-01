@@ -48,3 +48,6 @@ If you manage to go down there please bring me some (var-cor) to me.
 
 My me. Some regions of the planet say for chicken mymu. Estereggisalnds not. Maybe
 not confirmed. What? The lazy fox junps over the missing fog.
+
+![image](https://user-images.githubusercontent.com/75255909/193397648-45b0776f-16f8-4c2e-8036-2075acfd7771.png)
+Have you seen this bird? iS IT MOCKING  ?
