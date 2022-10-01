@@ -31,6 +31,53 @@ Maze. The fraid of us. the planet is an anxiousity.
 my mail addresse riharstefan@aon.at serach for html eml extension
 layouts and templates.
 
+Regionale
+Ottakring: OTTALING RINGKING WRANG RANK WINGO WAK
+Schwechater: JO MAJ DES VOR A SCHWÄCHEANFALL DIE HAM UNS MIT SAUERKROT VIDER EIN ZUG
+Gösser: BÖSSER
+Löwenbräu: ICH HÖR NIX
+Wieselburger: BTERUNKEN HA ICH MUSS NACH KALKSBRUG HAST DU NOCH EIN BIER
+Velipopovsky kozel:
+Union: NISO ČRKE PAČ
+Zlatorog: ANI BET AJE BTE
+Franziskaner: NA VENS NIHT BTE DAN IS EGAL
+
+Manchmal werden Star'enezitungen angeboten. Wćhrend der Tagesklink
+war eine mit letzetm Bild wo ein Mulkultimulan war im Bild
+
+und ich möchte, siehe Bild unten, auch ein Mulat sein mit Negro.
+Am besten unetr einem Bananenbrotbaum mit Hawaishirt.
+
+Hat irgendwer die AD Folge gsehn als dir CIA den Weih gwinnen lies.
+NA.
+
+Was ist politisches Versagen. Mehr Gewinnspiele.
+Sadthallen Kabaret: Denn Witz kann ich ihnen jetzt nicht sagen
+
+das ist wie Munitionsverpulverung wenn dei Deppresionnen zu stark sind.
+Falls Deppresion und die Mehrzahl von Depression nicht normal ist
+
+dann ist es eine Psychose schizophren. Und boredrline ist wenn Kindergarten
+kinder erpresst werden das sie die Preise beim Supermarkt nicht stören sollen.
+
+Meine KollegInen und Kollegen aus dem Kindergarten von damals, ich bin 44,
+hatten ein DUB STÜCK. Bevor ich mich "WIE AUF" einen Lautsprecher stellte
+
+um den Klang wie ein Musikinstrument verwenden zu können nahm ich natürlich
+Rücksicht auf in meiner Umgebung BevölkerungsteilnehmerInen.
+
+Jaz sem sam.
+Mein erklärmodel ist in etwa so war es nicht.
+
+![image](https://user-images.githubusercontent.com/75255909/193400593-d053df58-c7ce-4c02-b301-b2276db18991.png)
+ODR
+![image](https://user-images.githubusercontent.com/75255909/193400624-a5144508-3b1e-424b-9c49-dc6519b07d68.png)
+
+LÖSCH LÖSCH UMLEITUNG
+ODR
+![image](https://user-images.githubusercontent.com/75255909/193400680-f5837a07-5ebb-4268-89e8-12ff2060c770.png)
+
+
 ![image](https://user-images.githubusercontent.com/75255909/193396939-7bea07dc-edc9-4135-afbe-1f94045fd33a.png)
 
 Höchstwahrscheinlich habe ich eine Faire Chance erhalten und mein erster Eintrag in der Suchmaschine wurde
