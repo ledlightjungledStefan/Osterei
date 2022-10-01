@@ -30,3 +30,10 @@ Danke. Und hoffentlich ist danke ohne Beweis keine beleidigung gewesen.
 
 ![image](https://user-images.githubusercontent.com/75255909/193397202-d5f1bf8a-83ef-46d7-b37d-94f213564c00.png)
 stukadent Borg itspace agency
+
+Meine Aufgabe ist es den armen Planeten von Weltraumschrott befreien zu können.
+Hallo mein Name ist Stefan ich bin Arbeitslos.
+
+Also ein heißes Saunafenster durch das alle Metalle geschmolzen werden um
+kleine Zahnstocherradiosatelliten zu machen.
+
