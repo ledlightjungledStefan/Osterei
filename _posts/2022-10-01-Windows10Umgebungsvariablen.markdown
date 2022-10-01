@@ -74,3 +74,16 @@ ihavenoplandoyousendmeone
 WHOYES
 
 NOANTENA BOMBNO INSTEAD WHEATROLL AND WISH DENIED
+APP PST N IST AUCH SHAO KAHN SCHWER HAT WIN GEGEN GORO
+
+UND DIFF 100 OH GOTTOHGOTT
+![image](https://user-images.githubusercontent.com/75255909/193403251-7f002f61-55e4-43f6-a9d6-ad824ee1aefb.png)
+
+keyword preview
+[Form.KeyPreview Property](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.form.keypreview?view=windowsdesktop-6.0)
+
+if someone gender neutral wants to mogel cheat
+try to fold
+
+the example i use for my concerns
+![image](https://user-images.githubusercontent.com/75255909/193403511-aaba1017-da76-41c3-ab9f-3ba2541cc87a.png)
