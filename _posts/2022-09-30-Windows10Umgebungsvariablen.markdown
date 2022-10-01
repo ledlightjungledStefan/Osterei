@@ -51,3 +51,23 @@ not confirmed. What? The lazy fox junps over the missing fog.
 
 ![image](https://user-images.githubusercontent.com/75255909/193397648-45b0776f-16f8-4c2e-8036-2075acfd7771.png)
 Have you seen this bird? iS IT MOCKING  ?
+
+![image](https://user-images.githubusercontent.com/75255909/193397888-bba94310-2e6a-4bae-99ac-f57644a50822.png)
+![image](https://user-images.githubusercontent.com/75255909/193397929-3306775f-786e-4d77-91ad-15f7303f359e.png)
+
+![image](https://user-images.githubusercontent.com/75255909/193397954-f3f2cea7-b714-4e63-b8e1-f59de9225692.png)
+The three above never meet. that over the fox thats me.
+
+The one with micro has expertise for drawing. For important for three ALU
+steps picture wise lift iteration oscilate vector blender ecetra
+
+The left one is working on nothing.
+My try to establish a meeting is because nothing and calculations
+
+with hexic is maybe 10percent a quantuminternet connection.
+"Let's turn off internet and play hexic out of nothing."
+
+Aerogel is absorbing something infront of solar panels.
+JOMA a radio signal due to construction missing with me manual
+
+about hwo borg skin changes structure when hit by WELTRAUMMÜLL.
