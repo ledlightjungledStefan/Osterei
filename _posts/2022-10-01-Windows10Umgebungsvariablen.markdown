@@ -20,6 +20,17 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 Jaz sem sam.
 
 To evade tensions for an offline work with windows 10.
+I for Me: It can't be i do not belive in advanced air mousing.
+
+Advanced airmousing C.
+M-BT58 Wheel Mouse Logect: i HAVE pending ON my label but that is
+
+not possible because i have a cabel mouse. Cat ecetar.
+Maze. The fraid of us. the planet is an anxiousity.
+
+my mail addresse riharstefan@aon.at serach for html eml extension
+layouts and templates.
+
 ![image](https://user-images.githubusercontent.com/75255909/193396939-7bea07dc-edc9-4135-afbe-1f94045fd33a.png)
 
 Höchstwahrscheinlich habe ich eine Faire Chance erhalten und mein erster Eintrag in der Suchmaschine wurde
