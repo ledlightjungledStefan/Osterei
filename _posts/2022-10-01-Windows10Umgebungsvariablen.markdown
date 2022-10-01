@@ -84,3 +84,12 @@ cycl. A important part of the script would be "tHE SHIP"
 
 "off your inside mycels".
 "wHAT DO YOU SAY THATS SCIENCE FICTION GIBBERISH JUmnP"
+
+Enough of billig talk smash the side in the mycel realm.
+On the other side do not hesitate the mycel subtrat
+
+is very slow with a slice of ananas sorry pineaple.
+So you want to tell me that we need a fast organic
+
+matter with the ship subtrat. No it is just a script
+air mousing.
