@@ -16,74 +16,69 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 <br>
 ° index
 
-H m hh
-![image](https://user-images.githubusercontent.com/75255909/193400977-03d05a00-d1fb-43f5-865b-bc6fe8be1c66.png)
-
 Jaz sem sam.
-Kjero črko vadim?
+Če bi moral upoštevat razlog za moj jezikvni merodaj
 
-O.
-samo O trenutno.
+(jezikovni)
+ne stanujem v sloveniji temveč v avstriji.
 
-Nur. Run.
-Sprechen Sie deutsch? Vielleicht.
+Trenutno se šalim z možnostjo da bi govotil v sloveniji
+kar tudi v sloveniji nebi spregovoru.
 
-Ja. Nein. Ein wenig.
-Ich sammle keine Trophäen und bin kein Trophäenjäger.
+Najdi.si
+Kvato?
 
-Jamhadar sind auch keine.              Trophäenjäger.
-Deep space nine. Ist nicht logisch. Hat Raumschiffe.
+Ja ne gucaij afne.
+Azo gunncaija.
 
-A Telek R'Mor.
-If the xbox game cannot build a swarm antena...
+Ke so kleüe ni uspelo.
+Amaste motorične motne. Ne počasi. HAHA VEJICA TO NISMEŠNO.
 
-![image](https://user-images.githubusercontent.com/75255909/193401661-f4e54e9a-e35d-4c47-937f-1b46120c1994.png)
-I proved for myself i cannot reach control.
+Kajto? Tosa toraij samo pošasi tipkate. Da ali vi?
+Aso počasi ne po äh poöaüi počaši.
 
-![image](https://user-images.githubusercontent.com/75255909/193401741-6f4d096a-a325-446f-ad16-1d1876e3a005.png)
-![image](https://user-images.githubusercontent.com/75255909/193401901-bd46ae70-dbe5-4756-b993-deaf22f6cd87.png)
+Ne spomnin se vseh besed. Guncaij.
+Kato? Z windows tipko in kvajeto space space? ja res sam
 
-rcipi turtel rinde
-spielen germ sync
+zresn se reis ena cam
+hrvatburgenland outlet
 
-![image](https://user-images.githubusercontent.com/75255909/193402428-e15d484d-1b0f-4f9f-9988-4b14acfaecb8.png)
-F L Ü L I N G S L O L E
+Z windows tipko in skuza neskuta spacebar tipko preklaplam
+med v v avstrisko nemšöino kitaijitd?
 
-SEKTOR
-EXHAUSTED PROOF THAT I CANNOT REACH CONTROL
+IZ avstriske tipkovnice na slovensko in zelo redko na nemško.
+![image](https://user-images.githubusercontent.com/75255909/193407845-69c9fde6-bcc0-4a67-9caf-1b8e29a4d64d.png)
+ 
+Pu.
+Windows office 360 ir a product to is a product to record makros and
 
-![image](https://user-images.githubusercontent.com/75255909/193402505-f3a91ec6-289e-4533-a051-e11f7a1adc3a.png)
-Das Ziel, nicht der Himmel, ist offline Programmierung.
+also to recored waht has been typed.
+ok record what has been typed.
 
-Mit MiSto, siehe fourcolorflag sourrounded with slices of not identified app PST
-habe ich download, download prinzi piel move move tiger and droagn chi gong
+The two other options are with blender to screen the typed keys
+and a github porgram named carnage.
 
-without zpc than 15 min total core workout ect
-without electricity bulk bad jojo G5
+The icecream screen recorder is literaly with the above options something like
+grammar is only obvious when
 
-286 do you know timer algo moos wet notdrop radio in water
-you no
+also with ipanema and next year the world exploded earlier.
+The newly build inkscape is with file content
 
-TINYTIMER <-
-THE NEXT WATER DROP FROM PLANET TO UPSIDE DOWN KANU
+opened in visual studio code
+excelent scale vektor graphic xml was is anmeldung
 
-N
-riharstefan@aon.at
+?
+SOL 4joke.
 
-ihavenoplandoyousendmeone
-WHOYES
+Now if i remain alone the soap opera earth 2 is not
+a chracter with me.
 
-NOANTENA BOMBNO INSTEAD WHEATROLL AND WISH DENIED
-APP PST N IST AUCH SHAO KAHN SCHWER HAT WIN GEGEN GORO
+You can serach the network.
+The punch arround with words.
 
-UND DIFF 100 OH GOTTOHGOTT
-![image](https://user-images.githubusercontent.com/75255909/193403251-7f002f61-55e4-43f6-a9d6-ad824ee1aefb.png)
+Screw.
+Hm.
 
-keyword preview
-[Form.KeyPreview Property](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.form.keypreview?view=windowsdesktop-6.0)
+I KÄN SINK I KÄN FLAIJ I KÄN SINK I KÄN TAČ DÄ SKAIJ
+MY PONI IZ OVER VIS MI.
 
-if someone gender neutral wants to mogel cheat
-try to fold
-
-the example i use for my concerns
-![image](https://user-images.githubusercontent.com/75255909/193403511-aaba1017-da76-41c3-ab9f-3ba2541cc87a.png)
