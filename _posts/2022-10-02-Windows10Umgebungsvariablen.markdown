@@ -89,3 +89,32 @@ youtube video preset_pictures should 2MB or less
 
 I KÄN SINK I KÄN FLAIJ I KÄN SINK I KÄN TAČ DÄ SKAIJ
 MAIJ PONI IZ OVER VIS MI.
+
+dissect
+![image](https://user-images.githubusercontent.com/75255909/193444016-809ffc73-64d6-48c5-a04f-8ca058f58a7a.png)
+
+leodotorg
+![image](https://user-images.githubusercontent.com/75255909/193444425-4d74f848-0b04-4291-ab16-fd0510d477aa.png)
+
+[Form.KeyPreview Property](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.form.keypreview?view=windowsdesktop-6.0)
+Gets or sets a value indicating whether the form will receive key events before the event is passed to the control that has focus.
+
+[Aggregation Operations (Visual Basic)](https://learn.microsoft.com/En-Us/Dotnet/visual-basic/programming-guide/concepts/linq/aggregation-operations)
+10 + 5 = 15 12 + 3 = 15
+
+case get 15 set 15 + 12 get 27
+
+          If Not ToggleSwitch Then
+              Define.Text = "Status: OFF"
+          Else
+              Define.Text = "Status: ON"
+              Me.ActiveControl = Nothing
+          End If
+          
+key events before the event is passed to the control that has focus.
+<br>
+            before the event is passed to the control that has focus.
+            
+      Private Sub Define_Leave(sender As Object, e As EventArgs) Handles Define.Leave
+          MessageBox.Show(message)
+      End Sub           
