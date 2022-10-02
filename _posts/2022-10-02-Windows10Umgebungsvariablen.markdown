@@ -207,7 +207,7 @@ key events before the event is passed to the control that has focus.
                     End Sub
                 End Class
 
-![image](https://user-images.githubusercontent.com/75255909/193451991-6bdb16bb-5c51-4854-92a7-30a8f58834df.png)
-![image](https://user-images.githubusercontent.com/75255909/193454119-ab00a5ea-59f4-4b10-842a-50ef716d747f.png)
-
-ven da mal di einen niht auf di nerfen gen dan di andrn
+Dimension
+Dim secondletter = "B"
+Dim secondletter As Char
+Dim secondletter As Char = "B"
