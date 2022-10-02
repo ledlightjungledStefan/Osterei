@@ -81,5 +81,11 @@ Jaz sem sam.
 riharstefan@aon.at
 ![image](https://user-images.githubusercontent.com/75255909/193438846-6da0b85c-b6e2-4e26-ae30-ca99d3cdef84.png)
 
+![image](https://user-images.githubusercontent.com/75255909/193439235-978528c0-0dee-479f-b9e6-ccb2a9aff91b.png)
+youtube video preset_pictures should 2MB or less
+
+![image](https://user-images.githubusercontent.com/75255909/193439288-fef8066e-0182-48e6-b43d-a4ce6865d976.png)
+\<s\>
+
 I KÄN SINK I KÄN FLAIJ I KÄN SINK I KÄN TAČ DÄ SKAIJ
 MAIJ PONI IZ OVER VIS MI.
