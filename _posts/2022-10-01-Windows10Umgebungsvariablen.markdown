@@ -17,68 +17,69 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ° index
 
 Jaz sem sam.
-Če bi moral upoštevat razlog za moj jezikvni merodaj
 
-(jezikovni)
-ne stanujem v sloveniji temveč v avstriji.
+    Public Class Form1
+        Public WithEvents TheRest As New Button
+        Public WithEvents Define As New Button
+        Public Sub New()
 
-Trenutno se šalim z možnostjo da bi govotil v sloveniji
-kar tudi v sloveniji nebi spregovoru.
+            ' Dieser Aufruf ist für den Designer erforderlich.
+            InitializeComponent()
 
-Najdi.si
-Kvato?
+            ' Fügen Sie Initialisierungen nach dem InitializeComponent()-Aufruf hinzu.
+            FairWay(TheRest)
+            Bunker(Define)
+            Me.Controls.AddRange({TheRest, Define})
+        End Sub
+        Public Sub FairWay(Ignite As Button)
+            With Ignite
+                .Location = New Point(50, 50)
+                .Size = New Size(100, 100)
+                .Text = "Click me"
+            End With
+        End Sub
+        Public Sub Bunker(Device As Button)
+            With Device
+                .Location = New Point(250, 50)
+                .Size = New Size(100, 100)
+                .Text = "Click me"
+          End With
+      End Sub
 
-Ja ne gucaij afne.
-Azo gunncaija.
+      Public ToggleSwitch As Integer
+      Private Sub Define_Click(sender As Object, e As EventArgs) Handles Define.Click
+          If Not ToggleSwitch Then
+              Define.Text = "Status: OFF"
+          Else
+              Define.Text = "Status: ON"
+          End If
+          ToggleSwitch = Not ToggleSwitch
+      End Sub
 
-Ke so kleüe ni uspelo.
-Amaste motorične motne. Ne počasi. HAHA VEJICA TO NISMEŠNO.
+      Private Sub Define_Leave(sender As Object, e As EventArgs) Handles Define.Leave
+          MessageBox.Show(message)
+      End Sub
 
-Kajto? Tosa toraij samo pošasi tipkate. Da ali vi?
-Aso počasi ne po äh poöaüi počaši.
+      Public message As String = "Hello, MessageBox!, Pumpkin_Device"
+      Public Buttons As Integer = MessageBoxButtons.YesNo
+      Public Result As DialogResult
 
-Ne spomnin se vseh besed. Guncaij.
-Kato? Z windows tipko in kvajeto space space? ja res sam
+      'Private Sub Define_Enter(sender As Object, e As EventArgs) Handles Define.Enter
+      '    Result = MessageBox.Show(Me, message, Buttons)
+      '    If Result = System.Windows.Forms.DialogResult.Yes Then
 
-zresn se reis ena cam
-hrvatburgenland outlet
+      '        Me.Close()
 
-Z windows tipko in skuza neskuta spacebar tipko preklaplam
-med v v avstrisko nemšöino kitaijitd?
+      '    End If
+      'End Sub
 
-IZ avstriske tipkovnice na slovensko in zelo redko na nemško.
-![image](https://user-images.githubusercontent.com/75255909/193407845-69c9fde6-bcc0-4a67-9caf-1b8e29a4d64d.png)
- 
-Pu.
-Windows office 360 ir a product to is a product to record makros and
+      'Private Sub TheRest_Click(sender As Object, e As EventArgs) Handles TheRest.Click
+      '    MessageBox.Show(message)
+      'End Sub
+    End Class
 
-also to recored waht has been typed.
-ok record what has been typed.
-
-The two other options are with blender to screen the typed keys
-and a github porgram named carnage.
-
-The icecream screen recorder is literaly with the above options something like
-grammar is only obvious when
-
-also with ipanema and next year the world exploded earlier.
-The newly build inkscape is with file content
-
-opened in visual studio code
-excelent scale vektor graphic xml was is anmeldung
-
-?
-SOL 4joke.
-
-Now if i remain alone the soap opera earth 2 is not
-a chracter with me.
-
-You can serach the network.
-The punch arround with words.
-
-Screw.
-Hm.
+riharstefan@aon.at
+![image](https://user-images.githubusercontent.com/75255909/193438846-6da0b85c-b6e2-4e26-ae30-ca99d3cdef84.png)
 
 I KÄN SINK I KÄN FLAIJ I KÄN SINK I KÄN TAČ DÄ SKAIJ
-MY PONI IZ OVER VIS MI.
-
+MAIJ PONI IZ OVER VIS MI.
