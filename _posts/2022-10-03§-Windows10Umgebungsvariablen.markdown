@@ -238,3 +238,5 @@ Statt aufzuklären kriminalisiert ihr.
 
 Ihr verschwendet Steuergelder um andere Menschen die eure Rechnungen bezahlen
 mit Konzentrationen zu stören die euer Kriege fördern.
+
+![image](https://user-images.githubusercontent.com/75255909/193480163-3fc488c1-3e00-456c-9a3c-4843c5b944a6.png)
