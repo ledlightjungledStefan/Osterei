@@ -234,3 +234,7 @@ Dim secondletter As Char = "B"
                 End Class
 
 ![image](https://user-images.githubusercontent.com/75255909/193456295-572d7fdf-fbe2-4a9b-8240-90691655a8e5.png)
+Statt aufzuklären kriminalisiert ihr.
+
+Ihr verschwendet Steuergelder um andere Menschen die eure Rechnungen bezahlen
+mit Konzentrationen zu stören die euer Kriege fördern.
