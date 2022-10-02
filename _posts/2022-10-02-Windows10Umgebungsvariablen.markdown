@@ -211,3 +211,26 @@ Dimension
 Dim secondletter = "B"
 Dim secondletter As Char
 Dim secondletter As Char = "B"
+
+                Imports System.IO
+
+                Public Class Form1
+                    Dim message As String = Nothing
+                    Async Sub KlasseStattMasse(message)
+                        Dim secondletter As Char = "B"
+                        Using writer As StreamWriter = File.CreateText(message)
+                            Await writer.WriteAsync(secondletter)
+                        End Using
+                    End Sub
+                    Private Sub Form1_Click(sender As Object, e As EventArgs) Handles Me.Click
+                        Me.ActiveControl = Nothing
+                    End Sub
+                    Private Sub Form1_KeyUp(sender As Object, e As KeyEventArgs) Handles Me.KeyUp
+                        Select Case e.KeyCode
+                            Case Keys.Space
+                                KlasseStattMasse(message) 'C:\eintext.txt
+                        End Select
+                    End Sub
+                End Class
+
+![image](https://user-images.githubusercontent.com/75255909/193456295-572d7fdf-fbe2-4a9b-8240-90691655a8e5.png)
