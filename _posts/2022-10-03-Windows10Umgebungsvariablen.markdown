@@ -197,3 +197,26 @@ Press enter.
         End Select
 <!------->
 ![image](https://user-images.githubusercontent.com/75255909/193648991-51d89191-b6d8-4803-aa06-c64964f7fd6e.png)
+
+The Notepad with a windows version editor, is one of the first questions
+in a buero, a firm that deals with ccnt coconuts while
+
+having fun with monkey tupel
+. If humanity migth press buttons what is a question?
+
+A control character? What, cool new husten care act?
+registred stones?
+
+A line? Of what? Coconut?
+How do i try to recognize something for example a capacitor?
+
+I imagine that the first step is the hardest, pst donot say timer?
+So the second is a not obvious storage unit.
+
+Like a cab extension file. Hi i am a control char.
+And where is the next storage unit to aim?
+
+Without THE operator, blind as a bat.
+I asmue for me a control char is not used with timers.
+
+Only with storage units and capacitors.
