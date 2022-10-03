@@ -167,4 +167,33 @@ A button on a form can be triggered with the enter key.
 For me it is like storage units are not changed, hm complicated, yes
 ![image](https://user-images.githubusercontent.com/75255909/193640318-8a87f60a-ae42-4939-a478-4a3cb10d2f99.png)
 
-What is you pin a text to a function that already exists? In MY case nothing.
+What is if you pin a text to a function that already exists? In MY case nothing.
+![image](https://user-images.githubusercontent.com/75255909/193642322-a855e406-28c6-4e00-8fbe-5e43c13b10cb.png)
+
+Caret set in Visual Studio in above Form1 to the define_leave event
+at the sub end line.
+
+Enter and next "empty" line, aimed with not through
+as i asmue Steuerung plus F2 release and hit tabulatorkey.
+
+Press down key, press up key, press enter.
+Press tabulatorkey, press downkey, chose keyup event.
+
+Press enter.
+![image](https://user-images.githubusercontent.com/75255909/193645161-bce61d99-b38f-4707-b6d8-34f21f03c27a.png)
+
+![image](https://user-images.githubusercontent.com/75255909/193645756-264fe0dc-af95-4ae5-9c08-3e05ea0a8ce2.png)
+
+    Async Sub KlasseStattMasse(message)
+        Dim secondletter As Char = "B"
+        Using writer As StreamWriter = File.CreateText(message)
+            Await writer.WriteAsync(secondletter)
+        End Using
+    End Sub
+ <!------>   
+        Select Case e.KeyCode
+            Case Keys.Space
+                KlasseStattMasse("C:\eintext.txt")
+        End Select
+<!------->
+![image](https://user-images.githubusercontent.com/75255909/193648991-51d89191-b6d8-4803-aa06-c64964f7fd6e.png)
