@@ -26,95 +26,145 @@ Kumul-Dattel
 ![image](https://user-images.githubusercontent.com/75255909/193556849-671685b7-aa5c-4994-8633-4ca0d7457d38.png)
 ![image](https://user-images.githubusercontent.com/75255909/193557449-d51498da-e02c-45a9-ba3c-2dcda80a95db.png)
 
-Nachdem ich noch immer alleine bin und keine Antwort
-erhalten habe
+Hallo mein Name ist Stefan. Ich lerne Programmieren.
+PCs bauen ist schwer erklären dagegn sehr.
 
-In Visual Studio mit einer VB dot NET Oberfläche
-sind nicht nur die Tipprichtungen zu beachten
+In the movie the 5 Elemnt the object a scpaeship had
+some sort of something that was removed befor a start
 
-sondern auch die Reihenfolge der
-[Logical/Bitwise Operators (Visual Basic)](https://learn.microsoft.com/en-us/dotnet/visual-basic/language-reference/operators/logical-bitwise-operators)
+sequenz was launched. I strongly recomend me for myself
+it has not been a take off.
 
-Deswegen sind auch gewohnte Sachen
-        'Dim result As DialogResult = MessageBox.Show(message, title, CType(Buttons, MessageBoxButtons))
-        
-Als Priorität so gereiht, dass nicht die Formklasse aufgerufen
-ohne Debbugen Steuerung plus F5
+If you would ask someone related to me how to build a
+hardware device you would get as answer nothing. Silence.
 
-an erster Stelle stand sondern die in der Kommentarzeile
-als ein DialogResult gespeicherte MessageBox
+The something was silnce. If you maybe try to interogate the
+silented from my point of view something you could not live
 
-und nachdem Visual Studio eine SandBox ist
-kann auch die Reihenfolge individuell studiert werden
+with the answer to build a PC.
+The amount of a potato or citron battery electriciity used to
 
-mit Zeilen wie
+build a striagth line depneds. You ask maybe yourself on what?
+Depends.
 
-    'Public message As String = "Hello, MessageBox!, Pumpkin_Device"
-    Public Buttons As Integer = MessageBoxButtons.YesNo
-    'Public Result As DialogResult
-
-    Dim message As String = "Do you want to close this window?"
-    Dim title As String = "Close Window"
-
-wenn ich die Zeilen oben noch einmal einfüge
-
-    'Dim title As String = "" und die in etwa bekannten englischen Wörter beachten kann
-    in die VB Kommentarzeilensymboleingabe verschiebe
-    
-    und als Möglichen code ausgebe mit dem Tipprahmen Public title As String = ""
-    lerne ich LESEN.
-   
-    Public message As String = "Hello, MessageBox!, Pumpkin_Device"
-    Public Buttons As Integer = MessageBoxButtons.YesNo
-    Public Result As DialogResult
-
-    Dim message As String = "Do you want to close this window?"
-In Visual Studio ist nach dem erstellen eines Formprojects
-
-nur der Formkartekartenreiterfensterbereich als eine Kartekarte gereiht.
-survive buk
-
-Um das codefenster öffnen zu können muss F7 gedrückt
-werden. \<p\>
-
-F7 Taste in der obersten Reihe eines hoffentlich nicht nur Logitech
-Keyboards antippen und loslassen.
-
-Um Events, Ereignisse nicht abtippen zu müssen, den manche Eingaben
-können beim LESEN lernen von diversen Programmiersprachen sehr
-
-verwirrend sein.
-Können nach dem halten der Steureungstaste plus F2
-
-unterhalb der Karteikartensymbole, auf der linken Seite
-nach druck der Drucktaste rechts oben neben der F12
-
-Taste die Änderungen des Bereichs nach dem Einfügen
-in das Paint respektive Malprogrammes und mit dem
-
-Zeigegerät Mauszeiger anvisieren der Ansicht nachträglich
-an Größe geändert werden.
-
-![image](https://user-images.githubusercontent.com/75255909/193585562-c1ea14ef-98b0-4d84-af1a-942b9d3f92fb.png)
-Nachdem entspannen der Konzetrationen im Malprogrammfenster
-
-noch eine in Anführungszeichen Tabulatortaste bilden
-und auf leodotorg nachsehen was Anführungszeichen im englischen
-
-Sprachbereich sind solange nicht regionale Strukturen
-selbstverständlich gebildet werden können.
-
-Nachdem wählen des Visual Studiofensters in Windows mit dem
-Drücken der Alternatetaste und dem wiederholten loslassen
-
-der Tabulatortaste des wahlweise eines Keyboards
-bis das Visual Studiofenster gewählt werden konnte.
-
-![image](https://user-images.githubusercontent.com/75255909/193586525-ab855188-e68b-4658-9d32-66680421f9bf.png)
-![image](https://user-images.githubusercontent.com/75255909/193587388-4e42f830-8ae7-4704-b34c-83202541143a.png)
-
-Meanwhile
-<br>
-
+Auf der Seite
 [Button.DialogResult Property](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.button.dialogresult?view=windowsdesktop-6.0)
-pause
+
+meine nächste Wahl ist
+my next choice is
+
+![image](https://user-images.githubusercontent.com/75255909/193627792-94e26d47-c25d-4586-81a1-b795df45844f.png)
+![image](https://user-images.githubusercontent.com/75255909/193627932-6b867750-dc21-4277-9522-3afcd3c93ea9.png)
+<br>
+leo dot org
+
+to simply press the ENTER key when they are finished instead of manually clicking the accept button with their mouse.
+![image](https://user-images.githubusercontent.com/75255909/193628621-f897b21e-a987-4a45-90ee-e586cefe1c7e.png)
+
+        Public Class Form1
+            Public WithEvents TheRest As New Button
+            Public WithEvents Define As New Button
+
+            Public title As String = "Operator indexes"
+            Public Buttons As Integer = MessageBoxButtons.YesNo
+            Public Result As DialogResult
+            Public message As String = "Hello, MessageBox!, Pumpkin_Device"
+
+            Public Sub New()
+
+                ' Dieser Aufruf ist für den Designer erforderlich.
+                InitializeComponent()
+
+                ' Fügen Sie Initialisierungen nach dem InitializeComponent()-Aufruf hinzu.
+                FairWay(TheRest)
+                Bunker(Define)
+                Me.Controls.AddRange({TheRest, Define})
+            End Sub
+            Public Sub FairWay(Ignite As Button)
+                With Ignite
+                    .Location = New Point(50, 50)
+                    .Size = New Size(100, 100)
+                    .Text = "Click me"
+                End With
+            End Sub
+            Public Sub Bunker(Device As Button)
+                With Device
+                    .Location = New Point(250, 50)
+                    .Size = New Size(100, 100)
+                    .Text = "Click me"
+                End With
+            End Sub
+
+            Public ToggleSwitch As Integer
+            Private Sub Define_Click(sender As Object, e As EventArgs) Handles Define.Click
+                If Not ToggleSwitch Then
+                    Define.Text = "Status: OFF"
+                Else
+                    Define.Text = "Status: ON"
+                    Me.ActiveControl = Nothing
+                End If
+                ToggleSwitch = Not ToggleSwitch
+            End Sub
+
+            Private Sub Define_Leave(sender As Object, e As EventArgs) Handles Define.Leave
+                MessageBox.Show(message, title, CType(Buttons, MessageBoxButtons))
+                Result = MessageBox.Show(message, title, CType(Buttons, MessageBoxButtons))
+
+                'If Result = System.Windows.Forms.DialogResult.Yes Then
+
+                '    Me.AcceptButton = TheRest
+
+                'End If
+            End Sub
+        End Class
+
+<!------>
+
+    Private Sub Define_Leave(sender As Object, e As EventArgs) Handles Define.Leave
+        MessageBox.Show(message, title, CType(Buttons, MessageBoxButtons))
+        Result = MessageBox.Show(message, title, CType(Buttons, MessageBoxButtons))
+
+        If Result = System.Windows.Forms.DialogResult.Yes Then
+
+            Me.AcceptButton = TheRest
+
+        End If
+    End Sub
+    
+Where is the difference if there is one?
+What tools do i have to find a solution for my question?
+
+First if i would know the capacitor operator positions with our without a timer
+(wolf cry rather high) i would have typed to solve my question.
+
+Second, events.
+I have a button with a dimensionname 'define'.
+
+Used with this or that.
+NA. Still i can use a click event with the other button.
+
+It is not possible to get rid of
+![image](https://user-images.githubusercontent.com/75255909/193632121-b95c5b0e-6e5c-43f6-967f-9b65d2d7064c.png)
+
+under any circumstances this is not possible
+![image](https://user-images.githubusercontent.com/75255909/193632571-56ca1532-b9f8-41ae-a8dc-6b424e82c49e.png)
+
+this maybe
+![image](https://user-images.githubusercontent.com/75255909/193633953-b22fef19-6387-4743-9d7d-11a4de9a7fb2.png)
+
+The worlds or at least my worlds solution grid without solved
+properties is that even if change of matter occures
+
+while elektrons with the proper proton and neutron keys
+are moved or are moving a phse for buildnig words or sentences
+
+is not changing storage units connected to logic circuits.
+The aimed change is not predefined.
+
+A button on a form can be triggered with the enter key.
+![image](https://user-images.githubusercontent.com/75255909/193637047-979c6154-93b7-4816-97c0-2ebeb7c4ca0e.png)
+
+For me it is like storage units are not changed, hm complicated, yes
+![image](https://user-images.githubusercontent.com/75255909/193640318-8a87f60a-ae42-4939-a478-4a3cb10d2f99.png)
+
+What is you pin a text to a function that already exists? In MY case nothing.
