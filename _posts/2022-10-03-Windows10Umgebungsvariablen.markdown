@@ -190,12 +190,16 @@ Press enter.
             Await writer.WriteAsync(secondletter)
         End Using
     End Sub
- <!------>   
+    
+ <!------>
+ 
         Select Case e.KeyCode
             Case Keys.Space
                 KlasseStattMasse("C:\eintext.txt")
         End Select
-<!------->
+        
+<!------>
+
 ![image](https://user-images.githubusercontent.com/75255909/193648991-51d89191-b6d8-4803-aa06-c64964f7fd6e.png)
 
 The Notepad with a windows version editor, is one of the first questions
@@ -220,3 +224,146 @@ Without THE operator, blind as a bat.
 I asmue for me a control char is not used with timers.
 
 Only with storage units and capacitors.
+
+        Imports System.Enum
+        Imports System.ComponentModel
+        Imports System.Drawing.Text
+        Imports System.IO
+        Public Class Form1
+            Public WithEvents Tortenheber As New Label
+            Public WithEvents PflanzlichesGele As New ListBox
+            Public WithEvents Yoghurtarten As New ListBox
+            Dim FontObjList As New ArrayList
+            Dim ColorObjList As New ArrayList
+            Dim Family As FontFamily
+            Dim InstalledFonts As New InstalledFontCollection
+            Dim ColorNames(), ColorName As String
+            Dim cnvrt As TypeConverter = TypeDescriptor.GetConverter(GetType(KnownColor))
+            Dim message As String = Nothing
+            Dim path As String = "C:\Users\plane\OneDrive\Desktop\RadischienSalat\EmptyScript.txt"
+
+            'Dim ColorNames(), ColorName As String
+            '    ColorNames = System.Enum.GetNames(GetType(KnownColor))
+            '    Dim cnvrt As TypeConverter = TypeDescriptor.GetConverter(GetType(KnownColor))
+
+            'For Each ColorName In ColorNames
+            '        ColorObjList.Add(Color.FromKnownColor(cnvrt.ConvertFromString(ColorName)))
+            '    Next
+
+            '    SmoothieMixer.DataSource = ColorObjList
+
+            Public Sub New()
+
+                ' Dieser Aufruf ist für den Designer erforderlich.
+                InitializeComponent()
+
+                ' Fügen Sie Initialisierungen nach dem InitializeComponent()-Aufruf hinzu.
+                Me.Controls.AddRange({Tortenheber, PflanzlichesGele, Yoghurtarten})
+                BrecherWerte(PflanzlichesGele)
+                BifidusKulturen(Yoghurtarten)
+                HekelPapier(Tortenheber)
+            End Sub
+
+            Sub BrecherWerte(KoordinatenSystem As ListBox)
+                For Each Family In InstalledFonts.Families
+                    Try
+                        FontObjList.Add(New Font(Family, 12))
+                    Catch
+
+                    End Try
+                Next
+                With KoordinatenSystem
+                    .Location = New Point(100, 100)
+                    .Size = New Size(300, 150)
+                    .DataSource = FontObjList
+                    .DisplayMember = "Name"
+                End With
+            End Sub
+            Sub BifidusKulturen(LuftfeuchtigkeitsWerte As ListBox)
+                ColorNames = GetNames(GetType(KnownColor))
+                For Each ColorName In ColorNames
+                    ColorObjList.Add(Color.FromKnownColor(cnvrt.ConvertFromString(ColorName)))
+                Next
+                With LuftfeuchtigkeitsWerte
+                    .Location = New Point(450, 100)
+                    .Size = New Size(300, 150)
+                    .DataSource = ColorObjList
+                    .DisplayMember = "Name"
+                End With
+            End Sub
+            Sub HekelPapier(SchriftArten As Label)
+                Dim reader = My.Computer.FileSystem.ReadAllText(path & message)
+                With SchriftArten
+                    .Location = New Point(200, 300)
+                    .Size = New Size(450, 100)
+                    .Text = reader
+                    .DataBindings.Add("ForeColor", ColorObjList, "")
+                    .DataBindings.Add("Font", FontObjList, "")
+                End With
+            End Sub
+            Async Sub KlasseStattMasse(message)
+                Dim secondletter As Char = "B"
+                Using writer As StreamWriter = File.CreateText(message)
+                    Await writer.WriteAsync(secondletter)
+                End Using
+
+            End Sub
+            Private Sub Form1_Click(sender As Object, e As EventArgs) Handles Me.Click
+                Me.ActiveControl = Nothing
+                MessageBox.Show("")
+            End Sub
+            Private Sub Form1_KeyUp(sender As Object, e As KeyEventArgs) Handles Me.KeyUp
+                Select Case e.KeyCode
+                    Case Keys.Space
+                        KlasseStattMasse(message)
+                End Select
+            End Sub
+        End Class
+
+Colour can be storage. Resin
+From Wikipedia, the free encyclopedia
+
+If i try to find natural electricity naw i think about kligthning
+. Some blossoms attached to a rasin migth do the job.
+
+If the "colour" is fried, what else, mhm i cannot say, storage
+for colour?
+
+A label without control is just, what storage for colours?
+A capacitor is like a battery not filed with electricity.
+
+Operators like minus and plus can also be circuits.
+The steps without start and end sequenz for building
+
+a control with ? are not defined.
+![image](https://user-images.githubusercontent.com/75255909/193657484-ed9a3c80-bffd-4998-8d96-099626037c3b.png)
+
+If i would have to build visula studio offline what is possible
+it would take me approximatly 50 years counting.
+
+Long ago the word refresh astonished me. In german i used Rindfleisch the word.
+A regenrinne is a without leo dot org matrial bowed for rainwater
+
+to reroor the rainwater Reh fresh?
+T.
+
+Intrnet is a unspeakable language. Why should i ask
+sorry do you have thermaldetonator?
+
+A what? A sphere on a Schreibmaschine.
+If someone can#t yes. No.
+
+Hm.
+Takeshiscastel. For me its like computers evolved me not.
+
+![image](https://user-images.githubusercontent.com/75255909/193659648-8f8db3ed-874e-4366-a5c6-ea155ce046df.png)
+Maybe it is obvious.
+
+A Textfile output in albel, with the textfile content
+"Click an item in one of the lists above to change the font or color of this text.
+
+Once the initial conditions are set up (i.e the binding) this operation happens
+automatically"
+
+![image](https://user-images.githubusercontent.com/75255909/193660540-475e4b99-827c-4482-875c-f555feb27705.png)
+b is missing
