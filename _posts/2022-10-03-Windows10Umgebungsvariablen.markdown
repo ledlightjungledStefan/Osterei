@@ -252,4 +252,8 @@ mit Konzentrationen zu stören die euer Kriege fördern.
 ![image](https://user-images.githubusercontent.com/75255909/193484469-cd6e9bd5-b0a8-4bcc-b796-01da7d1d94c0.png)
 
 Kumul-Dattel
+<br>
+
 ![image](https://user-images.githubusercontent.com/75255909/193556849-671685b7-aa5c-4994-8633-4ca0d7457d38.png)
+![image](https://user-images.githubusercontent.com/75255909/193557449-d51498da-e02c-45a9-ba3c-2dcda80a95db.png)
+
