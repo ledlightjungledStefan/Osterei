@@ -59,6 +59,12 @@ and maybe the labeltext is not refreshed.
 So if the storage units are proofed still the so
 called "abhören" is active and i do not know why?
 
+Yes it is possible to click above the listboxes and
+refresh the label text with a hit on the spacebar.
+
+![image](https://user-images.githubusercontent.com/75255909/193860711-40e2e431-e05b-43d5-85cd-6e8489415395.png)
+
+
         Imports System.Enum
         Imports System.ComponentModel
         Imports System.Drawing.Text
