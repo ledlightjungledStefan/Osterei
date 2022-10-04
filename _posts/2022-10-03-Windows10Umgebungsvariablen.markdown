@@ -29,42 +29,40 @@ Kumul-Dattel
 Hallo? "A creators dilema".
 'MessageBox.Show("")
 
-If the MessageBox is not in a form click event
-it is possible that a MessageBox in a keyupevent
+<!------>
 
-is shown. 
-The two main spots are with a contextmenu choice for
+        Public WithEvents TheRest As New Button
 
-example with a textfile called "Eigenschaften" the
-"Kartekartenreitereintrag" "Sicherheit" in use
+<!------>
 
-has the possibility to mark the path. The not obvious
-part is that below the marked path i can click
+        FairWay(TheRest)
 
-on the empty "label" and the marking does not vanish.
-I ahve to click on the marked text to unmark it.
+<!------>
 
-Or because i do not speak english to undo the mark.
-The second spot related to the above possibilty is
+           Public Sub FairWay(Ignite As Button)
+                With Ignite
+                    .Location = New Point(50, 50)
+                    .Size = New Size(100, 100)
+                    .Text = "Click me"
+                End With
+            End Sub
 
-from my point of view that "entweder" the MessageBox
-in THE CLICK EVENT is not a comment
+<!------>
 
-or the MessageBox in the KEYUP EVENT is not a comment.
-So for you is aiming something between puppet and bread
+[HTML <s> Tag](https://www.w3schools.com/tags/tag_s.asp)
+        \<p\>\<s\>Only 50 tickets left!\<\/p\>\<\/s\>
 
-and for me the missing background labelcolour
-and maybe the labeltext is not refreshed.
+<!------>        
+        
+\<p\>Ignite\<\/p\>
+NAA
 
-So if the storage units are proofed still the so
-called "abhören" is active and i do not know why?
+<!------>        
+        
+![image](https://user-images.githubusercontent.com/75255909/193923749-a37a6647-51b7-4708-8fc3-992e355616cb.png)
 
-Yes it is possible to click above the listboxes and
-refresh the label text with a hit on the spacebar.
-
-![image](https://user-images.githubusercontent.com/75255909/193860711-40e2e431-e05b-43d5-85cd-6e8489415395.png)
-
-
+<!------>        
+        
         Imports System.Enum
         Imports System.ComponentModel
         Imports System.Drawing.Text
