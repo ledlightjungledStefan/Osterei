@@ -31,48 +31,9 @@ Kumul-Dattel
 Hallo? "A creators dilema".
 'MessageBox.Show("")
 
-![image](https://user-images.githubusercontent.com/75255909/194053833-66b479b1-35fd-49e9-90c2-1a3b558e7fab.png)
-![image](https://user-images.githubusercontent.com/75255909/194054048-cf0b5dc3-ffe0-4774-90c8-6f9254a8689a.png)
-
-![image](https://user-images.githubusercontent.com/75255909/194054187-22e06c68-19b7-4629-affa-1fe77d18aa68.png)
-![image](https://user-images.githubusercontent.com/75255909/194054547-ce97669a-d394-4110-8056-7e5015303c36.png)
-
-![image](https://user-images.githubusercontent.com/75255909/194055053-30d83757-aba3-4c90-b6fe-87ae5b52fdd2.png)
-https://www.youtube.com/watch?v=yhN1fQRjXrM
-
-a superpsition of two conditions
-the tiny expected end or than
-
-well it is true what a female person sang
-it is not funny
+[Control.TabIndex Property](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.control.tabindex?view=windowsdesktop-6.0)
+![image](https://user-images.githubusercontent.com/75255909/194090875-12032f56-635d-4b39-b64d-879760acada4.png)
 
 [10.2 Git Internals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
-for me one of the most important security issues with windows
-
-are two spots that i do not want research alone just for fun
-the first in my "Reihenfolge" is the compare command
-
-and the second are the two comment symbols in cmd batch enviroment
-:: and rem
-
-you can start read about the rem command for comnnet line instantation
-and try to proof froyourself why rem needs more storage unit space
-
-than ::
-i still have not finished my work
-
-the point, my point of view, is that the comment symbol for vbdotnet '
-and the comment symbol for batch files ::
-
-are not necessary delted to start the line "functions"
-THe "alu" processes can be rerooted to work straigth through the "comment"
-
-GLYPHES.
-
-And if you want to start distingiushing
-some command s have differnet timings
-
-for similar cases
-cas and if and so on.
 
 16:29
