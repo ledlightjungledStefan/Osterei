@@ -32,7 +32,8 @@ Hallo? "A creators dilema".
 'MessageBox.Show("")
 
 [Control.TabIndex Property](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.control.tabindex?view=windowsdesktop-6.0)
-![image](https://user-images.githubusercontent.com/75255909/194090875-12032f56-635d-4b39-b64d-879760acada4.png)
+<br>
+![image](https://user-images.githubusercontent.com/75255909/194092509-b58d347d-1a54-49f2-8579-31c4b19df83e.png)
 
 [10.2 Git Internals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
 
