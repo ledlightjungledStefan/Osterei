@@ -36,3 +36,7 @@ Hallo? "A creators dilema".
 ![image](https://user-images.githubusercontent.com/75255909/194054547-ce97669a-d394-4110-8056-7e5015303c36.png)
 
 ![image](https://user-images.githubusercontent.com/75255909/194055053-30d83757-aba3-4c90-b6fe-87ae5b52fdd2.png)
+https://www.youtube.com/watch?v=yhN1fQRjXrM
+
+a superpsition of two conditions
+the tiny expected end or than
