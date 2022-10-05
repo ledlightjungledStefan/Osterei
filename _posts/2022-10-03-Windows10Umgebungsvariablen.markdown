@@ -29,49 +29,10 @@ Kumul-Dattel
 Hallo? "A creators dilema".
 'MessageBox.Show("")
 
-![image](https://user-images.githubusercontent.com/75255909/193978751-2ab7cc8d-037d-4be5-8a5e-59a168da6e5f.png)
-As i wrote typed ecetera. I aim for people who i have seen
-heard talked to.
+![image](https://user-images.githubusercontent.com/75255909/194053833-66b479b1-35fd-49e9-90c2-1a3b558e7fab.png)
+![image](https://user-images.githubusercontent.com/75255909/194054048-cf0b5dc3-ffe0-4774-90c8-6f9254a8689a.png)
 
-Those who try to reach me cannot or?
-riharstefan@aon.at
+![image](https://user-images.githubusercontent.com/75255909/194054187-22e06c68-19b7-4629-affa-1fe77d18aa68.png)
+![image](https://user-images.githubusercontent.com/75255909/194054547-ce97669a-d394-4110-8056-7e5015303c36.png)
 
-The hope is an asumption. Leo dot org.
-Eine Vermutung. The good feeling is because of the "Hinweis"
-
-that hope is an asumption not more not less. It is not a solution.
-I do not have something to proof that i have solved
-
-a capacitor has two poles. But electricity doesnt. If you have a
-knot one koan is clap with one hand.
-
-2022 is also a year. Physical models have also been in the
-past adds.
-
-Atractiv? Attractors?
-Those who have mooney are so predictable and afraid. Because
-
-if they reach for security they have to losve the knot. Or
-their money has no value in whatever form.
-
-Yes you can burn all PC mainfarms like wood. Make abig fier.
-And the paranoia that the "others" in their moods hide
-
-the solutions is just because if you have a glas of water
-and it depends hwo much water is in the glas
-
-means how much circuits you need for the content of aglas.
-And if you would know and hide the solution for yourself
-
-for another dimension of anthoer glas you can but how.
-Enum structure marshal and the rest.
-
-Maybe with xunit not these words or with a unix distro
-same same.
-
-And the hope is that all hills can be redone.
-A mythos one of many is the warhammer 40.000 mythos.
-
-Two sides. 5050. With the mythos that knowing a capacitor
-is more important than the own skin.
-No escape.
+![image](https://user-images.githubusercontent.com/75255909/194055053-30d83757-aba3-4c90-b6fe-87ae5b52fdd2.png)
