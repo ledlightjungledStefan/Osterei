@@ -33,7 +33,7 @@ Hallo? "A creators dilema".
 
 [Control.TabIndex Property](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.control.tabindex?view=windowsdesktop-6.0)
 <br>
-![image](https://user-images.githubusercontent.com/75255909/194092509-b58d347d-1a54-49f2-8579-31c4b19df83e.png)
+![image](https://user-images.githubusercontent.com/75255909/194096802-8468021d-6790-43e2-a68e-7f52bd1edfd6.png)
 
 [10.2 Git Internals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
 
