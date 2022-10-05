@@ -58,3 +58,14 @@ piece even the trigger
 
 solid one piece and sink it in the oil.
 Next.
+
+You are not afraid of me you stumble upon
+your virtual reality shit which you cannot
+
+handle. Not only in theory you have no
+chance to hide in that way you use it.
+
+Bougth? Hm.
+riharstefan@aon.at
+
+Do you want some advice?
