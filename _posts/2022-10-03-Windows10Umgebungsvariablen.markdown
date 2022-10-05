@@ -40,3 +40,37 @@ https://www.youtube.com/watch?v=yhN1fQRjXrM
 
 a superpsition of two conditions
 the tiny expected end or than
+
+well it is true what a female person sang
+it is not funny
+
+[10.2 Git Internals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
+for me one of the most important security issues with windows
+
+are two spots that i do not want research alone just for fun
+the first in my "Reihenfolge" is the compare command
+
+and the second are the two comment symbols in cmd batch enviroment
+:: and rem
+
+you can start read about the rem command for comnnet line instantation
+and try to proof froyourself why rem needs more storage unit space
+
+than ::
+i still have not finished my work
+
+the point, my point of view, is that the comment symbol for vbdotnet '
+and the comment symbol for batch files ::
+
+are not necessary delted to start the line "functions"
+THe "alu" processes can be rerooted to work straigth through the "comment"
+
+GLYPHES.
+
+And if you want to start distingiushing
+some command s have differnet timings
+
+for similar cases
+cas and if and so on.
+
+Good morning.
