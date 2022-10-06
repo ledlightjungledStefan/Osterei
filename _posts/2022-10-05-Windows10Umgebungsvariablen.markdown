@@ -31,19 +31,25 @@ Kumul-Dattel
 Hallo? "A creators dilema".
 'MessageBox.Show("")
 
+Die EULA ist teilweise ein Krimi. Anfänglich währe eine Übersetzung für mich
+von mir folgendes Wir sind so stark dass Sie uns nicht stören können.
+
+Wir merkten dass Sie doch schwächer sind als wir annahmen.
+Dann ist keine Erwähnung und so etwa Zeile auf Zeile basierend
+
+und das ist unser Gerät, zum Beispiel die markierungen in orangen und gelb
+beim suchen siehe unten.
+
+Das ist Ihr Gerät. Keine weitere Erwähnung.
+Und falls die Frage ist warum alles so schwer zu finden ist. Ok.
+
+Geht's nicht leichter? Gute Frage ja, oder freudige freude Grüße aus
+einem scienc fiction per vers. Ticket please. Tohuwa na gut dann halt
+
+nur Tohuwa.
+
 [main_spot_tension](https://ledlightjungledstefan.github.io/Osterei/)
-Die meisten mir bekannten Internetbrowser haben einen
-
-Eintrag um auf einer Seite zu suchen. Nach dem suchen im MEBrowser
-rechts oben mit dem wählen des Zeigegerätpointers und dem Eintrag auf
-
-Seite suchen, ist mit der Eingabe Form1 nach der automatischen Markierung
-und dem markieren mit einem doppel Klick noch immer nicht ersichtlich
-
-falls in der selben oder einer anderen Zeile Public markiert werden sollte
-in wie weit der automatische Zeichensatz Leerzeichen beim merkieren eine
-
-Rolle spielt.
+![image](https://user-images.githubusercontent.com/75255909/194321898-18d71703-e0eb-489e-902f-a1481d41428f.png)
 
 [10.2 GitInternals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
 
