@@ -31,103 +31,35 @@ Kumul-Dattel
 Hallo? "A creators dilema".
 'MessageBox.Show("")
 
-[Control.TabIndex Property](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.control.tabindex?view=windowsdesktop-6.0)
-<br>
 [main_spot_tension](https://ledlightjungledstefan.github.io/Osterei/)
+Die meisten mir bekannten Internetbrowser haben einen
 
-What was my first intention to handle my steps,
-to observe what is present.
+Eintrag um auf einer Seite zu suchen. Nach dem suchen im MEBrowser
+rechts oben mit dem wählen des Zeigegerätpointers und dem Eintrag auf
 
-It is not possible to copy the mouse pointer. But I can
-use the paint program and choce in the tool section
+Seite suchen, ist mit der Eingabe Form1 nach der automatischen Markierung
+und dem markieren mit einem doppel Klick noch immer nicht ersichtlich
 
-the povečevalno steklo.
-[sanje in njihov pomen](https://dromen.site/sl/povecevalno-steklo/)
+falls in der selben oder einer anderen Zeile Public markiert werden sollte
+in wie weit der automatische Zeichensatz Leerzeichen beim merkieren eine
 
-[najdi.si](http://www.najdi.si/najdi/pove%c4%8devalno%20steklo)
-The two possible relations to the word najdi in this case are
+Rolle spielt.
 
-najdi find or najdi si find for yourself.
-Although languages in internet are integer islands in real
+[10.2 GitInternals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
 
-world naj is should and the french word for say is dit.
-Some recreations in windows are in the settings section.
-
-If you want of a device with two buttons the main button
-the one without a context menu you can set the setting.
-
-But beware. It responds immediatly. With chocen main button
-press as oft as possible on the button in the paint program
-
-an draw a mouse pointer. When done look for a spot that changes
-the pointer to a ... (how do i look for).
-
-I try mouse pointer in a search engine. I found with the SEO
-automation
-
-![image](https://user-images.githubusercontent.com/75255909/194126454-05328382-9efc-4777-a585-39d10fed28ae.png)
-With the site
-
-[Open Cursor Library](http://www.rw-designer.com/cursor-library)
-i found this
-
-![image](https://user-images.githubusercontent.com/75255909/194127025-2336c0df-a763-4a2b-9de3-d42ae933b5e4.png)
-and with a click on it
-
-![image](https://user-images.githubusercontent.com/75255909/194127279-66b31e45-2c8d-4a46-89eb-0369d6b0cf41.png)
-I asume for me textcursor is the proper textword for it in this case.
-
-With the link on line 36 of this blog i can reach my
-html site index.
-
-I can set the pointer rigth of the textword breaks. When ipush the
-pointer to left on the breaks the pointer changes.
-
-I can double click on it or asume why snake pliscot and double dragon
-are related in my case.
-
-With the trained possiblity to select a datatype i can go with my eyes
-one step below to the datatype public.
-
-With the chance that i can recognize something
-not someone else because i am alone and not
-
-![image](https://user-images.githubusercontent.com/75255909/194129010-e2ea869d-e89d-45a1-bcb8-3c95a25e778f.png)
-So it is possible that with a double click i can select
-
-to the mentioned branch public.
-"Theater: Mister branch. Yes sir mister stop and go pasttense yes sir."
-
-What is a proof? Maybe a pro of, what?
-The textcursor on the rigth in the markdown editor is
-
-below the site with the titel HelpAccess.
-With the next change to the site and a double click
-
-below the breaks in the datatype branch public the selected
-field will have two colours. Before that it will have had
-
-two colours. Molestyle because if i printscreen the chars
-and look them up in the paint program they have more
-
-than one colour.
-I speak slovene alot of german very rare english and some
-
-words french. With the selected "word" i asume that also ruby i can
-look the contribution tutorial in a W3 site
-
-is not for languages that always tend "to speak".
-"Theater: Slam the unspeakable language web that speaks always blabla".
-
-With the shift key pressed until it is released and a push
-and pull figth for the end button i would have selected
-
-the whole line. With the release of a shift key i can now count to seventeen
-and try again in addition to the previous
-
-event now i can past the end button press and release the downkey
-button.
-
-[10.2 Git Internals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
-
+5.10.2022
 16:29
+
+Die löschung von Überschussware und eine Anpassung des action
+Bereichs ausstehend. Logebene hab ich keine.
+
+Soweit ich mich informieren konnte sollen Dateien die automatisch
+in einer markdown Datei auf github eingefügt werden können
+
+beim support beantragt zum löschen freigegeben werden.
+Der Bereich für nicht auf der repository gespeichertem Inhalt
+
+also copy and paste auf einer markdown Datei wurde usercontent
+genannt und das was für mich mit pastebin möglich ist
+
+ist auf github GIST.
