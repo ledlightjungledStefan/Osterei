@@ -16,6 +16,11 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 <br>
 ° index
 
+ok dann würden Psychologen und PsycholgInen genderneutral oder binär und ecetera
+in gemeinsame politische Räume einteretn und nach zwei Sekunden
+
+friede Streitäxte im Gesicht mit den Händen deuten. Oder das Deutoroneum einen Teil eines Buches verbrennen.
+
 ![image](https://user-images.githubusercontent.com/75255909/194086413-5eef971b-4177-4dce-82a9-ce35647a2d3c.png)
 
 Jaz sem sam. Inzerum. Inn the room.
