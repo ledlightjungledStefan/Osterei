@@ -26,6 +26,20 @@ Kumul-Dattel
 ![image](https://user-images.githubusercontent.com/75255909/193556849-671685b7-aa5c-4994-8633-4ca0d7457d38.png)
 ![image](https://user-images.githubusercontent.com/75255909/193557449-d51498da-e02c-45a9-ba3c-2dcda80a95db.png)
 
+![image](https://user-images.githubusercontent.com/75255909/194385546-035282e1-538a-4244-8862-e1b6032184b3.png)
+Egal ist ein Wort für Menschen die schon gemeinsam sind.
+
+Auch mit meinem tippen wie zum Beispiel COMPAQ 9500 kann ich nicht wissen
+1. sehen das andere
+2. ist das was andere sehen das was ich tippte an text
+3. würde nach eingabe in eine suchmaschine ein ergebnis sein das dem entspräche was ich habe
+4. nachdem es versionen gab und gibt sind neue versionen überhaupt nachvollziehbar
+5. seit wann sind informationen keine speichermedien
+6. was ist eine taborder
+
+![image](https://user-images.githubusercontent.com/75255909/194387360-b89889dd-cfad-46bd-855f-3744512b398a.png)
+
+
 Hallo? "A creators dilema".
 'MessageBox.Show("")
 
@@ -36,7 +50,7 @@ Hallo? "A creators dilema".
 ![image](https://user-images.githubusercontent.com/75255909/194346683-292d2592-ca4f-4a8e-8fc6-3832bde38752.png)
 
 ![image](https://user-images.githubusercontent.com/75255909/194348893-77db824b-04bb-4320-88c0-7d7937f14c6c.png)
-
+![image](https://user-images.githubusercontent.com/75255909/194390925-60fab42c-45d5-4237-ab55-1d237abc0f3e.png)
 
 [10.2 GitInternals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
 
