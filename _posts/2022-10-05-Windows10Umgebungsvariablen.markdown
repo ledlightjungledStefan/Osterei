@@ -16,13 +16,6 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 <br>
 ° index
 
-ok dann würden Psychologen und PsycholgInen genderneutral oder binär und ecetera
-in gemeinsame politische Räume einteretn und nach zwei Sekunden
-
-friede Streitäxte im Gesicht mit den Händen deuten. Oder das Deutoroneum einen Teil eines Buches verbrennen.
-
-![image](https://user-images.githubusercontent.com/75255909/194086413-5eef971b-4177-4dce-82a9-ce35647a2d3c.png)
-
 Jaz sem sam. Inzerum. Inn the room.
 ![image](https://user-images.githubusercontent.com/75255909/193558846-d34c296f-3cbe-4566-9606-21305235cf31.png)
 
@@ -36,25 +29,14 @@ Kumul-Dattel
 Hallo? "A creators dilema".
 'MessageBox.Show("")
 
-Die EULA ist teilweise ein Krimi. Anfänglich währe eine Übersetzung für mich
-von mir folgendes Wir sind so stark dass Sie uns nicht stören können.
-
-Wir merkten dass Sie doch schwächer sind als wir annahmen.
-Dann ist keine Erwähnung und so etwa Zeile auf Zeile basierend
-
-und das ist unser Gerät, zum Beispiel die markierungen in orangen und gelb
-beim suchen siehe unten.
-
-Das ist Ihr Gerät. Keine weitere Erwähnung.
-Und falls die Frage ist warum alles so schwer zu finden ist. Ok.
-
-Geht's nicht leichter? Gute Frage ja, oder freudige freude Grüße aus
-einem scienc fiction per vers. Ticket please. Tohuwa na gut dann halt
-
-nur Tohuwa.
-
 [main_spot_tension](https://ledlightjungledstefan.github.io/Osterei/)
-![image](https://user-images.githubusercontent.com/75255909/194321898-18d71703-e0eb-489e-902f-a1481d41428f.png)
+![image](https://user-images.githubusercontent.com/75255909/194346238-8601e10e-52cc-4286-88c7-0210e5e083f0.png)
+
+![image](https://user-images.githubusercontent.com/75255909/194346517-3384066d-8d51-4d77-9e15-2cd9d34db57d.png)
+![image](https://user-images.githubusercontent.com/75255909/194346683-292d2592-ca4f-4a8e-8fc6-3832bde38752.png)
+
+![image](https://user-images.githubusercontent.com/75255909/194348893-77db824b-04bb-4320-88c0-7d7937f14c6c.png)
+
 
 [10.2 GitInternals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
 
