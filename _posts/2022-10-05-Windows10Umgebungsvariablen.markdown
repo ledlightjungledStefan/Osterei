@@ -29,39 +29,49 @@ Kumul-Dattel
 Hallo? "A creators dilema".
 'MessageBox.Show("")
 
-Naja ich kann nur für mein Arbeitsfeld tippen. Also was ist mir wichtig
-Geräteoptimierung für geringeren Stromverbrauch.
+![image](https://user-images.githubusercontent.com/75255909/194502205-733b3ce4-e868-472e-89bd-872a87dae450.png)
+Liebe PappkameradInen liebe Pappkameraden.
 
-Nachdem Visual Studio aktualisiert werden muss offline arbeiten. Was
-glücklicherweise möglich ist.
+Tröstlich. Ven iš abe cen oijro dan geb ih dir cen und du mir cen.
+Ven ih abe cen und du cen abe ih cen und du cen.
 
-Die Version die ich bearbeiten muss nicht unterschätzen. Den Menüpunkt
-Aktivierreihenfolge hab ich im Menü Extras Anpassen gefunden.
+Nachdem ich Pappkamerad bin alaijne inze rum ab iš cen und ven iš
+niht ves vas abe dedu dan iš niht tipn koenen daš
 
-Der Menüpunkt kann aber nicht verwendet werden. Ich weiß nicht warum.
-Stattdessen konzentriere ich mich auf den Besitz tabindex.
-
-Nachdem alles der selbe Brei ist GRÜTZE, Ort bei Grütz Grillfisch,
-und danach ist es Ort bei Vararioblabladiotralalliojohohoholeeerrrahso
-
-Elf? vazn? !
-mhm
-
-ven iš abe de hab iš mah di nopf fuer etva strom dan ist auh mit nopf
-näher bei tip mit tip menu band niks guk ven niht not ist
-
-mit not ist guk vas fragecaijhn dan du špar lang caijt auh mit niks
-fiks vaijl guk maht vas kan
-
-fals maht ist štum ha dan red razir fon haus vrm
-ven vrm niht ist barin sondern oeaijns
-
-dan fast peh
-glup punkt
+abe andere venmeglih vas andere als cen und abe trockisti tipe habe cen
+auh ven nur alaijne cen. Verstehen?
 
 [main_spot_tension](https://ledlightjungledstefan.github.io/Osterei/)
-<br>
-![image](https://user-images.githubusercontent.com/75255909/194438481-2d87960d-fb67-4fc0-872c-73f6b03deede.png)
+in riharstefan@aon.at
+
+Doppelklick. Die Schablone ist von links nach rechts. Nach einem Doppelklick.
+Die Umschaltetaste gedrückt halten und die Ende TASTE ANTIPPEN und loslassen.
+
+How does the air taste today?
+The motherfucking rainbow.
+
+Sorry droped out there for a moment.
+The funck frequencies are also a battle ground.
+
+In a underground station when passwords are missing the speakers
+are used with a sentence like do not ask.
+
+Betteln und Hausieren verboten. Pigeons are bad but a Grillhuhn instead.
+Crows manage to drop Walnuts infront of tiers to use them like
+
+a Nussknacker. You want clean media. And people who are sterssed to say
+the pigeons drop there shit everywhere.
+
+I am not the first with the next equasion. Mouse good, little mouse bad,
+pigeon bad roasted chicken good, crow good birds bad
+
+rat not nice but thats life, ufos no but crocodiles also no,
+killing whales haifish crocodiles ok
+
+but while selling the product if not sold wasted.
+Clean media to forget dead citizens like elefants wahlerosses
+
+and maybe someday IO to.
 
 [10.2 GitInternals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
 
