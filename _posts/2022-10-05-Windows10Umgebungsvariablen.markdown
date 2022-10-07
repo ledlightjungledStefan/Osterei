@@ -26,31 +26,42 @@ Kumul-Dattel
 ![image](https://user-images.githubusercontent.com/75255909/193556849-671685b7-aa5c-4994-8633-4ca0d7457d38.png)
 ![image](https://user-images.githubusercontent.com/75255909/193557449-d51498da-e02c-45a9-ba3c-2dcda80a95db.png)
 
-![image](https://user-images.githubusercontent.com/75255909/194385546-035282e1-538a-4244-8862-e1b6032184b3.png)
-Egal ist ein Wort für Menschen die schon gemeinsam sind.
-
-Auch mit meinem tippen wie zum Beispiel COMPAQ 9500 kann ich nicht wissen
-1. sehen das andere
-2. ist das was andere sehen das was ich tippte an text
-3. würde nach eingabe in eine suchmaschine ein ergebnis sein das dem entspräche was ich habe
-4. nachdem es versionen gab und gibt sind neue versionen überhaupt nachvollziehbar
-5. seit wann sind informationen keine speichermedien
-6. was ist eine taborder
-
-![image](https://user-images.githubusercontent.com/75255909/194387360-b89889dd-cfad-46bd-855f-3744512b398a.png)
-![image](https://user-images.githubusercontent.com/75255909/194391519-1a35c4ee-1ef2-4c6b-9342-85edefb96e48.png)
-
 Hallo? "A creators dilema".
 'MessageBox.Show("")
 
+Naja ich kann nur für mein Arbeitsfeld tippen. Also was ist mir wichtig
+Geräteoptimierung für geringeren Stromverbrauch.
+
+Nachdem Visual Studio aktualisiert werden muss offline arbeiten. Was
+glücklicherweise möglich ist.
+
+Die Version die ich bearbeiten muss nicht unterschätzen. Den Menüpunkt
+Aktivierreihenfolge hab ich im Menü Extras Anpassen gefunden.
+
+Der Menüpunkt kann aber nicht verwendet werden. Ich weiß nicht warum.
+Stattdessen konzentriere ich mich auf den Besitz tabindex.
+
+Nachdem alles der selbe Brei ist GRÜTZE, Ort bei Grütz Grillfisch,
+und danach ist es Ort bei Vararioblabladiotralalliojohohoholeeerrrahso
+
+Elf? vazn? !
+mhm
+
+ven iš abe de hab iš mah di nopf fuer etva strom dan ist auh mit nopf
+näher bei tip mit tip menu band niks guk ven niht not ist
+
+mit not ist guk vas fragecaijhn dan du špar lang caijt auh mit niks
+fiks vaijl guk maht vas kan
+
+fals maht ist štum ha dan red razir fon haus vrm
+ven vrm niht ist barin sondern oeaijns
+
+dan fast peh
+glup punkt
+
 [main_spot_tension](https://ledlightjungledstefan.github.io/Osterei/)
-![image](https://user-images.githubusercontent.com/75255909/194346238-8601e10e-52cc-4286-88c7-0210e5e083f0.png)
-
-![image](https://user-images.githubusercontent.com/75255909/194346517-3384066d-8d51-4d77-9e15-2cd9d34db57d.png)
-![image](https://user-images.githubusercontent.com/75255909/194346683-292d2592-ca4f-4a8e-8fc6-3832bde38752.png)
-
-![image](https://user-images.githubusercontent.com/75255909/194348893-77db824b-04bb-4320-88c0-7d7937f14c6c.png)
-![image](https://user-images.githubusercontent.com/75255909/194390925-60fab42c-45d5-4237-ab55-1d237abc0f3e.png)
+<br>
+![image](https://user-images.githubusercontent.com/75255909/194438481-2d87960d-fb67-4fc0-872c-73f6b03deede.png)
 
 [10.2 GitInternals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
 
