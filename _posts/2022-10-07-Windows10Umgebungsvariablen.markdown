@@ -17,6 +17,61 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ° index
 
 ![image](https://user-images.githubusercontent.com/75255909/194508483-82171e65-821c-4031-9d08-708331b19ec8.png)
+![image](https://user-images.githubusercontent.com/75255909/194701684-4640b852-0f98-4153-bbb6-968f4e5829c5.png)
+
+Möchten Sie wissen wie ich Ihnen ausweichen kann?
+Ich weiß leider nicht wie Sie mir Antworten können.
+
+Sicher ist der Kontrollverlust der bei Ihnen Angst auslöst.
+Was schätzen Sie für sich wieviele Streitparteien sich auf eine Lösung einigen können?
+
+Ein Beispiel, als ich ein Bild sah von Menschen die Stricken zu dem Thema Unixdistributionen
+dann strickten die ProgrammiererInen und die Programmierer nicht nur weil mein PC wichtig ist.
+
+Oder? Sind Sie anderer Meinung?
+Nein mit Strickzeug weiche ich nicht Ihnen aus.
+
+Möchten Sie ohne Antwort eine zweite Meinung einholen?
+Ist ein Betriebsgeheimnis, alma von senner für käsekenner, acidently removed memory ARM
+
+für Sie Bequemlichkeit?
+Meine Erfahrung ist dass speichern und strg plus z und wieder speichern möglich ist.
+
+Wenn ein Datentyp string und ein Dimensionsname mit nicht angegebenem Datentyp
+von mir nicht erklärt werden können erwarte ich auch keine Antwort.
+
+Dann wird mein Arbeitsplatz nicht kontrolliert wegen meinen Eingaben sondern?
+Habe Sie schon eine Antwort gehabt oder sind Ihre Aggresionnen nicht gerechtfertigt?
+
+Schnell kaufen im MediaMarkt und Krieg führen.
+Dann mit der Yacht fahren und Waschmittel versenken abhauen und den Müll zurücklassen.
+
+Hoffen das Vader nicht Bös schaut und Shawn das Schaf murkst.
+Ich hörte einmal we are borg.
+
+Lonley tender lonley too i radio hope me.
+Now Hit. To make us move we need a fire extinguisher and a toothpik.
+
+A space above a planet a snailwire and a path in space with a fire extingusher.
+The path should be a crosssections to B the toothpik without the snailwire.
+
+Then we need a particle that one of the so called collection points the pointer
+towards the particel to move. If yeah we have moved is also possible through
+
+the snailwire we have a speaker.
+The speakers and the sunsail needs some time.
+
+To point out that the colorname can be sunsail for a not saved state of visual studio.
+I heard for myself on pain radio d ä d d decided d d ä d decided.
+
+Until saved the messagebox dimensionname is not a format or a interpolated datatype.
+So my first question for me is why it is very possible that a dimensionname
+
+without a datatype is not possible within a method grid.
+And for me obvious is that a class name is not a method.
+
+Maybe i am wrong but i do not know a solution.
+
 ![image](https://user-images.githubusercontent.com/75255909/194512251-853f200f-c4bf-411a-beac-64d88490e036.png)
 
 ![image](https://user-images.githubusercontent.com/75255909/194513989-f649c2f7-8128-4f22-91ce-85a8d6de5cd0.png)
