@@ -32,13 +32,8 @@ Hallo? "A creators dilema".
 [main_spot_tension](https://ledlightjungledstefan.github.io/Osterei/)
 in riharstefan@aon.at
 
-[Option Compare Statement](https://learn.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/option-compare-statement)
-
-![image](https://user-images.githubusercontent.com/75255909/194708415-4814cb89-d067-4c4d-b911-daec92647e52.png)
-The following example uses the Option Compare statement to set the binary comparison as the default string comparison
-
-method. To use this code, uncomment the Option Compare Binary statement, and put it at the top of the source file.
-hov?
+![image](https://user-images.githubusercontent.com/75255909/194710848-e7754c1a-d785-49f7-84e0-cf63709f6feb.png)
+![image](https://user-images.githubusercontent.com/75255909/194710877-c4a6407a-ce13-46d2-9fdb-a63e0fce0d30.png)
 
 [10.2 GitInternals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
 
