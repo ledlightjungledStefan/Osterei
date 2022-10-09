@@ -16,6 +16,11 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 <br>
 ° index
 
+riharstefan@aon.at
+
+Still i am not connected with others via the possiblities i have.
+![image](https://user-images.githubusercontent.com/75255909/194749815-41b3696f-83d0-4672-b339-3c2de4160a41.png)
+
 Jaz sem sam. Inzerum. Inn the room.
 ![image](https://user-images.githubusercontent.com/75255909/194748912-b4d56f79-da2e-424c-b357-4bfc64621950.png)
 
