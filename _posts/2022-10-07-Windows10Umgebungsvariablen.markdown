@@ -15,19 +15,9 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ° solarplexus
 <br>
 ° index
-![image](https://user-images.githubusercontent.com/75255909/194747830-13324ecc-70b2-46e3-b383-007fdd4c0bf1.png)
-
-![image](https://user-images.githubusercontent.com/75255909/194746279-2e3d6a97-cc04-47fa-87c5-d0b813571280.png)
-
-![image](https://user-images.githubusercontent.com/75255909/194745894-90911d39-4bc9-4ef5-89b0-18ce66ef27d3.png)
-
-
-![image](https://user-images.githubusercontent.com/75255909/194745433-acb6379f-333f-4434-923b-a925b7caba75.png)
-
-![image](https://user-images.githubusercontent.com/75255909/194747079-9c0f8ca6-d912-4c0b-b525-7cab845698b8.png)
-![image](https://user-images.githubusercontent.com/75255909/194745662-509eca37-4c81-4b1f-80ec-362639c4c2f6.png)
 
 Jaz sem sam. Inzerum. Inn the room.
+![image](https://user-images.githubusercontent.com/75255909/194748912-b4d56f79-da2e-424c-b357-4bfc64621950.png)
 ![image](https://user-images.githubusercontent.com/75255909/193558846-d34c296f-3cbe-4566-9606-21305235cf31.png)
 
 ![image](https://user-images.githubusercontent.com/75255909/193559632-14f0cf35-3417-4bdf-a505-685634ea8ce4.png)
@@ -39,14 +29,6 @@ Kumul-Dattel
 
 Hallo? "A creators dilema".
 'MessageBox.Show("")
-
-[main_spot_tension](https://ledlightjungledstefan.github.io/Osterei/)
-in riharstefan@aon.at
-
-![image](https://user-images.githubusercontent.com/75255909/194710848-e7754c1a-d785-49f7-84e0-cf63709f6feb.png)
-![image](https://user-images.githubusercontent.com/75255909/194710877-c4a6407a-ce13-46d2-9fdb-a63e0fce0d30.png)
-
-![image](https://user-images.githubusercontent.com/75255909/194747823-f4172bc3-fa96-4388-b6fe-eaff5f6447bc.png)
 
 [10.2 GitInternals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
 
