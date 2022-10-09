@@ -15,6 +15,7 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ° solarplexus
 <br>
 ° index
+![image](https://user-images.githubusercontent.com/75255909/194747830-13324ecc-70b2-46e3-b383-007fdd4c0bf1.png)
 
 ![image](https://user-images.githubusercontent.com/75255909/194746279-2e3d6a97-cc04-47fa-87c5-d0b813571280.png)
 
@@ -44,6 +45,8 @@ in riharstefan@aon.at
 
 ![image](https://user-images.githubusercontent.com/75255909/194710848-e7754c1a-d785-49f7-84e0-cf63709f6feb.png)
 ![image](https://user-images.githubusercontent.com/75255909/194710877-c4a6407a-ce13-46d2-9fdb-a63e0fce0d30.png)
+
+![image](https://user-images.githubusercontent.com/75255909/194747823-f4172bc3-fa96-4388-b6fe-eaff5f6447bc.png)
 
 [10.2 GitInternals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
 
