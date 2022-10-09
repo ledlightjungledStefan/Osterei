@@ -19,7 +19,9 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 Still i am not connected with others via the possiblities i have.
 Jaz sem sam. Inzerum. Inn the room.
 
+![image](https://user-images.githubusercontent.com/75255909/194758791-6e80e427-90f8-4df7-99c3-b7ca5810043d.png)
 ![image](https://user-images.githubusercontent.com/75255909/194756127-66031445-8717-4bae-bffa-5fe8f02b0f56.png)
+
 ![image](https://user-images.githubusercontent.com/75255909/194756341-d91b514b-1573-4b22-8877-412466038ef3.png)
 
 Wenn niemand nach einem silent mode fragt, mach ich auch keinen.
