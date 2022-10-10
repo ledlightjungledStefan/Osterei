@@ -16,23 +16,10 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 <br>
 ° index
 
-If i want or not does not matter.
-If i cannot explain a line unitl i reach the so called corners
+Mit der Frage möchte ich alleine sein, wie Beweise ich das ich alleine bin?
+![image](https://user-images.githubusercontent.com/75255909/194823134-2102c47d-590b-4187-8c5e-bc6c70492809.png)
 
-all are lost if they want or not there is no escape.
-And the reach to the so called cornes time does not matter.
-
-Still i am not connected with others via the possiblities i have.
-Jaz sem sam. Inzerum. Inn the room.
-
-![image](https://user-images.githubusercontent.com/75255909/194806832-7cc9a18e-19ed-4fc5-95d6-873d213303f4.png)
-do not report to me wähle andere cases
-
-![image](https://user-images.githubusercontent.com/75255909/194807545-63583f16-ca8f-4ddf-b034-e2a969dbdc1b.png)
-![image](https://user-images.githubusercontent.com/75255909/194808094-c12c1f74-a569-47b8-b371-ae3e9a00aeb7.png)
-
-![image](https://user-images.githubusercontent.com/75255909/194808566-76b47a40-44ed-4937-acf1-15f70ad2c38b.png)
-![image](https://user-images.githubusercontent.com/75255909/194808870-99bf0fae-761d-4908-b7cc-95436e74487d.png)
+![image](https://user-images.githubusercontent.com/75255909/194829652-344dc92d-0f69-4d5c-b87a-6fc5a875bed4.png)
 
 
 ![image](https://user-images.githubusercontent.com/75255909/193558846-d34c296f-3cbe-4566-9606-21305235cf31.png)
