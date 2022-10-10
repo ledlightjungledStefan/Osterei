@@ -16,16 +16,14 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 <br>
 ° index
 
-Mit der Frage möchte ich alleine sein, wie Beweise ich das ich alleine bin?
-![image](https://user-images.githubusercontent.com/75255909/194823134-2102c47d-590b-4187-8c5e-bc6c70492809.png)
+![image](https://user-images.githubusercontent.com/75255909/194835361-3b3a0fa9-c4d8-4cb9-b7b0-7c9ad88d1d94.png)
+![image](https://user-images.githubusercontent.com/75255909/194837276-f190c24f-b235-469c-8766-71fec03c07bb.png)
 
-Während Sie sich möglicherweise alleine Beweisen dass Sie allein sind m.
-![image](https://user-images.githubusercontent.com/75255909/194829652-344dc92d-0f69-4d5c-b87a-6fc5a875bed4.png)
+![image](https://user-images.githubusercontent.com/75255909/194839934-07db71cf-f653-4b83-b131-6857ffabd585.png)
+![image](https://user-images.githubusercontent.com/75255909/194841107-78938dfe-ac56-478a-88e0-b22db11ffef1.png)
 
-![image](https://user-images.githubusercontent.com/75255909/194831777-37dcaab9-af2f-4f08-a6de-2fe98787e21f.png)
-![image](https://user-images.githubusercontent.com/75255909/194832710-b36e9883-7947-4de9-9ce6-e9127e8e8d0a.png)
+WindowBridgePorts
 
-Buchstabieren! Sie ein Wort Ihrer Wahl. Viel Glück.
 ![image](https://user-images.githubusercontent.com/75255909/193558846-d34c296f-3cbe-4566-9606-21305235cf31.png)
 ![image](https://user-images.githubusercontent.com/75255909/193559632-14f0cf35-3417-4bdf-a505-685634ea8ce4.png)
 
