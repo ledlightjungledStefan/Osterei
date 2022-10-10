@@ -53,6 +53,10 @@ Hallo? "A creators dilema".
 ![image](https://user-images.githubusercontent.com/75255909/194804865-3946dd30-9b02-4f85-91dc-341bef46b721.png)
 to be continued. ..
 
+![image](https://user-images.githubusercontent.com/75255909/194810678-d8f8e479-c318-4e3c-9397-2cf396d96085.png)
+![image](https://user-images.githubusercontent.com/75255909/194811975-60c78741-3a19-42be-b60b-5319c0c8684d.png)
+
+
 [10.2 GitInternals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
 5.10.2022
 
