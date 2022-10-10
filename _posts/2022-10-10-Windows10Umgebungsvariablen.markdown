@@ -16,6 +16,59 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 <br>
 ° index
 
+Also finde ich Textverarbeitung ist die einzige Option. Ein Char ist ein Character.
+Was ist ein Character? Um dieser Frage näher auf einen Grund gehen zu können ist
+
+der Punkt den ich wählte die Eigenschaft(en), Atribut(e). Nachdem die Literatur eine
+Wüste sein kann ist auch das Thema eine Jagd nach einer fehlenden Farbe ausgeschöpft
+
+Farbblindheit ist genauso real wie Sehstärkenblindheit und Lichstärkenschwächen.
+Ich bin nicht, Student der Informatikuniversität und habe keinen Büchereiausweis der
+
+Technischenuniversität. Einige (A FEW; english) Stadtbüchereien haben Computerarbeitsplätze
+und ich habe schon VB dot NET Programme mit Dateierweiterung exe ohne Internet auf einem
+
+usbStick gespeichert. Es fehlen nur die Bedienungsanleitungen. Nachdem die Grenzen
+so gesetzt wurden, dass die nächsten zwei Stufen offline eigene Kontrollen
+
+erstellen und dynamic link libraries zu verwenden möglich sind ist das Ziel das
+Layout zu verstehen möglich. Und bis die erwähnten zwei Hürden genommen wurden
+
+ist die Möglichkeit, dass sich xml Kontrollen mit zum Beispiel WindowsPresentationFonds
+nicht Strukturel ändern und geändert werden für Internetseiten.
+
+Sobald ich meine Reihenfolge await async erreicht habe und eine Aktualisierung
+nicht nur auf der githubRepository stattfinden würde sondern entweder im Rahmen
+
+await async oder ohne livereload und dergleichen auf einem nicht bekanntem Server
+dann kann auch der internetexplorer für eine Aktualisierungsrahmen verwendet werden
+
+entweder der internetexplorer wird mit einem embeded system einem serversystem oder
+beiden aktualisiert. Das was älteren Generationen schon lange bekannt ist.
+
+Es werden in bestimmten Rahmenbedingungen von der Informatikuniversität Lesegeräte
+zur Verfügung gestellt die das Lesen von Mobiltelefonen und Tablets erleichtern.
+
+Lupen mit Bildschirmen. Dadurch ist der wesentliche Rahmen für Arbeiten mit Xamarin
+Android Benutzersysteme möglich. Es gab und gibt noch immer schon viele Arbeiten
+
+bezüglich eines oder mehrer Blindleitsysteme. Auch Updates von google Programmen ist
+nicht einfach immer nur auf Updates zu warten. Wenn google zum Beispiel auch ohne
+
+das ich mich informiert habe die schon vorhandenen cluster aktualisiert dann sind
+auch clusterpfade dabei die nicht den oder die einzelnen einzelne UserInen sofort
+
+auf den neuesten Stand aktualisiert. Ist kein Vorwurf von mir, den mit der Windows
+version mit der ich arbeite währe in einem Team der Stand näher am aktuellen Rahmen.
+
+Natürlich gestallte ich den Rahmen mit. Halt alleine. Den es ist nicht einfach alle
+Sicherheitsstrukturen aufzubrechen ohne einschätzen zu können was ich da ich ja
+
+derzeit alleine bin auch alleine aktuel ohne automatik mitmachen könnte.
+Barrierefreiheit ist nicht nur ein fabulöses Hirngespinnst. Das gab es schon seit
+
+Windows XP. Ecetra.
+
 ![image](https://user-images.githubusercontent.com/75255909/194897539-057e9341-8e64-42af-938d-2bbaa8c7a146.png)
 ![image](https://user-images.githubusercontent.com/75255909/194897634-84134308-02fa-458f-bc74-28b1bf6e9935.png)
 
