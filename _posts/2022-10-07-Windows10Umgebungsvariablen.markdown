@@ -25,6 +25,16 @@ And the reach to the so called cornes time does not matter.
 Still i am not connected with others via the possiblities i have.
 Jaz sem sam. Inzerum. Inn the room.
 
+![image](https://user-images.githubusercontent.com/75255909/194806832-7cc9a18e-19ed-4fc5-95d6-873d213303f4.png)
+do not report to me wähle andere cases
+
+![image](https://user-images.githubusercontent.com/75255909/194807545-63583f16-ca8f-4ddf-b034-e2a969dbdc1b.png)
+![image](https://user-images.githubusercontent.com/75255909/194808094-c12c1f74-a569-47b8-b371-ae3e9a00aeb7.png)
+
+![image](https://user-images.githubusercontent.com/75255909/194808566-76b47a40-44ed-4937-acf1-15f70ad2c38b.png)
+![image](https://user-images.githubusercontent.com/75255909/194808870-99bf0fae-761d-4908-b7cc-95436e74487d.png)
+
+
 ![image](https://user-images.githubusercontent.com/75255909/193558846-d34c296f-3cbe-4566-9606-21305235cf31.png)
 ![image](https://user-images.githubusercontent.com/75255909/193559632-14f0cf35-3417-4bdf-a505-685634ea8ce4.png)
 
