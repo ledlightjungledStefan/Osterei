@@ -40,13 +40,11 @@ Hallo? "A creators dilema".
 ![image](https://user-images.githubusercontent.com/75255909/194871952-b9c43e8f-7c5b-4c78-a953-4c9fd6317a65.png)
 
 ![image](https://user-images.githubusercontent.com/75255909/194760801-d4983445-8548-4026-9498-9b38a0e09a05.png)
-![image](https://user-images.githubusercontent.com/75255909/194803730-4a5590cc-96eb-48a9-8a86-c4566a1069fb.png)
+![image](https://user-images.githubusercontent.com/75255909/194880673-a7da676f-ec5a-4a52-80e7-c945314ccca4.png)
 
-![image](https://user-images.githubusercontent.com/75255909/194804490-6b91c173-3256-4121-bb42-2796389d4486.png)
-![image](https://user-images.githubusercontent.com/75255909/194804865-3946dd30-9b02-4f85-91dc-341bef46b721.png)
+silly solid logic layout
+![image](https://user-images.githubusercontent.com/75255909/194885720-5b0bfeee-4fed-44ea-936a-eff24d52b1e1.png)
 
-![image](https://user-images.githubusercontent.com/75255909/194810678-d8f8e479-c318-4e3c-9397-2cf396d96085.png)
-![image](https://user-images.githubusercontent.com/75255909/194811975-60c78741-3a19-42be-b60b-5319c0c8684d.png)
 
 [10.2 GitInternals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
 5.10.2022
