@@ -16,6 +16,19 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 <br>
 ° index
 
+Hallo mein Name ist Štefan und ich arbeite derzeit alleine (ALONE; english).
+Deswegen werde ich am Schluss einen Kontrollcharacter meiner Textdatei
+
+anfügen.
+Und um weiter an meinem Ziel offline arbeiten zu können zu arbeiten ist das
+
+miteinbeziehen eines Stringbuilders zum arbeiten mit Textdateien wichtig.<br>
+[StringBuilder Class](https://learn.microsoft.com/en-us/dotnet/api/system.text.stringbuilder?view=net-6.0)
+
+[File.AppendText(String) Method](https://learn.microsoft.com/en-us/dotnet/api/system.io.file.appendtext?view=net-6.0#system-io-file-appendtext(system-string))
+![image](https://user-images.githubusercontent.com/75255909/194944112-3415e39b-ad19-49c5-894d-4b81424a7f8c.png)
+
+![image](https://user-images.githubusercontent.com/75255909/194943299-e6373ea1-1a5f-467f-b245-82448e9987b6.png)
 ![image](https://user-images.githubusercontent.com/75255909/194939676-e7beac89-d8de-4597-ad2e-4263c3739bf6.png)
 
 ![image](https://user-images.githubusercontent.com/75255909/194937578-e1302cf2-c954-446a-9542-16ffd8bd24f2.png)
