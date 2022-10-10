@@ -33,7 +33,10 @@ Kumul-Dattel
 Hallo? "A creators dilema".
 'MessageBox.Show("")
 
+<br>
 [main_spot_tension](https://ledlightjungledstefan.github.io/Osterei/)
+
+![image](https://user-images.githubusercontent.com/75255909/194871952-b9c43e8f-7c5b-4c78-a953-4c9fd6317a65.png)
 ![image](https://user-images.githubusercontent.com/75255909/194760801-d4983445-8548-4026-9498-9b38a0e09a05.png)
 
 ![image](https://user-images.githubusercontent.com/75255909/194803730-4a5590cc-96eb-48a9-8a86-c4566a1069fb.png)
