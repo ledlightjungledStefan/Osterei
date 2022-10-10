@@ -19,9 +19,13 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 Mit der Frage möchte ich alleine sein, wie Beweise ich das ich alleine bin?
 ![image](https://user-images.githubusercontent.com/75255909/194823134-2102c47d-590b-4187-8c5e-bc6c70492809.png)
 
+Während Sie sich möglicherweise alleine Beweisen dass Sie allein sind m.
 ![image](https://user-images.githubusercontent.com/75255909/194829652-344dc92d-0f69-4d5c-b87a-6fc5a875bed4.png)
 
+![image](https://user-images.githubusercontent.com/75255909/194831777-37dcaab9-af2f-4f08-a6de-2fe98787e21f.png)
+![image](https://user-images.githubusercontent.com/75255909/194832710-b36e9883-7947-4de9-9ce6-e9127e8e8d0a.png)
 
+Buchstabieren! Sie ein Wort Ihrer Wahl. Viel Glück.
 ![image](https://user-images.githubusercontent.com/75255909/193558846-d34c296f-3cbe-4566-9606-21305235cf31.png)
 ![image](https://user-images.githubusercontent.com/75255909/193559632-14f0cf35-3417-4bdf-a505-685634ea8ce4.png)
 
