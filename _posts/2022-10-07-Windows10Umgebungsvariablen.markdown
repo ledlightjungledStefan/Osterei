@@ -35,24 +35,28 @@ Hallo? "A creators dilema".
 'MessageBox.Show("")
 
 [main_spot_tension](https://ledlightjungledstefan.github.io/Osterei/)
-![image](https://user-images.githubusercontent.com/75255909/194760409-aa81e6c7-5286-4e47-b0e7-99f04e18d028.png)
-
 ![image](https://user-images.githubusercontent.com/75255909/194760801-d4983445-8548-4026-9498-9b38a0e09a05.png)
+
+![image](https://user-images.githubusercontent.com/75255909/194803730-4a5590cc-96eb-48a9-8a86-c4566a1069fb.png)
+![image](https://user-images.githubusercontent.com/75255909/194804490-6b91c173-3256-4121-bb42-2796389d4486.png)
+
+![image](https://user-images.githubusercontent.com/75255909/194804865-3946dd30-9b02-4f85-91dc-341bef46b721.png)
+to be continued. ..
+
 [10.2 GitInternals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
-
 5.10.2022
+
 16:29
-
 Die löschung von Überschussware und eine Anpassung des action
+
 Bereichs ausstehend. Logebene hab ich keine.
-
 Soweit ich mich informieren konnte sollen Dateien die automatisch
+
 in einer markdown Datei auf github eingefügt werden können
-
 beim support beantragt zum löschen freigegeben werden.
+
 Der Bereich für nicht auf der repository gespeichertem Inhalt
-
 also copy and paste auf einer markdown Datei wurde usercontent
-genannt und das was für mich mit pastebin möglich ist
 
+genannt und das was für mich mit pastebin möglich ist
 ist auf github GIST.
