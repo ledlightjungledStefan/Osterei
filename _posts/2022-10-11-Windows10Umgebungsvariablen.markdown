@@ -26,6 +26,16 @@ Kumul-Dattel
 ![image](https://user-images.githubusercontent.com/75255909/193556849-671685b7-aa5c-4994-8633-4ca0d7457d38.png)
 
 [main_spot_tension](https://ledlightjungledstefan.github.io/Osterei/)<br>
+
+![image](https://user-images.githubusercontent.com/75255909/195248872-8fd74d58-66e8-4962-bc74-99794b3ce925.png)
+![image](https://user-images.githubusercontent.com/75255909/195248929-4ac01d60-2fb9-4ca2-a101-afe2dabb359f.png)
+
+![image](https://user-images.githubusercontent.com/75255909/195249021-37fbd9d4-36a3-42c6-a106-51feeecd5871.png)
+![image](https://user-images.githubusercontent.com/75255909/195249091-74da1734-e10d-4735-8016-32504d898e95.png)
+
+![image](https://user-images.githubusercontent.com/75255909/195249151-bfa86e6e-df2c-4c85-a53b-cb224c331989.png)
+![expand](https://user-images.githubusercontent.com/75255909/195249278-e43e550c-657d-4a7a-b5cf-25a7aafcd89a.png)
+
 [10.2 GitInternals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
 
 5.10.2022
