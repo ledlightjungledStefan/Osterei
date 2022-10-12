@@ -75,6 +75,17 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ![image](https://user-images.githubusercontent.com/75255909/195293437-28c5372d-9bcf-4b38-a157-dbc742337ccf.png)<br>
 ![image](https://user-images.githubusercontent.com/75255909/195293383-284bbf16-107f-4806-9248-e4c4f2477506.png)<br>
 
+Oben: Kalenderblaetter oder ein Stapel, ich nahm die Zahl 27(ipanema [german:deutsch]; siebenundzwanzig) for a while
+Unten: Ein neues Beispiel das in einem neuem Visual Studio Projekt,<br>
+![image](https://user-images.githubusercontent.com/75255909/195306240-c34ff5e2-e975-4ecb-8077-b085a8773466.png)
+passend abgetippt werden sollte oder Beispiele kopiert und dergleichen.
+
+![image](https://user-images.githubusercontent.com/75255909/195305331-a7574175-d101-4a73-a936-cf46ac58d6d3.png)<br>
+![image](https://user-images.githubusercontent.com/75255909/195305266-c7529d98-2de0-4413-97ca-11306e900734.png)<br>
+
+If you try to reach me, riharstefan@aon.at, you can mix up latex and other operators for get or
+set calculations but please add the operators you realy used.
+
 ![image](https://user-images.githubusercontent.com/75255909/193558846-d34c296f-3cbe-4566-9606-21305235cf31.png)
 ![image](https://user-images.githubusercontent.com/75255909/193559632-14f0cf35-3417-4bdf-a505-685634ea8ce4.png)
 
