@@ -16,17 +16,64 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 <br>
 ° index
 
-AS IS NO WARRANTY PLEASE PRESS SPACE BAR AFTER CLICKING ON EMPTY
-FORM FOR DEACTIVATING EXAMPLE CONTORLS FOLLOWED IN SCREENSHOT
+        Imports System.Text
 
-BELOW
-CODE IS IN A STATE OF OPTIMIZATION IF YOU CANNOT FOLLOW PLEASE
+        Public Class Form1
+            Public MitDem_Verwoehnpas As New MyTextBox
+            Public Sub New()
+                MitDem_Verwoehnpas.SchildkroetenSchluessel(MitDem_Verwoehnpas)
+                ' Dieser Aufruf ist für den Designer erforderlich.
+                InitializeComponent()
+                Me.Controls.Add(MitDem_Verwoehnpas)
+                ' Fügen Sie Initialisierungen nach dem InitializeComponent()-Aufruf hinzu.
 
-SEARCH WITH OTHER SOURCE THAN MY CONTRIUBTION FOR A CALENDAR
-![image](https://user-images.githubusercontent.com/75255909/195267388-3663fdfe-901e-4f1c-850d-de166d515acd.png)<br>
+            End Sub
 
-![image](https://user-images.githubusercontent.com/75255909/195267957-319c29ea-fd45-4bb5-bb0f-d5031ea0ade5.png)<br>
+            Private Sub Form1_Click(sender As Object, e As EventArgs) Handles Me.Click
+                Me.ActiveControl = Nothing
+                Form1_Enter(sender, e)
+            End Sub
 
+            Private Sub Form1_Enter(sender As Object, e As EventArgs) Handles Me.Enter
+                Me.BackColor = Color.GreenYellow
+            End Sub
+
+            Public ix, slitter As Integer
+            Public dest(5) As Char
+            Sub Kein_Stress_beim_Essen(e As KeyEventArgs)
+                Dim NumSticks As String
+                NumSticks = MitDem_Verwoehnpas.Text.ToString
+                Dim whilecatchOutsideoperators As New StringBuilder(NumSticks, 11) '
+
+                For ix = 0 To slitter
+                    If slitter < 27 Then
+                        whilecatchOutsideoperators.CopyTo(ix * 1, dest, 1, 1)
+                    End If
+                Next ix
+                Select Case e.KeyCode
+                    Case Keys.Space
+                        slitter += 1
+                        Me.Invalidate()
+                End Select
+            End Sub
+
+            Private Sub Form1_Paint(sender As Object, e As PaintEventArgs) Handles Me.Paint
+                With e.Graphics
+                    .DrawString(dest, New Font("Consolas", 22),
+                    New SolidBrush(Color.FromArgb(151, 201, 104, 221)), New Point(50, 50))
+                End With
+            End Sub
+
+            Private Sub Form1_KeyUp(sender As Object, e As KeyEventArgs) Handles Me.KeyUp
+                Kein_Stress_beim_Essen(e)
+            End Sub
+        End Class
+
+![image](https://user-images.githubusercontent.com/75255909/195294011-5675d6ce-f248-4196-9d3d-89a932e596a4.png)<br>
+![image](https://user-images.githubusercontent.com/75255909/195293542-0c8bb60e-dd35-4797-9a59-bad9af8156a4.png)<br>
+
+![image](https://user-images.githubusercontent.com/75255909/195293437-28c5372d-9bcf-4b38-a157-dbc742337ccf.png)<br>
+![image](https://user-images.githubusercontent.com/75255909/195293383-284bbf16-107f-4806-9248-e4c4f2477506.png)<br>
 
 ![image](https://user-images.githubusercontent.com/75255909/193558846-d34c296f-3cbe-4566-9606-21305235cf31.png)
 ![image](https://user-images.githubusercontent.com/75255909/193559632-14f0cf35-3417-4bdf-a505-685634ea8ce4.png)
