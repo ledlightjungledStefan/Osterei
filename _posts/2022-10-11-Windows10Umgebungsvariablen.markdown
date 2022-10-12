@@ -86,6 +86,15 @@ passend abgetippt werden sollte oder Beispiele kopiert und dergleichen.
 If you try to reach me, riharstefan@aon.at, you can mix up latex and other operators for get or
 set calculations but please add the operators you realy used.
 
+SET CALCULATIONS
+
+![image](https://user-images.githubusercontent.com/75255909/195320955-f7661cd5-a5a7-4fd4-918f-f236a3150639.png)<br>
+![image](https://user-images.githubusercontent.com/75255909/195323538-c17cf5c9-8d53-4427-8631-66a835c0f9c6.png)
+
+![image](https://user-images.githubusercontent.com/75255909/195326647-3f2f0d42-61ca-482e-a9aa-48e8b34620b4.png)
+
+GET COLUMS AND ROWS ECTERA
+
 ![image](https://user-images.githubusercontent.com/75255909/193558846-d34c296f-3cbe-4566-9606-21305235cf31.png)
 ![image](https://user-images.githubusercontent.com/75255909/193559632-14f0cf35-3417-4bdf-a505-685634ea8ce4.png)
 
