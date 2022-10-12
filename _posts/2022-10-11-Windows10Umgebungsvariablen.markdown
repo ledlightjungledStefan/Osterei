@@ -16,6 +16,57 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 <br>
 ° index
 
+Hallo nach dem Film Aliens gegen Monsters war mir klar
+das der willkommens "Roboter" ein Hinweis war dass die Klassen
+
+die schon programmieren können die anderen mitschliffen (schleifen)
+ist mit Schleifpapier eine Oberflächen Struktur durch bearbeiten mit
+
+Schleifpapier strukturel ändern. Zum Beispiel Holz.
+Ach und ich fand der Capuccinoknopf ist nicht der ich lösche alle
+
+Programmiersprachen und Betriebssysteme Knopf gewesen.
+![image](https://user-images.githubusercontent.com/75255909/195337205-c4a8deed-aec8-4f86-a78f-f2fbdb856283.png)
+
+Ich habe eine Pressesprecherin angerufen zumindest bin ich mir sicher das
+ich die Telefonnummer aus einer Bingseite hatte. Ich rief sie an
+
+weil Risperdal, ein Psychopharmca, von Janssen und Cilag: Firmenname
+bei mir Überdosiert wurde. Die sache ist Menschen ohne Absicht
+
+sich Fehler eingestehen und dennoch andere schwächer sind und mit
+gezogen werden können. Der Datenschutz ist nach meiner Frage
+
+wie ich recherchieren kann das die Pressemitteilungen der Firma
+bezüglich Datenschutz erklärt werden, mit einem Teil der Antwort
+
+gewesen das die Gesetze in Österreich sehr streng sind. Was nicht
+bedeuten muss das die Gesetze nur weil die Gesetze streng sein
+
+sollen auch funktionieren. Auf alle Fälle merkte ich mir das die
+Firma in den Pressemitteilungen, die was die Pressesprecherin auch
+
+anmerkte auf der Firmeseite nachgelesen werden können was ich nicht
+tat, keine Datenschutzinformationen Mitteilte. Soweit ich mich
+
+informieren konnte. Querverweise sind auch zu berücksichtigen.
+Ich stehe mit meinen Informationen öfters irgendwo an um mir erklären
+
+das auch Firmen die Computerspiele verkaufen mit dem Thema Faulheit
+Geld verdienen können. Den es ist offenbar anstrengend etwas
+
+zu erklären zum Datenschutz als auch keine Computerspiele zu
+produzieren die das Thema lösen sondern eher weichklopfen.
+
+Ich habe noch keine einzige Rückmeldung zu meiner Arbeit bekommen.
+secondletter read character währe der zweite Buchstabe ist
+
+ein Chracter zum Beispiel ein Character B.
+Nachdem AUCH mit der Programmiersprache vb dot net UND NICHT NUR
+
+der wechsel zwischen Poligonen und Wörtern mit Schriftzeichen
+stattfand kann es sein das es noch immer so ist.
+
         Imports System.Text
 
         Public Class Form1
@@ -46,7 +97,7 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
                 Dim whilecatchOutsideoperators As New StringBuilder(NumSticks, 11) '
 
                 For ix = 0 To slitter
-                    If slitter < 27 Then
+                    If slitter < 19 Then '27
                         whilecatchOutsideoperators.CopyTo(ix * 1, dest, 1, 1)
                     End If
                 Next ix
@@ -64,36 +115,56 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
                 End With
             End Sub
 
-            Private Sub Form1_KeyUp(sender As Object, e As KeyEventArgs) Handles Me.KeyUp
+            Public SnairDrum As New MyTextFile
+            'Public secondletter As Char = "B"
+            Private Sub Form1_KeyUp(sender As Object, e As KeyEventArgs) _
+                Handles Me.KeyUp
                 Kein_Stress_beim_Essen(e)
+                'SnairDrum.KlasseStattMasse(secondletter)
             End Sub
         End Class
 
-![image](https://user-images.githubusercontent.com/75255909/195294011-5675d6ce-f248-4196-9d3d-89a932e596a4.png)<br>
-![image](https://user-images.githubusercontent.com/75255909/195293542-0c8bb60e-dd35-4797-9a59-bad9af8156a4.png)<br>
+<br><!------>
 
-![image](https://user-images.githubusercontent.com/75255909/195293437-28c5372d-9bcf-4b38-a157-dbc742337ccf.png)<br>
-![image](https://user-images.githubusercontent.com/75255909/195293383-284bbf16-107f-4806-9248-e4c4f2477506.png)<br>
+        Imports System.IO
+        Imports System.Text
 
-Oben: Kalenderblaetter oder ein Stapel, ich nahm die Zahl 27(ipanema [german:deutsch]; siebenundzwanzig) for a while
-Unten: Ein neues Beispiel das in einem neuem Visual Studio Projekt,<br>
-![image](https://user-images.githubusercontent.com/75255909/195306240-c34ff5e2-e975-4ecb-8077-b085a8773466.png)
-passend abgetippt werden sollte oder Beispiele kopiert und dergleichen.
+        Public Class MyTextBox
+            Inherits TextBox
+            Public ContextFile As New StreamReader("C:\GripInseln.txt")
+            Public StringTheorie As String = ContextFile.ReadToEnd
+            Public Farbtheorien As New StringBuilder(StringTheorie)
+            Public WeatherSpins As Integer = 555
+            Public WordChar As String = String.Format("{0}EMPTYSPACE{1}Duett",
+                                                      Environment.NewLine, Environment.NewLine)
+            Public Sub SchildkroetenSchluessel(Ipanema As TextBox)
+                Dim startIndex As Integer = 4
+                Dim length As Integer = 7
+                With Ipanema
+                    .MaxLength = 19 '27
+                    .Location = New Point(550, 150)
+                    .AutoSize = False
+                    .Multiline = True
+                    .AcceptsReturn = True
+                    .WordWrap = True
+                    .Text = $"{Farbtheorien} {StringTheorie.Substring(startIndex, length)}" 'StarChild{WordChar}
+                    '.SelectionStart = 12
+                    '.SelectionLength = 7
+                End With
+            End Sub
+            Private Sub AutoSizeTextBox(ByVal SplinterTextBox As TextBox)
+                Const x_margin As Integer = 0
+                Const y_margin As Integer = 2
+                Dim size As Size = TextRenderer.MeasureText(SplinterTextBox.Text, SplinterTextBox.Font)
+                SplinterTextBox.ClientSize = New Size(size.Width + x_margin, size.Height + y_margin)
+            End Sub
+            Private Sub MyTextBox_TextChanged(sender As Object, e As EventArgs) Handles Me.TextChanged
+                AutoSizeTextBox(TryCast(sender, TextBox))
+            End Sub
+        End Class
 
-![image](https://user-images.githubusercontent.com/75255909/195305331-a7574175-d101-4a73-a936-cf46ac58d6d3.png)<br>
-![image](https://user-images.githubusercontent.com/75255909/195305266-c7529d98-2de0-4413-97ca-11306e900734.png)<br>
+![image](https://user-images.githubusercontent.com/75255909/195341760-7e83be55-50a0-4e1c-8767-a63bd6a79a2b.png)<br>
 
-If you try to reach me, riharstefan@aon.at, you can mix up latex and other operators for get or
-set calculations but please add the operators you realy used.
-
-SET CALCULATIONS
-
-![image](https://user-images.githubusercontent.com/75255909/195320955-f7661cd5-a5a7-4fd4-918f-f236a3150639.png)<br>
-![image](https://user-images.githubusercontent.com/75255909/195323538-c17cf5c9-8d53-4427-8631-66a835c0f9c6.png)
-
-![image](https://user-images.githubusercontent.com/75255909/195326647-3f2f0d42-61ca-482e-a9aa-48e8b34620b4.png)
-
-GET COLUMS AND ROWS ECTERA
 
 ![image](https://user-images.githubusercontent.com/75255909/193558846-d34c296f-3cbe-4566-9606-21305235cf31.png)
 ![image](https://user-images.githubusercontent.com/75255909/193559632-14f0cf35-3417-4bdf-a505-685634ea8ce4.png)
@@ -120,4 +191,3 @@ also copy and paste auf einer markdown Datei wurde usercontent
 genannt und das was für mich mit pastebin möglich ist
 
 ist auf github GIST.<br>
-![image](https://user-images.githubusercontent.com/75255909/195041680-6795a2c3-e0b3-4ecb-a7e9-4252340ec463.png)
