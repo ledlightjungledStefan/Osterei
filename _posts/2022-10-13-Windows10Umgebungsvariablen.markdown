@@ -16,87 +16,118 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 <br>
 ° index
 
-Für mich ist einfacher Datenschutz ohne Internetzugang und Rechnungen
-ein Krug Wasser mit einem oder keinem Untersatz.
+![image](https://user-images.githubusercontent.com/75255909/195698790-27a986f7-fbec-4f4d-974a-85605d15be7f.png)
+Einmal Eins. Nachdem keine Post mit Bedarfsorientiertemauftrag
 
-Kondensatoren sind auch Gefässe ohne Wasser. Die chemischen Komponenten
-einer Battarie sind nicht dabei. Mit einem Kondesator fließt
+an mich gesendet wurde, BOA, kann Betriebsblindjeit nicht
+von mir berücksichtigt werden.
 
-Strom durch den Kondensator wenn der Kondensator an einen Strom
-kreis angeschlossen ist. Die Menge muss nicht genau das
+Falls das keine Erpressung ist lesen Sie bitte auch noch Walter
+Moehrs Blauen Bär. Warum? Keine Ahnung.
 
-Fassungsvermögen haben als die Stromeinspeisung denoch weniger
-und nicht mehr als das Fassungsvermögen oder genau soviel
+Lachmuskel: Drüben wo? Ostfriesenwitze. Trocken.
+![image](https://user-images.githubusercontent.com/75255909/195703824-a50aaaa6-78b4-4cfd-9d22-934d943a26b4.png)
 
-wie das Fassungsvermögen eines Kondesators ist ohne das die
-Komponentenstrukturintegrität das Gefäss zerstört.
+![image](https://user-images.githubusercontent.com/75255909/195704736-cc308ae7-4cb8-45d9-9f4c-86190df65f7c.png)
+Ich konnte den für mich wichtigen ersten Punkt, auf den Datentyp
 
-Es ist auch möglich einen Ohmwiederstand zu überlassten. Der
-Ausgangsstrom muss nicht der gleiche sein wie der Eingangsstrom
+Boolean setzen, nur der letzte Punkt der Pfad der Textdatei
+im Zeichensatzrahmen, so in etwa wie damals gutenbergs buchdruck
 
-dennoch genau so viel wie die durchlässige Kapazitätsspannung
-und dergleichen ist oder ein wenig mehr.
+sagma halt rote anführungszeichen, muss in einem datentyp
+gespeichert sein. So ich kann nicht wissen falls meine Seite
 
-Ein Badeschwamm ist auch für Wasser durchlässig wenn mehr Wasser
-von einem Schwamm fließt als dessen Fassungsvermögen währe.
-
-Das beste fand ich für mich ist nach dem verlassen des Raumes
-mit den Bingotasten, bei den meisten Tastaturen lassen sich
-
-die Tasten sachte lössen und nach dem Umdrehen steht drunter
-eine Zahl mit einem Buchstaben,
-
-das Postitlabel.
-
-![image](https://user-images.githubusercontent.com/75255909/195508632-a653109d-bf7e-4a0a-9d13-7487a5ab239c.png)
-![image](https://user-images.githubusercontent.com/75255909/195508749-4d28a698-4c1a-4baf-b9af-a0e84c2ed3b2.png)
-![image](https://user-images.githubusercontent.com/75255909/195509321-f3d10ef3-6435-4c9c-96db-1c87794bc1d0.png)
-![image](https://user-images.githubusercontent.com/75255909/195509392-cbd8425e-355b-42b3-90a9-8c5383cfa3e4.png)
-![image](https://user-images.githubusercontent.com/75255909/195509503-b745df67-20cc-4dfb-b027-34bc2ba9ccdc.png)
-![image](https://user-images.githubusercontent.com/75255909/195509577-bee146ae-87e1-4e78-bdc7-29c8bdeaa054.png)
-![image](https://user-images.githubusercontent.com/75255909/195509661-50c91f6e-182c-4f4c-8d8b-2a127066c681.png)
-![image](https://user-images.githubusercontent.com/75255909/195509727-2a2d0701-7b11-4f71-866c-c28daeb05697.png)
+gelesen wird wieviele Punkte vom letzen zum ersten gestezt werden.
+![image](https://user-images.githubusercontent.com/75255909/195706047-213c09e4-c19f-4a28-9048-04116297a8b7.png)
 
         Imports System.IO
         Imports System.Text
         Public Class Form1
-            Public StressFrei_Ich As New MyLabel
-            Public WithEvents Brecel_Brei As New TextBox
-            Public WithEvents Liptauer As New Button
+            Public WithEvents Faelle_Gewoehnlich As New TextBox
+            Public WithEvents Aura_Soma As New ListBox
+            Public WithEvents ProLogisches_Astrobrot As New Button
+            Public WithEvents BohrMaschinenPflaster As New Label
             Public Sub New()
-                StressFrei_Ich.Confirmation(StressFrei_Ich)
+
                 ' Dieser Aufruf ist für den Designer erforderlich.
                 InitializeComponent()
-                Me.Controls.AddRange({StressFrei_Ich, Brecel_Brei, Liptauer})
+                Me.Controls.AddRange({Faelle_Gewoehnlich, Aura_Soma, ProLogisches_Astrobrot, BohrMaschinenPflaster})
                 ' Fügen Sie Initialisierungen nach dem InitializeComponent()-Aufruf hinzu.
-                Conventions(Brecel_Brei)
-                BuchstabenSalat(Liptauer)
+                Conventions(Faelle_Gewoehnlich)
+                Kalender_Farben(Aura_Soma)
+                UnExpected(Aura_Soma)
+                KnaXX_KnobelN(ProLogisches_Astrobrot)
+                PuzzleStein(BohrMaschinenPflaster)
             End Sub
-            Public Sub Conventions(WordBoxx As TextBox)
-                With WordBoxx
-                    .Location = New Point(450, 50)
-                End With
-            End Sub
+            Public startIndex As Integer = 87
+            Public length As Integer = 13
             Public ContextFile As New StreamReader("C:\GripInseln.txt")
             Public StringTheorie As String = ContextFile.ReadToEnd
+            Public SelectionTheorie As String = StringTheorie.Substring(startIndex, length)
+            Public index As Integer = StringTheorie.IndexOf(SelectionTheorie)
             Public Farbtheorien As New StringBuilder(StringTheorie)
-            Public WeatherSpins As Integer = 555
-            'Public WordChar As String = String.Format("{0}EMPTYSPACE{1}Duett",
-            '                                          Environment.NewLine, Environment.NewLine)
             Public WordChar As String = String.Format("{0}", StringTheorie)
-            Private Sub Brecel_Brei_TextChanged(sender As Object, e As EventArgs) Handles Brecel_Brei.TextChanged
-                StressFrei_Ich.Text = $"{WordChar}"
-            End Sub
-            Public Sub BuchstabenSalat(Gurken As Button)
-                With Gurken
-                    .Location = New Point(450, 100)
-                    .Size = New Size(100, 100)
+            Public Sub Conventions(WordBoxx As TextBox)
+                With WordBoxx
+                    .Location = New Point(350, 50)
+                    .Size = New Size(150, 300)
+                    .Multiline = True
+                    .Text = String.Format("{0}{1}", StringTheorie.Substring(startIndex, length),
+                                          Environment.NewLine, index)
+                    .SelectionStart = 2
+                    .SelectionLength = 4
                 End With
             End Sub
-            Private Sub Liptauer_Click(sender As Object, e As EventArgs) Handles Liptauer.Click
-                StressFrei_Ich.Text = "irgendetwas"
+            Public dinosaurs As New List(Of String)
+            Public TauZiehen, PovidlMohn As String
+            Public Sub Kalender_Farben(Sehr_Bunt As ListBox)
+                With Sehr_Bunt
+                    .Location = New Point(550, 50)
+                    .Size = New Size(200, 300)
+                End With
+            End Sub
+            Sub UnExpected(Frequenz As ListBox)
+                TauZiehen = "OhneEnumFlagAtribute"
+                PovidlMohn = "SeGelBu"
+                dinosaurs.Add($"{StringTheorie.Substring(startIndex, length)}")
+                dinosaurs.Add($"{TauZiehen}")
+                dinosaurs.Add($"{PovidlMohn}")
+                With Frequenz
+                    For Each TaoTaoPanda As String In dinosaurs
+                        .Items.Add(TaoTaoPanda)
+                    Next
+                End With
+            End Sub
+            Public Sub KnaXX_KnobelN(SalzMargarine As Button)
+                With SalzMargarine
+                    .Location = New Point(550, 350)
+                    .Size = New Size(200, 100)
+                    .Text = "Click me"
+                End With
+            End Sub
+            Public ToggleSwitch As Integer
+            Public KannIch_BuBi As String = Nothing
+            Public Wahr_Gehalt As Boolean = StringTheorie.Contains(SelectionTheorie)
+            Private Sub ProLogisches_Astrobrot_Click(sender As Object, e As EventArgs) Handles ProLogisches_Astrobrot.Click
+                If Not ToggleSwitch Then
+                    Aura_Soma.Items.RemoveAt(0)
+                Else
+                    Aura_Soma.Items.Add(InputBox(KannIch_BuBi))
+                End If
+                If Wahr_Gehalt = True Then
+                    BohrMaschinenPflaster.Text = $"{Farbtheorien}"
+                End If
+                ToggleSwitch = Not ToggleSwitch
+            End Sub
+            Public Sub PuzzleStein(Cerstoer As Label)
+                With Cerstoer
+                    .Location = New Point(50, 50)
+                    .Size = New Size(250, 300)
+                    .BackColor = Color.FromArgb(184, 125, 180, 24)
+                End With
             End Sub
         End Class
+
 
 <!------>
 
