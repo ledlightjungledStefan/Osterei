@@ -57,7 +57,14 @@ sind.
 ![image](https://user-images.githubusercontent.com/75255909/193559632-14f0cf35-3417-4bdf-a505-685634ea8ce4.png)
 
 Kumul-Dattel
-![image](https://user-images.githubusercontent.com/75255909/193556849-671685b7-aa5c-4994-8633-4ca0d7457d38.png)
+![image](https://user-images.githubusercontent.com/75255909/193556849-671685b7-aa5c-4994-8633-4ca0d7457d38.png)<br>
+
+<!------>
+![image](https://user-images.githubusercontent.com/75255909/195893924-3550e2d2-4294-42a3-a574-ca05a4c1d594.png)
+![image](https://user-images.githubusercontent.com/75255909/195894313-42b2412d-b37d-460e-b10e-b8452ad4fd55.png)
+
+[Interaction.InputBox(String, String, String, Int32, Int32) Methode](https://learn.microsoft.com/de-de/dotnet/api/microsoft.visualbasic.interaction.inputbox?view=net-6.0)
+<!------>
 
 [main_spot_tension](https://ledlightjungledstefan.github.io/Osterei/)<br>
 [10.2 GitInternals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
