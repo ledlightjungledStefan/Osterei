@@ -28,23 +28,44 @@ with the leftside pasted line enter (<br>
 ![image](https://user-images.githubusercontent.com/75255909/195904010-5a830101-de38-4bac-b534-536701388370.png)<br>
 Ich beweise () mir was ich kann.
 
-        Public Class Form1
+-[] :black_square_button:
+
+```VBA
+        - Dim message, title, defaultValue As String
+        Dim myValue As Object
+        ' Set prompt.
+        message = "Enter a value between 1 and 3"
+        ' Set title.
+        title = "InputBox Demo"
+        defaultValue = "1"   ' Set default value.
+
+        ' Display message, title, and default value.
+        myValue = InputBox(message, title, defaultValue)
+        ' If user has clicked Cancel, set myValue to defaultValue
+        If myValue Is "" Then myValue = defaultValue
+
+        ' Display dialog box at position 100, 100.
+        myValue = InputBox(message, title, defaultValue, 100, 100)
+        ' If user has clicked Cancel, set myValue to defaultValue
+        If myValue Is "" Then myValue = defaultValue    
+```        
             Public TrollArmy As New MyTextStringIntegration
 
 Vor dieser Eingabe (Hauptwort), tippte ich weniger als 200
 Bingoformeln.
 
 Ich tippte auch,
-[What are the instance options with a second class?](https://learn.microsoft.com/en-us/answers/questions/1047915/what-are-the-instance-options-with-a-second-class.html)
+[What are the instance options with a second class?](https://learn.microsoft.com/en-us/answers/questions/1047915/what-are-the-instance-options-with-a-second-class.html)<br>
 
-Nicht Bing sondern BINGO BingO Formeln.<br>
-[Bingo Online](https://www.microsoft.com/de-at/p/bingo-online/9nblggh4wst1?activetab=pivot:overviewtab)
+[About task lists](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-task-lists)
+![image](https://user-images.githubusercontent.com/75255909/195951431-9c588aa9-5c6e-4861-8345-1ab303f5b120.png)
 
-Bitte nicht installieren wenn Sie nicht die Option Zusatzeinkäufe,
-markiert mit einem Pluszeichen bei allen Programmen
+[Warum sin (not) Schalter nicht unabhängig?](https://social.msdn.microsoft.com/Forums/de-DE/ab90bfa9-8bad-41ba-8946-238f20780157/warum-sin-not-schalter-nicht-unabhngig?forum=visualbasicde)<br>
 
-auf MiStor, für sich einschätzen lernen können.
-MiStor und nicht MiiSt von WII, ok?
+:ballot_box_with_check: ![image](https://user-images.githubusercontent.com/75255909/195952791-a4a3be8b-fccb-4f37-b442-747188463cf4.png)
+:ballot_box_with_check: ![image](https://user-images.githubusercontent.com/75255909/195952842-30f0304f-2ddc-4117-8ef6-a9742d2864c0.png)
+
+:black_square_button: ![image](https://user-images.githubusercontent.com/75255909/195952896-b222a509-976f-42bb-940a-e9be7f68f9fb.png)
 
 Falls die in diesem Fall auf Zeile vier Eingabe
 
@@ -59,7 +80,7 @@ hatte ich eine JustInTime Compiler Error Message.
 Mein Rätsel für mich ist, warum keine Fehlermeldung mit<br>
 ![image](https://user-images.githubusercontent.com/75255909/195790324-b70d78d9-1ccf-4df4-b383-123b1afe0d6a.png)
 
-sondern möglicherweise Konednsatorfeld Fehlmeldungen
+sondern möglicherweise Kondensatorfeld Fehlmeldungen
 sind.
 <!------>
 
