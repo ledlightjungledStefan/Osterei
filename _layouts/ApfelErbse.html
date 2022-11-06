@@ -4,104 +4,138 @@
     <head>
         <meta charset="utf-8">
         <title>TITAN</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#157878">
-<style>
-.center {
-  margin: auto;
-  width: 60%;
-  border: 3px solid #7e099f;
-  padding: 10px;
-}    
-/*.outer {
-  width: 800px;
-  height: 300px;
-  top: 300px;
-  left: 400px;
-  overflow: scroll;
-  padding-left: 150px;}*/  
-</style>
-<link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/normalize.css">
-<link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/cayman.css">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <meta name="theme-color" content="#157878">
+
+        <link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/normalize.css">
+        <link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/cayman.css">
         <link rel="stylesheet" href="/Osterei/assets/css/BackgroundcolorApfelErbse.css">
         <link rel="stylesheet" href="/Osterei/assets/PropertyEm/PartialChaintoSecurityClass.css">
-
     </head>
 
 <body>
 <!--{{ content }}-->
-    <section class="page-header">
-  <h1 class="project-name">Hilfe</h1>
-  <h2 class="project-tagline">A responsive theme with VB dot NET for offline pages</h2>
 
-</section>
-    <section class="main-content">
+<br>
+    <h2 style="text-align: center;">Welcome to my drawing board! </h2>
+    <div style="text-align: center; ">
+        <button onclick="red()" style="color: red" class="btn">Red</button>
+        <button onclick="yellow()" style="color: yellow" class="btn">Yellow</button>
+        <button onclick="green()" style="color: green" class="btn">Green</button>
+        <button onclick="blue()" style="color: blue" class="btn">Blue</button>
+        <button onclick="orange()" style="color: orange" class="btn">Orange</button>
+        <button onclick="pink()" style="color: pink" class="btn">Pink</button>
+        <button onclick="indigo()" style="color: indigo" class="btn">Indigo</button>
+        <br>
+        <br>
+        <div style="text-align: center; ">
+            <input type="radio" id="radiobtn" onclick="small()" name="radio_name" > Small Stroke &nbsp &nbsp
+            <input type="radio" id="radiobtn" onclick="medium()" name="radio_name" > Medium Stroke &nbsp &nbsp
+            <input type="radio" id="radiobtn" onclick="large()" name="radio_name" > Large Stroke
+            <b><i><p>** Unleash your creativity now **</p></i></b>
+            <hr>
+            <canvas id="draw" width="800" height="800"></canvas>
+        </div>
+    
+        <script>
+            const canvas = document.querySelector('#draw');
+            const ctx = canvas.getContext('2d');
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+            ctx.strokeStyle = '#BADA55';
+            ctx.lineJoin = 'round';
+            ctx.lineCap = 'round';
+            ctx.lineWidth = 20;
+            // ctx.globalCompositeOperation = 'multiply';
+            let isDrawing = false;
+            let lastX = 0;
+            let lastY = 0;
+            let hue = 10;
+            let direction = true;
 
-    </section>
-<div class="center">    
-    <div class="outer">
-        <p>Ohne eine Speicherstelle kann für die Suche nach einer<br>
-        Property, ein Rechteck einer Kontrolle oder diverse<br>
-        Funktionen, eine Public Verschlüsselungsebene<br>
-        ein und Ausgetragen werden.</p>
-        <p>Das Quadrat hat eine Seitenlänge und eine Diagonale.
-        Eine halbe Diagonale ist nicht so lang wie eine halbe Seite.
-        An einer Ecke ist immer nur ein Kreis.
-        Alle Kreise können unterschiedlich groß sein.
-        Nicht alle Quadrate können Dreiecke fasen die mit den drei Eckpunkten immer alle Seiten berühren können.</p>
-        <img src="/Osterei/assets/RootChakra.bmp">
-        <img src="/Osterei/assets/VSVBTKen.bmp">
-     </div>
-</div>
-    <h3>online battles</h3>
-    <p>Mit der für mich angebotenen SEO Angabe, (Einziger Nachteil: Sie müssen permanent in Ihr Google Konto eingeloggt sein,)
-    <br>
-    ( damit die Suchanfragen nicht gespeichert werden. Rufen Sie die ...)
-    <br>
-    für den Linkeintrag (Google-Verlauf löschen - so klappt's - Heise)
-    <br>
-    ist für mich ohne nennswerte Information mit der Information auf die ich mich beziehen kann nach dem löschen des
-    <br>
-    Kontos bleiben die Einschtellungen zum löschen des Verlaufs in google chrome erhalten. Also währe
-    <br>
-    der einzige nachteil um die Option ändern zu können das ich ein Konto erstellen würde um die Option
-    <br>
-    ändern zu können. Nach dem löschen de Kontos sind die Optionsmöglichkeiten nicht mehr vorhanden.
-    <br>
-    Die Funktion das der Verlauf nach jedem schließen des chrome browsers gelöscht wird ist nach dem löschen
-    <br>
-    des Kontos noch immer aktiv.
-    <br>
-    Um automatische Änderungen vorbeugen zu können lerne ich GNU Privacy Assistant - Key Manager.
-    </p>
-    <h4>online battles redesigne</h4>
-    <p>COMPAQ 9500 VGA HARDWARE und ein NETGEAR WINDOWS 10 WLANSTICK ist mit dem Zeigegerät AKA MOUSE ein Eintrag
-        <br>
-        und die Aufgabenleiste AKA TASKBAR Glyphe AKA ICON ece
-        <br>
-        point fullstop first sphere fullstop second sphere fullstop third sphere stop
-        <br>
-        IO AS CHAR WINDOWS VERSIONS WITH AWAIT ASYNC FILESYSTEMS
-        <br>
-        nachdem mit jedem neuen google account der automatische suchverlauf gelöscht werden kann
-        <br>
-        ist der WLAN Bereich für Internetzugänge einzuschalten wenn der Text nicht notwendig ist
-        <br>
-        Das Label mit dem Eintrag Internetzugriff kann mit den Windowsversionen bei denen sich das Label
-        <br>
-        automatisch abschaltet auch mit der Escapetaste beendet werden.
-        <br>
-    </p>
+            function draw(e) {
+                if (!isDrawing) return;
+                ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`;
+                ctx.beginPath();
+                ctx.moveTo(lastX, lastY);
+                ctx.lineTo(e.offsetX, e.offsetY);
+                ctx.stroke();
+                [lastX, lastY] = [e.offsetX, e.offsetY];
+
+            }
+            canvas.addEventListener('mousedown', (e) => {
+                isDrawing = true;
+                [lastX, lastY] = [e.offsetX, e.offsetY];
+            });
+            canvas.addEventListener('mousemove', draw);
+            canvas.addEventListener('mouseup', () => isDrawing = false);
+            canvas.addEventListener('mouseout', () => isDrawing = false);
+
+            function red() {
+                hue = 10;
+            }
+
+            function orange() {
+                hue = 30;
+            }
+
+            function yellow() {
+                hue = 60;
+            }
+
+            function green() {
+                hue = 100;
+            }
+
+            function blue() {
+                hue = 210;
+            }
+
+            function pink() {
+                hue = 330;
+            }
+
+            function indigo() {
+                hue = 290;
+            }
+
+            function small() {
+                ctx.lineWidth = 5;
+            }
+
+            function medium() {
+                ctx.lineWidth = 10;
+            }
+
+            function large() {
+                ctx.lineWidth = 20;
+            }
+        </script>
+
+        <style>
+            html,
+            body {
+                margin: 0;
+            }
+            
+            .btn {
+                font-size: 20px;
+                margin-right: 40px;
+                background-color: rgba(255, 255, 255, 0);
+                box-shadow: 0 0 0 0 #2c3e50 inset, 0.3em 0.2em 0 0 #bbb
+            }
+            
+            #radiobtn {
+                font-size: 20px;
+                margin-right: 20px;
+                background-color: rgba(255, 255, 255, 0);
+            }
+        </style>
+    
 <video width="320" height="240" controls>
 <source src="/Osterei/assets/media/density.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-    <a href="https://pastebin.com/1Lksr6LN" class="btn">VB dot Net MyForm RookieTiming Class Filecontent</a>
-      <a href="https://pastebin.com/Yaf8yRcV" class="btn">Not established await runtime with VB dot Net controls. class2</a>
-      <a href="https://pastebin.com/L5VWsR1R" class="btn">Skalarfileds semioptional MyFiledList class</a>
-      <a href="https://pastebin.com/MC8MeM8Y" class="btn">MyLabel Classfile</a>
-      <a href="https://pastebin.com/RJkp5XBE" class="btn">MyButton Classfile</a>
-    <a href="https://pastebin.com/UrC2yUKh" class="btn">MyListBox Classfile</a>
-    <a href="/Osterei/assets/PartialClass.pdf" class="btn">Screen prints for the keyword partial</a>
+
 </body>
 </html>
