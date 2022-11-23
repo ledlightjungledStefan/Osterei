@@ -7,6 +7,12 @@ image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
 
+
+	Aridia Outpost X11
+	3:35
+
+	Is it a stable stargate or whatevergate
+
 Ratchet & Clank soundtrack composed by
 someone names
 \<s\>correct maybe if i am wrong
