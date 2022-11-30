@@ -24,32 +24,37 @@ both      spaces and
 line breaks
 </pre></p>
     <p><pre>
-    Public Class Form1
-    Public WithEvents DerKnopf As New Button
+Imports System.IO
+Public Class Form1
+    ReadOnly GRUNDL As New Label
+    ReadOnly CHANGES As New ListBox
+    Public StringTheorie() As String = File.ReadAllLines("C:\GripInseln.txt")
+    Public BraveStarr As New List(Of String)
+    Public Entries As String = "Bananenkompot"
     Public Sub New()
-
+        BraveStarr.Add(StringTheorie(0))
+        BraveStarr.Add(StringTheorie(1))
         ' Dieser Aufruf ist für den Designer erforderlich.
         InitializeComponent()
-        Me.Controls.Add()
+        With CHANGES
+            .Location = New Point(350, 50)
+            .Size = New Point(250, 250)
+            .Font = New Font("Consolas", 28)
+            .DataSource = BraveStarr
+            .BackColor = Color.FromArgb(64, 206, 203)
+        End With
+        With GRUNDL
+            .Location = New Point(50, 50)
+            .Size = New Size(250, 250)
+            .Font = New Font("Libre Baskerville", 28)
+            .DataBindings.Add("BackColor", Color.FromName(BraveStarr(0)), "")
+        End With
         ' Fügen Sie Initialisierungen nach dem InitializeComponent()-Aufruf hinzu.
-
+        Me.Controls.AddRange({GRUNDL, CHANGES})
     End Sub
-
-    Private Sub Form1_KeyUp(sender As Object, e As KeyEventArgs) Handles Me.KeyUp
-        Select Case e.KeyCode
-            Case Keys.Space
-                MessageBox.Show("rEGRETED")
-                KlasseStattMasse(Message)
-                Tortenheber.Text = "Text Changed"
-        End Select
-    End Sub
-    End Class
+End Class
     </pre></p>
     <pre>
-<!DOCTYPE html>
-<html>
-<body>
-
 <p>Click the button to find out if the onclick event is a cancelable event.</p>
 
 <button onclick="myFunction(event)">Try it</button>
@@ -71,8 +76,6 @@ function myFunction(event) {
   <dt>Markup</dt>
   <dd>Search for echos</dd>
 </dl>
-</body>
-</html>
 </pre>
         <p><pre>
     Mit dem url link
@@ -83,26 +86,48 @@ function myFunction(event) {
     file and convert it into multiple DataFrame columns using Scala examples.
     </pre><p>
     </section>
-<p>Click the button to find out if the onclick event is a cancelable event.</p>
-
-<button onclick="myFunction(event)">Try it</button>
-
-<p id="demo"></p>
-
-<script>
-function myFunction(event) { 
-  var x = event.cancelable;
-  document.getElementById("demo").innerHTML = x;
-}
-</script>
-<code>&lt;code&gt;</code>
-<p>Define some text as computer code in a document:</p>
-
-<dl>
-  <dt>Basic</dt>
-  <dd>Let go your stress</dd>
-  <dt>Markup</dt>
-  <dd>Search for echos</dd>
-</dl>
 </body>
+<article><p contenteditable="false">Nach dem github pages mit einer "Readme" markdown
+    begonnen werden sollte habe ich noch immer keine für meine Seite.
+    Mit meinen 44 Jahren ist mein bedenken noch immer, dass der Readme Status Privat ist.
+    Die logische Schlussfolgerung die ich habe ist trivial, dass der bezahlte Bereich
+    bitcoinmining ist. Trivial also nicht nur.
+    Es ist auch nicht notwendig mit einer markup datei zu beginnen den ich habe keine
+    Antenne. Um einen online und offline Status üben zu können konnte ich die
+    gratis Prozessoren die auf google servern zur Verfügung gestellt werden
+    nicht nutzen da die Textverarbeitungsmöglichkeiten sehr komplex sind. 
+    </p>
+    <img contenteditable="false" src="/Osterei/assets/images/basteltasten.bmp" width="500" height="600">
+    <p contenteditable="false">
+        Es kann sein, dass die tagline
+        <code>&lt;wbr&gt;</code>
+        teilweise verwendet wurde weil in einem article keine server Schlüsselwörter
+        verwendet werden sollten und ich für mich würde auch keine sectionen
+        mit article verwenden.
+        Viele Möglichkeiten sind für Menschen die html und markdown verwendeten
+        nicht nachvollziehbar weil sie nicht angegeben wurden.
+        Ich zum Beispiel heile meine Wunden mit dem Youtubebeitrag eines mir nicht
+        bekannten users wenn möglich ist eine Angabe auser binär nicht notwendig.
+        Zum "Spiel" Alone in the Dark von der XBOX.
+        Wobei ich auch für mich schon angab das auch die tagline
+        <code>&lt;wbr&gt;</code>
+        eher einem XBOX Spiel gleichen kann.
+    </p>
+    <p contenteditable="false">
+        Deswegen erlaube ich mir den nächsten "paragraphen" mit
+        der tagline
+        <code>&lt;pre&gt;</code>
+        und der automatischen Bildung des htmlinhaltsrahmens mit dem pre
+        zu laden. Scheinbar scheint in weiter folge das Element pre im responsive
+        webdesigne zu code highligthing zu werden.
+        Also sollte visual studio code eigentlich auch in anderen Versionen als meiner
+        eine html Datei nach drücken der Umschaltetaste mit der Taste Rufzeichen
+        und nach dem laden eines Rufzeichens und dem drücken und loslassen der Eingabetaste
+        eine Markupschablone für weiter Textverarbeitungen laden.
+    </p>
+    <pre>
+    <code>&lt;code&gt;</code>
+    <code>&lt;/code&gt;</code>
+    </pre>
+</article>
 </html>
