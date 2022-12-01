@@ -6,6 +6,18 @@ rating: 4
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
+
+[DataSet.DataSetName Eigenschaft](https://learn.microsoft.com/de-de/dotnet/api/system.data.dataset.datasetname?view=net-7.0)
+![image](https://user-images.githubusercontent.com/75255909/205141444-b7546251-a836-4efb-a367-fbc32515569c.png)
+
+![image](https://user-images.githubusercontent.com/75255909/205141525-c059dadd-ac2d-43c4-9486-a9df29bca0d8.png)
+
+[DataColumn.Table Eigenschaft](https://learn.microsoft.com/de-de/dotnet/api/system.data.datacolumn.table?view=net-7.0)
+![image](https://user-images.githubusercontent.com/75255909/205142043-231c2beb-523c-411d-b44e-2cab37ad1f08.png)
+
+[DataTableCollection.Add Methode](https://learn.microsoft.com/de-de/dotnet/api/system.data.datatablecollection.add?view=net-7.0)
+![image](https://user-images.githubusercontent.com/75255909/205142779-dc4dae30-99f6-4864-bb3f-a4da3ce14e68.png)
+
 With the link below i post some additional text from the linked content
 and my own thougths
 
