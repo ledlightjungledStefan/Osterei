@@ -6,17 +6,25 @@ image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
 
-![image](https://user-images.githubusercontent.com/75255909/205295677-dc08caaf-6208-4747-abde-8b72f1e2b6f1.png)
-![image](https://user-images.githubusercontent.com/75255909/205296323-7075e364-e8d1-471c-be00-934a4a7877dc.png)
+    ReadOnly Supported As New Label
 
-![image](https://user-images.githubusercontent.com/75255909/205296823-687d4d05-31b5-4847-a0a9-8fe4ef2c081f.png)
-![image](https://user-images.githubusercontent.com/75255909/205296968-14e58b27-2823-45fe-a08f-30d84f343eda.png)
+    Public Sub New()
 
-![image](https://user-images.githubusercontent.com/75255909/205298884-3c69fca8-8de9-46ed-8b38-b3de6adf4014.png)
-Das Gefahrenhinweiszeichen hätte für zwei PDFS einen Rahmen
+        ' Dieser Aufruf ist für den Designer erforderlich.
+        InitializeComponent()
 
-nur nachdem ich mich nicht angemeldet habe ist es nicht relevant für diverse Fragen.
-![image](https://user-images.githubusercontent.com/75255909/205299151-967cdffd-5a60-47ff-9570-670dac74a7f4.png)
+        ' Fügen Sie Initialisierungen nach dem InitializeComponent()-Aufruf hinzu.
+        With Me
+            .Controls.Add(Supported)
+        End With
+    End Sub
+    Sub Development(StoredEcho As Label)
+        With StoredEcho
+            .Location = New Point(50, 50)
+        End With
+    End Sub
+
+![image](https://user-images.githubusercontent.com/75255909/205326478-96d55860-3c40-4eab-9879-ee256d062ad2.png)
 
 [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
 
