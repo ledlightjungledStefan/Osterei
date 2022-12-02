@@ -120,6 +120,11 @@ documentations the set keyword is not entered. Ok.
 Now the headache: storage units are i get or set.
 get without runtime. why not?
 
+[How to populate an array from a DataSet in VB.NET](https://stackoverflow.com/questions/9430964/how-to-populate-an-array-from-a-dataset-in-vb-net/9431063#9431063)
+![image](https://user-images.githubusercontent.com/75255909/205280391-ecdb715e-3a7a-46a3-b811-8d0ea2ac18cb.png)
+
+MAYBE
+
 [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
 
 [Creating and highlighting code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
