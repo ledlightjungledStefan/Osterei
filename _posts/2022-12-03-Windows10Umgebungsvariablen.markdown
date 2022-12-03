@@ -28,6 +28,9 @@ conclusion: organic nature evolved
 last assumption today while typing: datamemebers and nods are the same and not calculating controls
 last conclusion ecetera: the question is, can nodes be initiated?
 
+![image](https://user-images.githubusercontent.com/75255909/205431353-16090c42-091d-40e7-871b-e578f7097c14.png)
+2D picture model
+
 [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
 
 [Creating and highlighting code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
