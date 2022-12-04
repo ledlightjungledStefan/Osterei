@@ -57,6 +57,96 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 
 ![image](https://user-images.githubusercontent.com/75255909/205515896-a7c37ad1-5fb9-4ca2-a01a-dbbb34866072.png)
 
+![image](https://user-images.githubusercontent.com/75255909/205518350-2b7b2860-47a0-48af-9553-07b179c7cc71.png)
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta name="theme-color" content="#157878">
+            <title>Document</title>
+            <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+            <script src="/assets/js/script.js" defer></script>
+        <style>
+            .element {
+                        position: absolute;
+                        left: 400px;
+                        top: 600px;}
+        </style>   
+        </head>
+        <body>
+        <div class="container">
+            <p class="draggable" draggable="true">1</p>
+            <p class="draggable" draggable="true">2</p>
+        </div>
+        <div class="container">
+            <p class="draggable" draggable="true">3</p>
+            <p class="draggable" draggable="true">4</p>
+        </div>
+        </body>
+        </html>
+<!------>
+        body {
+            margin: 0;
+        }
+
+        .container {
+            background-color: #333;
+            padding: 1rem;
+            margin-top: 1rem;
+        }
+
+        .draggable {
+            padding: 1rem;
+            background-color: white;
+            border: 1px solid black;
+            cursor: move;
+        }
+
+        .draggable.dragging {
+            opacity: .5;
+        }
+<!------>
+        const draggables = document.querySelectorAll('.draggable')
+        const containers = document.querySelectorAll('.container')
+
+        draggables.forEach(draggable => {
+            draggable.addEventListener('dragstart', () => {
+                draggable.classList.add('dragging')
+            })
+            draggable.addEventListener('dragend', () => {
+                draggable.classList.remove('dragging')
+            })
+        })
+
+        containers.forEach(container => {
+            container.addEventListener('dragover', e => {
+                e.preventDefault()
+                const afterElement = getDragAfterElement(container, e.clientY)
+                const draggable = document.querySelector('.dragging')
+                if (afterElement == null) {
+                    container.appendChild(draggable)
+                } else {
+                    container.insertBefore(draggable, afterElement)
+                }
+            })
+        })
+        function getDragAfterElement(container, y) {
+            const draggableElements = [...container.querySelectorAll('.draggable:not(.dragging)')]
+
+            return draggableElements.reduce((closest, child) => {
+                const box = child.getBoundingClientRect()
+                const offset = y - box.top - box.height / 2
+                if (offset < 0 && offset > closest.offset) {
+                    return { offset: offset, element: child }
+                } else {
+                    return closest
+                }
+            }, { offset: Number.NEGATIVE_INFINITY }).element
+        }
+
 [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
 
 [Creating and highlighting code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
