@@ -81,6 +81,12 @@ array that has some sort of defined steps.
 
 ![image](https://user-images.githubusercontent.com/75255909/205685862-0c09aa9c-cda2-4cf3-a50f-d8e1d8214e6e.png)
 
+![image](https://user-images.githubusercontent.com/75255909/205694865-2d9ef365-e3f7-497c-888f-9e1b6e053832.png)
+
+![image](https://user-images.githubusercontent.com/75255909/205695602-09a3d7e3-9b34-4d65-963b-e81e3e81efc9.png)
+
+![image](https://user-images.githubusercontent.com/75255909/205695728-a9b80c3b-9f7a-4ef7-a7ea-56fa45762247.png)
+
 [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
 
 [Creating and highlighting code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
