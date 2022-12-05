@@ -71,6 +71,16 @@ the
 datatable has two nodes, and the datacolumn has to be used with a logic
 array that has some sort of defined steps.
 
+![image](https://user-images.githubusercontent.com/75255909/205681824-5b1b2024-8178-459d-a7c7-882bd8a05451.png)
+
+![image](https://user-images.githubusercontent.com/75255909/205682752-f63d2780-8998-42b0-bf00-525489eb625e.png)
+
+![image](https://user-images.githubusercontent.com/75255909/205684055-5a70e908-146c-48c9-b171-0b459ce293fb.png)
+
+![image](https://user-images.githubusercontent.com/75255909/205684297-8733af1c-66de-45d2-8fd5-dfd742903e09.png)
+
+![image](https://user-images.githubusercontent.com/75255909/205685862-0c09aa9c-cda2-4cf3-a50f-d8e1d8214e6e.png)
+
 [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
 
 [Creating and highlighting code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
