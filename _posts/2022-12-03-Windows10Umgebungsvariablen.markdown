@@ -10,31 +10,66 @@ description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 
 ![image](https://user-images.githubusercontent.com/75255909/205606079-2272f331-b688-486b-b0b7-08dd0dcd277e.png)
 
-![image](https://user-images.githubusercontent.com/75255909/205597883-3ebf38e1-b897-44e6-b75d-1660e6c24052.png)
+common seperator value
+column set       ?
 
-![image](https://user-images.githubusercontent.com/75255909/205513651-f072cb12-a480-4a40-819c-aa278d1f0c5c.png)
+emergy address link
 
-![image](https://user-images.githubusercontent.com/75255909/205513663-9da6eac0-e38c-4b43-8b8a-0279ddd408f4.png)
+![image](https://user-images.githubusercontent.com/75255909/205613697-d9f8948b-1a9f-4adf-8620-ab70880268c5.png)
 
-![image](https://user-images.githubusercontent.com/75255909/205513687-a7695fae-1989-4b42-988c-980ef15a217f.png)
+merge shape nodes
 
-![image](https://user-images.githubusercontent.com/75255909/205513713-c97c9416-23d7-469f-a53b-7b9130e3f04a.png)
+![image](https://user-images.githubusercontent.com/75255909/205614143-0b6fa3f7-6c5d-444f-986f-aa1e07377eef.png)
 
-![image](https://user-images.githubusercontent.com/75255909/205513733-5f7dc8fe-fb07-4cdd-af00-c0406d74dfd0.png)
+![image](https://user-images.githubusercontent.com/75255909/205615582-7d62e859-14be-467a-a671-931b72631e3b.png)
 
-![image](https://user-images.githubusercontent.com/75255909/205515359-af479856-64fa-4440-bb51-5cc6aaaa5e8e.png)
+![image](https://user-images.githubusercontent.com/75255909/205615842-c3b711dd-8d42-4218-95b0-eda357772ddc.png)
 
-![image](https://user-images.githubusercontent.com/75255909/205515782-750854dd-dcfd-4ca9-a910-39d9ed7a0d82.png)
+![image](https://user-images.githubusercontent.com/75255909/205616030-9273ca46-6355-4df2-9f1e-602239fe5d83.png)
 
-![image](https://user-images.githubusercontent.com/75255909/205515819-230f7479-2d25-41ee-b95d-d1b762416dc8.png)
+assumption: i suppose that a dataset is in a datacolumn
+conclusion: if a datatable holds both, a datacolumn and a dataset, get something store something
 
-![image](https://user-images.githubusercontent.com/75255909/205600373-62d04996-3ce5-4a0b-ac2b-6296149f7a79.png)
+i can prove that i am aware of datamember logic with tables
+if the character e is a headbanging akuse
 
-![image](https://user-images.githubusercontent.com/75255909/205600898-21bd073f-71d2-4846-94cf-0f981982463b.png)
+than also beat house is a bookmark column
+the common two spots are A adn B
 
-![image](https://user-images.githubusercontent.com/75255909/205602051-9351dc44-4357-4591-9c1b-31a2ba4146b9.png)
+and through my seen version of leo dot org
 
-??occpupied sponge matter
+![image](https://user-images.githubusercontent.com/75255909/205618390-85efbf20-15f5-42f0-81cc-18db51cde373.png)
+the next question i have is, what is a function and that within my spoted colnclusion
+
+to answer the stepstone a leave cannot, from me, be attached back to a branch
+and functions debriefed
+
+although ican be a violet minion with glasses
+and logic units can have missing storage units but storage units not
+
+tables?
+Also visual studio with visual basic dot net has not only values
+
+Referenzes can be measurt steps. My first echo spot is visibility is not readability.
+It is like proving pickpocketing.
+
+The stumble word is precede. The keyword with, also at least one control, can hold scaling
+products. If you want to hold datamembers that are circuits in use
+
+it is not stored with exchangable logic truth tables.
+We are reading from left to right and a not gatter has to be from up to down
+
+bevore an and gatter if you want to have a change.
+A cahnge on graphic level. On a screen.
+
+If dataset is a set in a memory unit with
+![image](https://user-images.githubusercontent.com/75255909/205624269-c4b5aafd-d26b-4a74-94ff-3ceb4f116107.png)
+
+the
+![image](https://user-images.githubusercontent.com/75255909/205624337-b6cb7b81-2a4d-43b5-8860-fadabaf91f08.png)
+
+datatable has two nodes, and the datacolumn has to be used with a logic
+array that has some sort of defined steps.
 
 [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
 
