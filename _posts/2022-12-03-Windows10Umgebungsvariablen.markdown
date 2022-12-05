@@ -87,6 +87,10 @@ array that has some sort of defined steps.
 
 ![image](https://user-images.githubusercontent.com/75255909/205695728-a9b80c3b-9f7a-4ef7-a7ea-56fa45762247.png)
 
+![image](https://user-images.githubusercontent.com/75255909/205697559-872d384b-8a09-4172-b0cc-f5881dbe603a.png)
+
+![image](https://user-images.githubusercontent.com/75255909/205698678-2f6d0803-5de4-4d8a-baa7-c33c7a717fc2.png)
+
 [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
 
 [Creating and highlighting code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
