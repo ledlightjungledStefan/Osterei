@@ -67,6 +67,13 @@ Hm?
 
 ![image](https://user-images.githubusercontent.com/75255909/206337329-f3e8f1b4-f346-453a-b9bd-dd31ab084a26.png)
 
+![image](https://user-images.githubusercontent.com/75255909/206339200-aeacc9b8-dc04-405d-a1f7-ffd52a02be4b.png)
+
+the project is not saved.
+
+![image](https://user-images.githubusercontent.com/75255909/206339348-3908b608-8da8-4eb4-8d2e-6701366082a1.png)
+
+the project is not saved AND searching triggers wishes
 [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
 
 [Creating and highlighting code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
