@@ -20,10 +20,57 @@ Da kan ma davor noch n beistrich setzen.
 Vor dem Abstand nach dem: quelle.
 Quellausgaben können auch Fehlerinhalte sein.
 
-I try writte for myself what fits.
-M I aijbl to vraijt.
+![image](https://user-images.githubusercontent.com/75255909/206342877-1844cbad-5e67-44de-8691-34fff01c8930.png)
+![image](https://user-images.githubusercontent.com/75255909/206342903-a2852a06-a83c-4417-a07e-8c27b9083084.png)
 
-AIJ.
+        Public Class Form1
+            ReadOnly KouldKäijbl As New Label
+            ReadOnly GiftToks As New ListBox
+            ReadOnly ProperTokButns As New Button
+
+            Public dinosaurs As New List(Of String)
+            Public tokotronik, wirhielten As String
+
+            Public Sub New()
+
+                ' Dieser Aufruf ist für den Designer erforderlich.
+                InitializeComponent()
+                With Me
+                    .Controls.AddRange({KouldKäijbl, GiftToks, ProperTokButns})
+                End With
+                ' Fügen Sie Initialisierungen nach dem InitializeComponent()-Aufruf hinzu.
+
+            End Sub
+            Sub Wäsch_Zeichen(DerivedAIRTREE As Label)
+
+                tokotronik = "nichtmeinlied"
+                wirhielten = "registriert"
+                dinosaurs.Add($"{tokotronik}")
+                dinosaurs.Add($"{wirhielten}")
+
+                With DerivedAIRTREE
+                    .Location = New Point(50, 50)
+                    .Size = New Size(250, 250)
+                    .BackColor = Color.FromArgb(179, 208, 9)
+                    .DataBindings.Add("Text", String.Format("{0}", wirhielten), "")
+                End With
+            End Sub
+            Sub InselStaaten(DarilaDeux As ListBox)
+                With DarilaDeux
+                    .Location = New Point(350, 50)
+                    .Size = New Size(250, 250)
+                    .BackColor = Color.Silver
+                End With
+            End Sub
+            Sub ChuISäz(KoSezSE As Button)
+                With KoSezSE
+                    .Location = New Point(350, 250)
+                    .Size = New Size(100, 100)
+                    .BackColor = Color.Blue
+                End With
+            End Sub
+        End Class
+
 
 ?
 
