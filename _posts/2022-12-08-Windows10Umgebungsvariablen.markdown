@@ -106,10 +106,9 @@ AIJ
 
 ![image](https://user-images.githubusercontent.com/75255909/206357603-1d165ae8-a2ca-48ad-9397-3d17fe3133d7.png)
 
-AIJ
+![image](https://user-images.githubusercontent.com/75255909/206360602-f6337841-87dc-4755-9cca-1f6ba9fb9576.png)
 
-?
-
+[Cookies – Informationen, die Websites auf Ihrem Computer ablegen](http://mzl.la/1BAQyo7)
 Th eboat on pagan has to be for a reason ?ning?
 
 Hm?
