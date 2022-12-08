@@ -21,7 +21,7 @@ Vor dem Abstand nach dem: quelle.
 Quellausgaben können auch Fehlerinhalte sein.
 
 ![image](https://user-images.githubusercontent.com/75255909/206342877-1844cbad-5e67-44de-8691-34fff01c8930.png)
-![image](https://user-images.githubusercontent.com/75255909/206342903-a2852a06-a83c-4417-a07e-8c27b9083084.png)
+![image](https://user-images.githubusercontent.com/75255909/206355801-f5addb14-22d1-4aa3-9e12-9b1e0a476c45.png)
 
         Public Class Form1
             ReadOnly KouldKäijbl As New Label
@@ -31,16 +31,34 @@ Quellausgaben können auch Fehlerinhalte sein.
             Public dinosaurs As New List(Of String)
             Public tokotronik, wirhielten As String
 
-            Public Sub New()
+            Public KannIch_BuBi As String = Nothing
 
+            Public ToggleSwitch As Integer
+
+            Public Sub New()
+                AddHandler ProperTokButns.Click, AddressOf ProperTokButns_Click
                 ' Dieser Aufruf ist für den Designer erforderlich.
                 InitializeComponent()
                 With Me
                     .Controls.AddRange({KouldKäijbl, GiftToks, ProperTokButns})
                 End With
                 ' Fügen Sie Initialisierungen nach dem InitializeComponent()-Aufruf hinzu.
-
+                Wäsch_Zeichen(KouldKäijbl)
+                InselStaaten(GiftToks)
+                ChuISäz(ProperTokButns)
             End Sub
+
+            Private Sub ProperTokButns_Click(ByVal sender As Object, ByVal e As EventArgs)
+                If Not ToggleSwitch Then
+                    ProperTokButns.Text = "Status: OFF"
+                    GiftToks.Items.RemoveAt(0)
+                Else
+                    ProperTokButns.Text = "Status: ON"
+                    GiftToks.Items.Add(InputBox(KannIch_BuBi))
+                End If
+                ToggleSwitch = Not ToggleSwitch
+            End Sub
+
             Sub Wäsch_Zeichen(DerivedAIRTREE As Label)
 
                 tokotronik = "nichtmeinlied"
@@ -60,16 +78,22 @@ Quellausgaben können auch Fehlerinhalte sein.
                     .Location = New Point(350, 50)
                     .Size = New Size(250, 250)
                     .BackColor = Color.Silver
+
+                    For Each TaoTaoPanda As String In dinosaurs
+                        .Items.Add(TaoTaoPanda)
+                    Next
+
                 End With
             End Sub
             Sub ChuISäz(KoSezSE As Button)
                 With KoSezSE
-                    .Location = New Point(350, 250)
+                    .Location = New Point(350, 350)
                     .Size = New Size(100, 100)
                     .BackColor = Color.Blue
                 End With
             End Sub
         End Class
+
 
 
 ?
@@ -80,7 +104,7 @@ AIJ
 
 ?
 
-To vhum hef aij spoken?
+![image](https://user-images.githubusercontent.com/75255909/206357603-1d165ae8-a2ca-48ad-9397-3d17fe3133d7.png)
 
 AIJ
 
@@ -101,7 +125,9 @@ ADD ADD
 Karibu = carribian islamists the AD Alien barkepper had a time trigger
 triggerd in family guy with a aijijijijijijiji
 
-Hm?
+![image](https://user-images.githubusercontent.com/75255909/206352594-b953ed1b-1261-484d-b338-97683faf1ade.png)
+
+
 ![image](https://user-images.githubusercontent.com/75255909/206335689-6590c942-a2c4-488c-ae3e-6eacd31bcc94.png)
 
 ![image](https://user-images.githubusercontent.com/75255909/206336901-12c0f2ff-65a5-4004-a005-3d86c85acc60.png)
@@ -131,3 +157,10 @@ the project is not saved AND searching triggers wishes
 [Creating and highlighting code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
 
 [ESCAPE CHARACTERS IN MARKDOWN](https://whatismarkdown.com/how-to-escape-markdown-characters/#:~:text=Markdown%20is%20not%20a%20new%20language%3B%20it%20is,common%20way%20is%20to%20use%20the%20backslash%20character.)
+
+![image](https://user-images.githubusercontent.com/75255909/206353272-37aa92c3-338e-4a79-a891-609fb00b27af.png)
+![image](https://user-images.githubusercontent.com/75255909/206353655-5090e7aa-dd11-40dc-8d18-e551bb49ab30.png)
+
+![image](https://user-images.githubusercontent.com/75255909/206353824-d96b1c4b-c883-4f85-8b45-ffdd9997f035.png)
+![image](https://user-images.githubusercontent.com/75255909/206354518-d6ed8ca5-cf82-4c43-b8af-8867536f3c61.png)
+
