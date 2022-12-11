@@ -144,7 +144,12 @@ der Seite
 Ich habe den Rahmen nicht genau gesehen nur denke ich das ein Einfügen von WPF Forms
 
 in Blazor oder Razor auch möglich sein sollte.
-Die Projektumgebung in Visula Studio für eine WPF Application wird mit der Wahl
+Die Projektumgebung in Visual Studio für eine WPF Application
+
+![image](https://user-images.githubusercontent.com/75255909/206918880-3b661df3-8b2c-436c-9fb0-8c72a2dd8fd2.png)
+
+Forms 
+wird mit der Wahl, wenn möglich
 
 ![image](https://user-images.githubusercontent.com/75255909/206918442-39c83f62-091f-4abd-a7fb-08bc70d78989.png)
 gestartet.
