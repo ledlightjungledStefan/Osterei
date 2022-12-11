@@ -103,3 +103,54 @@ Eine Kopie ist auch eine Quest.
 [Posts](https://jekyllrb.com/docs/posts/#drafts)
 
 ![image](https://user-images.githubusercontent.com/75255909/206907144-ab328381-2aa2-40a5-9865-51132ea5cd15.png)
+
+Neben dem Geschäft der Programmierumgebungen habe ich mich nicht finanziert
+mit dem Ändern von Schlüsselwörtern.
+
+Falls ich fälschlicherweise der Annahme erkannt werden sollte, dass ich
+Geschäfte mit und für Programmierumgebungen hatte
+
+ist es nicht nur eine Tatsache, dass ich gitlab nie verwenden lernte um
+Schlüsselwörter effektiv ändern zu können.
+
+Für das dotNet Framework habe ich nicht das Schlüsselwort CreateGraphics
+in Power Drill unbenannt.
+
+Mit der Seite zu dem link
+[Control.VisibleChanged Ereignis](https://learn.microsoft.com/de-de/dotnet/api/system.windows.forms.control.visiblechanged?view=windowsdesktop-7.0)
+
+ist in dem Rahmen in dem VBdotNET verstanden werden kann eindeutig
+das ein Event nicht nur im Visual Studio gespeichert ist.
+
+Das Schlüsselwort OnPaint kann verwendet werden um zusätzliche
+Propertynamen als Member zu bilden.
+
+Nachdem nicht "ALLE" Schablonen: deutsch; templates,
+für alle Lebewesen die bei der Frage Binär ein Kreuz und dergleichen setzen
+
+können für, PERSONEN, AnwenderInen verwendet werden konnten
+ist es mit Blazor nicht viel anders.
+
+Auch wenn Blazor nicht Razor und dergleichen ist kann nicht jede Kontrolle
+PropertyNamen von Mmebern erkennen lassen können.
+
+Ob das Wildschwein bei Mononoke ein Eber ist oder keine Ente weiß ich nicht.
+Also lernte ich das WPF zum bilden von Kontrollen nicht schlecht ist.
+
+Nicht für alle Kontrollen den für VBdotNET Framework gibt es einen angegebenen Bereich
+der Seite
+
+![image](https://user-images.githubusercontent.com/75255909/206918163-f8577fb9-5257-4c45-8262-bfcb81d6801d.png)
+Ich habe den Rahmen nicht genau gesehen nur denke ich das ein Einfügen von WPF Forms
+
+in Blazor oder Razor auch möglich sein sollte.
+Die Projektumgebung in Visula Studio für eine WPF Application wird mit der Wahl
+
+![image](https://user-images.githubusercontent.com/75255909/206918442-39c83f62-091f-4abd-a7fb-08bc70d78989.png)
+gestartet.
+
+Richtig spannen dist es geworden als die SEO Umgebung folgenden link zur Verfügung stellte
+[WebView2 Samples](https://github.com/MicrosoftEdge/WebView2Samples)
+
+[Erste Schritte mit WebView2 in WPF-Apps](https://learn.microsoft.com/de-de/microsoft-edge/webview2/get-started/wpf)
+
