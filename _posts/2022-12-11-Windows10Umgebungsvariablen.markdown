@@ -32,6 +32,65 @@ mein Pfad zum Windows 10 Eingabeaufforderungsfenster.
 ![image](https://user-images.githubusercontent.com/75255909/207006972-ae91de06-7363-4252-81e4-ce11d1970990.png)
 
 ![image](https://user-images.githubusercontent.com/75255909/207008281-7f094b30-0226-4dfd-a341-57a3593bec27.png)
+![image](https://user-images.githubusercontent.com/75255909/207153469-d477a162-f08a-4be3-a305-47200b2d4e3c.png)
+
+        Public Class Form1
+            ReadOnly SparStrumpf As New Second_Class
+            Sub New()
+                InitializeComponent()
+                With Me
+                    .Controls.Add(SparStrumpf)
+                End With
+                DeathBuisnessValues(SparStrumpf)
+                With SparStrumpf
+                    .rect = New Rectangle(50, 50, 605, 75)
+                End With
+            End Sub
+            Sub DeathBuisnessValues(WinOrDie As Label)
+                With WinOrDie
+                    .Location = New Point(50, 50)
+                    .Size = New Size(700, 250)
+                    .BackColor = Color.FromArgb(207, 82, 154)
+                End With
+            End Sub
+        End Class
+
+<!------>
+
+        Imports System.ComponentModel
+        Public Class Second_Class
+            Inherits Label
+            Protected Overrides Sub OnPaint(ByVal e As PaintEventArgs)
+                If rect <> Nothing Then
+                    e.Graphics.DrawRectangle(New Pen(Color.Black, 3), rect)
+                End If
+            End Sub
+            '<Category("RectangleValues")>
+            Public rect As Rectangle
+            Public Property NewRectangle() As Rectangle
+                Get
+                    Return rect
+                End Get
+                Set(ByVal value As Rectangle)
+                    rect = value
+                End Set
+            End Property
+            'Public Sub DrawRectangleRectangle(ByVal e As PaintEventArgs)
+
+            '    ' Create pen.
+            '    Dim blackPen As New Pen(Color.Black, 3)
+
+            '    ' Create rectangle.
+            '    Dim rect As New Rectangle(0, 0, 200, 200)
+
+            '    ' Draw rectangle to screen.
+            '    e.Graphics.DrawRectangle(blackPen, rect)
+            'End Sub
+        End Class
+
+<!------>
+
+![image](https://user-images.githubusercontent.com/75255909/207160344-ac6934d1-693b-4837-85d1-37bd748ca72b.png)
 
         Public Class Form1
             ReadOnly KouldKäijbl As New Label
