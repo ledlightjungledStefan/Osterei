@@ -19,6 +19,20 @@ Da kan ma davor noch n beistrich setzen.
 Vor dem Abstand nach dem: quelle.
 Quellausgaben können auch Fehlerinhalte sein.
 
+Ich habe bevor ich meine index.html Datei in meinen _drafts Ordner
+verschoben habe nicht bekannt gegeben das ich keine index Seite
+
+mehr haben werde.
+Die nächtse Bitmapdatei ist ein Ausschnitt aus einem Worddokument und
+
+mein Pfad zum Windows 10 Eingabeaufforderungsfenster.
+![image](https://user-images.githubusercontent.com/75255909/207001558-4d196935-876b-41df-b1e5-0132f40425b0.png)
+
+![image](https://user-images.githubusercontent.com/75255909/207004662-54fc13d6-f7a5-4ebd-9719-4effb3077002.png)
+![image](https://user-images.githubusercontent.com/75255909/207006972-ae91de06-7363-4252-81e4-ce11d1970990.png)
+
+![image](https://user-images.githubusercontent.com/75255909/207008281-7f094b30-0226-4dfd-a341-57a3593bec27.png)
+
         Public Class Form1
             ReadOnly KouldKäijbl As New Label
             ReadOnly GiftToks As New ListBox
