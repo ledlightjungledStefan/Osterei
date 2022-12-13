@@ -19,6 +19,14 @@ Da kan ma davor noch n beistrich setzen.
 Vor dem Abstand nach dem: quelle.
 Quellausgaben können auch Fehlerinhalte sein.
 
+![image](https://user-images.githubusercontent.com/75255909/207372596-05472b71-825c-4be2-9330-70142069869d.png)
+
+![image](https://user-images.githubusercontent.com/75255909/207374507-56082c59-137b-46a7-bb5b-1589ce52f0bb.png)
+
+![image](https://user-images.githubusercontent.com/75255909/207375690-b07ef469-cb3d-4b6e-b26e-e75f5d7a22ed.png)
+
+![image](https://user-images.githubusercontent.com/75255909/207377174-6ad51922-284c-40f8-b086-7cd4cbe9639b.png)
+
 ![image](https://user-images.githubusercontent.com/75255909/207308361-0c538e7c-c0fa-4cad-8a89-6dc5e53806fc.png)
 
 Wie im Supermarkt. Man weiß nicht was man nehmen soll.
