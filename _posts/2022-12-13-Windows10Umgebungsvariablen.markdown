@@ -37,6 +37,8 @@ verwendet wurde. Lächerlich.
 
 [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
 
+![image](https://user-images.githubusercontent.com/75255909/207384297-78b21e7f-e645-460e-ba8e-a355662a4c67.png)
+
 [Creating and highlighting code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
 
 [ESCAPE CHARACTERS IN MARKDOWN](https://whatismarkdown.com/how-to-escape-markdown-characters/#:~:text=Markdown%20is%20not%20a%20new%20language%3B%20it%20is,common%20way%20is%20to%20use%20the%20backslash%20character.)
