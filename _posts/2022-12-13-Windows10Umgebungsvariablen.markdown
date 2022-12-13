@@ -35,6 +35,9 @@ Assumption: the comment keyword rem is used with more storage space
 ![image](https://user-images.githubusercontent.com/75255909/207279917-ade75bd7-f1fc-4ebe-93c3-df3c0ce36bc1.png)
 
 ![image](https://user-images.githubusercontent.com/75255909/207280280-404d7d3c-8cf6-442b-869f-49ad6135d534.png)
+![image](https://user-images.githubusercontent.com/75255909/207291620-1ca21922-3c81-4530-9ab6-41f69b70a246.png)
+
+![image](https://user-images.githubusercontent.com/75255909/207293815-9015ca11-e8e4-4be3-ab90-e013e3a53274.png)
 
 [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
 
