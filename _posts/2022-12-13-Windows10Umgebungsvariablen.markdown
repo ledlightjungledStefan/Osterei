@@ -19,25 +19,13 @@ Da kan ma davor noch n beistrich setzen.
 Vor dem Abstand nach dem: quelle.
 Quellausgaben können auch Fehlerinhalte sein.
 
-![image](https://user-images.githubusercontent.com/75255909/207273164-c1fcb7f7-98a3-45b2-916a-c62f8adb24d7.png)
-![image](https://user-images.githubusercontent.com/75255909/207273602-2d0be7ea-9f17-4e61-912a-661d7b6c6c50.png)
+![image](https://user-images.githubusercontent.com/75255909/207308361-0c538e7c-c0fa-4cad-8a89-6dc5e53806fc.png)
 
-Assumption: the comment keyword rem is used with more storage space
-[rem](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/rem)
+Wie im Supermarkt. Man weiß nicht was man nehmen soll.
+Windows 10 sind nicht alle Programmiersprachen und Visual Studio Code sind nicht alle Programmiersprachen.
 
-![image](https://user-images.githubusercontent.com/75255909/207275130-9820b300-e5d9-4ff5-bf3f-58a33848324b.png)
-![image](https://user-images.githubusercontent.com/75255909/207275376-2e205551-eee7-4475-a72c-a5c7c7b0e5c9.png)
-
-![image](https://user-images.githubusercontent.com/75255909/207275676-708a61d4-640c-4387-a044-de42ba89163d.png)
-![image](https://user-images.githubusercontent.com/75255909/207278300-b15c65cd-3986-4e36-87d4-fda7b79e6882.png)
-
-![image](https://user-images.githubusercontent.com/75255909/207279023-82ae1e5b-86d0-46c0-a1b0-2e120da6a8e2.png)
-![image](https://user-images.githubusercontent.com/75255909/207279917-ade75bd7-f1fc-4ebe-93c3-df3c0ce36bc1.png)
-
-![image](https://user-images.githubusercontent.com/75255909/207280280-404d7d3c-8cf6-442b-869f-49ad6135d534.png)
-![image](https://user-images.githubusercontent.com/75255909/207291620-1ca21922-3c81-4530-9ab6-41f69b70a246.png)
-
-![image](https://user-images.githubusercontent.com/75255909/207293815-9015ca11-e8e4-4be3-ab90-e013e3a53274.png)
+Wir leben in einer Welt wo Produktplazierungen einfach in allen Haushalten
+verwendet wurde. Lächerlich.
 
 [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
 
