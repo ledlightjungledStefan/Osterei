@@ -19,6 +19,8 @@ Da kan ma davor noch n beistrich setzen.
 Vor dem Abstand nach dem: quelle.
 Quellausgaben können auch Fehlerinhalte sein.
 
+The devices are not divs. Divs are Shapecointainer.
+
 ![image](https://user-images.githubusercontent.com/75255909/207372596-05472b71-825c-4be2-9330-70142069869d.png)
 
 ![image](https://user-images.githubusercontent.com/75255909/207374507-56082c59-137b-46a7-bb5b-1589ce52f0bb.png)
