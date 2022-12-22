@@ -48,6 +48,8 @@ verwendet wurde. Lächerlich.
 Wahrgenommen.
 Eine Kopie ist auch eine Quest.
 
+![name?name](https://user-images.githubusercontent.com/75255909/209114908-1cdbac9b-f035-4a81-98ca-a14e91f568f5.png)
+
 ![image](https://user-images.githubusercontent.com/75255909/206906378-80d2ae19-8b7c-4081-8741-13e0dac6603e.png)
 [Posts](https://jekyllrb.com/docs/posts/#drafts)
 
