@@ -37,6 +37,15 @@ Windows 10 sind nicht alle Programmiersprachen und Visual Studio Code sind nicht
 Wir leben in einer Welt wo Produktplazierungen einfach in allen Haushalten
 verwendet wurde. Lächerlich.
 
+Meine Gleichung um die Produkplatzierung NICHT für alle Haushalte verstehen lernen zu müssen, ist,
+für mich,
+
+"zeit spielt keine rolle" "aber" "alles auf das thema autostartordner zu reduzieren"
+"ja nein" "node" "weil" "blog internet" "nicht nur" "was" "datamember"
+
+[Text](https://developer.mozilla.org/en-US/docs/Web/API/Text)
+![image](https://user-images.githubusercontent.com/75255909/212863466-2ce8302c-a41e-4e0c-bce0-f1690bb1bd97.png)
+
 [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
 
 ![image](https://user-images.githubusercontent.com/75255909/207384297-78b21e7f-e645-460e-ba8e-a355662a4c67.png)
