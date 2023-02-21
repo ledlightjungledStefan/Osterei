@@ -61,9 +61,31 @@ für mich,
 Wahrgenommen.
 Eine Kopie ist auch eine Quest.
 
-![name?name](https://user-images.githubusercontent.com/75255909/209114908-1cdbac9b-f035-4a81-98ca-a14e91f568f5.png)
+Um die diversen tags differnzieen zu lernen ist es wahrscheinlich, dass
+ohne Kenntnisse Anwendegebiete wie p pre und textarea
 
-![image](https://user-images.githubusercontent.com/75255909/206906378-80d2ae19-8b7c-4081-8741-13e0dac6603e.png)
+vereinheitlicht werden mit innertext textcontent oder innerhtml.
+KEINE GUTE IDEE.
+
+ICH HABE KEINE GUTE LÖSUNG.
+PASSENDE.
+
+Mit idenifikations ecetera
+und Klassen ist es auch nicht einfach, denn die Anwendegiebte für style Ebenen ist auch nicht mit jedem tags
+
+möglich.
+Also habe ich noch einiges vor mir. Wenn ich mein Weltbild in zwei Ebenen teilen würde
+
+Kontrollebene und Schlüsselebene,
+dann hätte ich folgendes "Bild", Quellverzeichnis,
+
+für mich: Paint Kontrollebene ja Schlüsselebene nein.
+vbDOTnet Kontrollebene ja Schlüsselebene nein
+html Kontrollebne ja Schlüsselebene nein
+javascript Kontrollebene ja Schlüsselebene nein
+aspDOTnet Kontrollebene nein Schlüsselebene nein
+url Kontrollebene nein Schlüsselebene nein
+
 [Posts](https://jekyllrb.com/docs/posts/#drafts)
 
 ![image](https://user-images.githubusercontent.com/75255909/206907144-ab328381-2aa2-40a5-9865-51132ea5cd15.png)
