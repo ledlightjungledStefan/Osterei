@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="de-AT">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/mainOne.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/normalize.css">
+    <link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/cayman.css">
+        <title>Pappbecher Karteikarte</title>
+</head>
+
+<body>
+
+    <section class="page-header">
+        <h1 class="project-name">sleeveSlang</h1>
+    </section>
+
+    <style>
+        .container {
+            margin: 150px;
+        }
+    
+        .container p {
+            color: #ff000080;
+            font-size: 1.6rem;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+            line-height: 1.6;
+            padding: 1rem;
+            border: 1px solid #eee;
+            margin: 1rem 0;
+            transform: translateX(-100%);
+            transition: transform 0.5s linear;
+        }
+    
+        .container p.active {
+            opacity: 1;
+            transform: translateX(0);
+        }
+    
+        .container p:nth-child(2n) {
+            color: cornflowerblue;
+        }
+    
+        .cover {
+            position: fixed;
+            top: 250px;
+            right: 50px;
+            bottom: 250px;
+            left: 50px;
+            background-color: hsla(30deg, 40%, 80%, 0.5);
+        }
+    </style>
+    <input type="file" id="fileInput" class="btn">
+    <button id="readBtn" class="btn">Read</button>
+    <div class='container'>
+        <p id='resultOne'></p>
+        <p id='resultTwo'></p>
+        <p id='resultThree'></p>
+        <p id='resultFour'></p>
+        <p id='resultFive'></p>
+    </div>
+    <div class='cover'>&nbsp</div>
+    <script>
+        function readFileAsync(file) {
+            return new Promise((resolve, reject) => {
+                let reader = new FileReader();
+
+                reader.onload = () => {
+                    resolve(reader.result);
+                };
+
+                reader.onerror = reject;
+
+                reader.readAsArrayBuffer(file);
+            })
+        }
+
+        function arrayBufferToString(arrayBuffer, decoderType = 'utf-8') {
+            let decoder = new TextDecoder(decoderType);
+            return decoder.decode(arrayBuffer);
+        }
+
+        async function processFile(file) {
+            try {
+                let arrayBuffer = await readFileAsync(file);
+                let first20Bytes = arrayBufferToString(arrayBuffer);
+                const allLines = first20Bytes.split("\n");
+
+                const lineOne = allLines;
+
+                document.getElementById('resultOne').innerText = lineOne[0];
+
+                document.getElementById('resultTwo').innerText = lineOne[2];
+
+                document.getElementById('resultThree').innerText = lineOne[4];
+
+                document.getElementById('resultFour').innerText = lineOne[6];
+
+                document.getElementById('resultFive').innerText = lineOne[8];
+
+            } catch (err) {
+                console.log(err);
+            }
+        }
+
+        document.getElementById('readBtn').addEventListener('click', () => {
+            let file = document.getElementById('fileInput');
+            processFile(file.files[0]);
+        })
+
+        document.addEventListener("DOMContentLoaded", () => {
+            let options = {
+                root: null,
+                rootMargin: "-250px -50px",
+                threshold: 0.05
+            };
+            let observer = new IntersectionObserver(beTouching, options);
+            document.querySelectorAll(" .container p").forEach(p => {
+                observer.observe(p);
+            });
+        });
+        function beTouching(entries) {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add("active");
+                } else {
+                    entry.target.classList.remove("active");
+                }
+            })
+        }
+
+    </script>
+</body>
+
+</html>
