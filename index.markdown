@@ -1,6 +1,3 @@
----
-layout: SteamCardCristals
----
 1. halbgar
 
 2. gemüse
