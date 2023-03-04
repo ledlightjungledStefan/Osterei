@@ -5,6 +5,21 @@ type: Chocolate
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
+
+![image](https://user-images.githubusercontent.com/75255909/222875043-62600b1f-843c-4b44-9d06-bf9d7d85a5d6.png)
+![image](https://user-images.githubusercontent.com/75255909/222875081-6169755f-c767-4357-b286-38c4f405ca20.png)
+
+![image](https://user-images.githubusercontent.com/75255909/222875102-41081642-cb37-4358-a66c-3abae719bbad.png)
+![image](https://user-images.githubusercontent.com/75255909/222875264-b9c002d2-d19e-47d8-a2c9-c78cc5315268.png)
+
+realistic approach
+![image](https://user-images.githubusercontent.com/75255909/222875348-2aa6ed6a-cbb0-42a8-bfb8-c3ba487bb96a.png)
+
+?
+measurement
+
+position
+
 ![2D picture model](https://user-images.githubusercontent.com/75255909/205431353-16090c42-091d-40e7-871b-e578f7097c14.png)
 
 Hallo mein Name ist Stefan.
