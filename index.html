@@ -14,6 +14,10 @@ title: {{ site.name }}
 
 <body>
     <style>
+        * {
+            box-sizing: border-box;
+        }
+        
         .container {
             margin: 150px;
         }
@@ -40,16 +44,29 @@ title: {{ site.name }}
             color: cornflowerblue;
         }
 
+      
         .cover {
-            position: fixed;
-            box-sizing: border-box;
-            top: 250px;
-            right: 50px;
-            bottom: 250px;
+            position: absolute;
+
+            width: 1165px;
+            height: 380px;
+
             left: 50px;
+            top: 250px;
+
             background-color: hsla(30deg, 40%, 80%, 0.5);
             border: 5px solid greenyellow;
         }
+        
+        body {
+            background-color: lightgreen;
+        }
+
+@media only screen and (max-width: 1000px) {
+        body {
+            background-color: lightblue;
+            }
+        }        
     </style>
     <input type="file" id="fileInput">
     <button id="readBtn">Read</button>
@@ -80,6 +97,12 @@ title: {{ site.name }}
         </p>
     </div-->
     <div class='cover'>&nbsp</div>
+    <main>
+        <p>-_-</p>
+        <p>Random Content</p>
+        <!-- p*10>lorem>br*2 -->
+        <p>If screen width is less than 1000px background color changes to ligthblue</p>
+    </main>    
     <script>
         function readFileAsync(file) {
             return new Promise((resolve, reject) => {
