@@ -147,6 +147,16 @@ nur wo ist ein Ende oder zwei Enden zweier Flächen.
 
         </html>
 
+![image](https://user-images.githubusercontent.com/75255909/223728473-ad144864-95da-4082-b79e-3b626e35e9d3.png)
+
+![image](https://user-images.githubusercontent.com/75255909/223729390-0f61c4bf-c007-4aae-89b9-200d7649441a.png)
+
+![image](https://user-images.githubusercontent.com/75255909/223729930-0a3d12c9-8514-4b6e-b190-d86229e3ce99.png)
+
+![image](https://user-images.githubusercontent.com/75255909/223730890-28e54617-f24c-4eed-95be-c6b016788b66.png)
+
+
+
 ![2D picture model](https://user-images.githubusercontent.com/75255909/205431353-16090c42-091d-40e7-871b-e578f7097c14.png)
 
 [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
