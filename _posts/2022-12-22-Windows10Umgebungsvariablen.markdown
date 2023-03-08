@@ -5,65 +5,44 @@ type: Chocolate
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
+Hallo guten Morgen, allgemein.
+Ich weiß nicht ob Personen in Reichweite sind die ich gegrüßt haben könnte.
 
-![image](https://user-images.githubusercontent.com/75255909/222875043-62600b1f-843c-4b44-9d06-bf9d7d85a5d6.png)
-![image](https://user-images.githubusercontent.com/75255909/222875081-6169755f-c767-4357-b286-38c4f405ca20.png)
+Nun, ich führe meine Reise Internet verstehen zu lernen weiter. Für mich.
+Ich habe zwei Seiten, eine Online und eine Oflline.
 
-![image](https://user-images.githubusercontent.com/75255909/222875102-41081642-cb37-4358-a66c-3abae719bbad.png)
-![image](https://user-images.githubusercontent.com/75255909/222875264-b9c002d2-d19e-47d8-a2c9-c78cc5315268.png)
+Die Offline Seite ist auf meinem Compaq 9500 Bildschirm genau die gleiche wie meine Online Seite.
+Um responsive webdesigne verwenden zu können für meine Online Seite,
 
-realistic approach
-![image](https://user-images.githubusercontent.com/75255909/222875348-2aa6ed6a-cbb0-42a8-bfb8-c3ba487bb96a.png)
+https://ledlightjungledstefan.github.io/Osterei/
 
-?
-measurement
+muss ich für mich die Seite die von einem Konzortium zur Verfügung gestellt wird, W3,
+verwenden lernen um mir meine Beispiele überstezen zu lernen.
 
-position
+Die Seite
+
+[Responsive Web Design - Grid-View](https://www.w3schools.com/css/css_rwd_grid.asp)
+
+ist praktisch, nur, muss ich das zur Verfügung gestellte Grid nachbilden.
+Also mein Ziel für mich ist auf meiner Seite in der Mitte das Grid zu haben und mit dem
+
+Grid die responsive Oberfläche ein und abschalten zu lernen.
+Erst danach möchte ich visuel die css Möglichkeiten weiter bilden.
+
+Nun literarisch gibt es sehr viele Möglichkeiten und manche Ziele sind sehr
+schwer zu erreichen. Falls ich mir eine Box mit Reis kaufen würde und ich würde
+
+eine Plastikgabel mitnehmen würde ich versuchen mit den Zinken die Gabel zum schwingen
+bringen zu können. Denn statische und dynamische Elektrizität kann eine Schwingung sein.
+
+Es ist immer schwer einen Anfang zu finden den zwei Fläschen können eine Frequenz sein
+nur wo ist ein Ende oder zwei Enden zweier Flächen.
+
+![image](https://user-images.githubusercontent.com/75255909/223684222-cd9d85d2-9a84-48a6-8f76-9fe72f420bd4.png)
+
+
 
 ![2D picture model](https://user-images.githubusercontent.com/75255909/205431353-16090c42-091d-40e7-871b-e578f7097c14.png)
-
-Hallo mein Name ist Stefan.
-MessageBox.Show
-
-ist keine InputBox. Die Unschärfe: deutsch; blur,
-mit der Bezeichnung DATA
-
-ist eine Quelle wenn.
-Da kan ma davor noch n beistrich setzen.
-
-Vor dem Abstand nach dem: quelle.
-Quellausgaben können auch Fehlerinhalte sein.
-
-The devices are not divs. Divs are Shapecointainer.
-
-![image](https://user-images.githubusercontent.com/75255909/207372596-05472b71-825c-4be2-9330-70142069869d.png)
-
-![image](https://user-images.githubusercontent.com/75255909/207374507-56082c59-137b-46a7-bb5b-1589ce52f0bb.png)
-
-![image](https://user-images.githubusercontent.com/75255909/207375690-b07ef469-cb3d-4b6e-b26e-e75f5d7a22ed.png)
-
-![image](https://user-images.githubusercontent.com/75255909/207377174-6ad51922-284c-40f8-b086-7cd4cbe9639b.png)
-
-![image](https://user-images.githubusercontent.com/75255909/207308361-0c538e7c-c0fa-4cad-8a89-6dc5e53806fc.png)
-
-Wie im Supermarkt. Man weiß nicht was man nehmen soll.
-Windows 10 sind nicht alle Programmiersprachen und Visual Studio Code sind nicht alle Programmiersprachen.
-
-Wir leben in einer Welt wo Produktplazierungen einfach in allen Haushalten
-verwendet wurde. Lächerlich.
-
-Meine Gleichung um die Produkplatzierung NICHT für alle Haushalte verstehen lernen zu müssen, ist,
-für mich,
-
-"zeit spielt keine rolle" "aber" "alles auf das thema autostartordner zu reduzieren"
-"ja nein" "node" "weil" "blog internet" "nicht nur" "was" "datamember"
-
-[Text](https://developer.mozilla.org/en-US/docs/Web/API/Text)
-![image](https://user-images.githubusercontent.com/75255909/212863466-2ce8302c-a41e-4e0c-bce0-f1690bb1bd97.png)
-
-![image](https://user-images.githubusercontent.com/75255909/213139334-b3741359-2489-46f4-946f-923012d5ecf2.png)
-![image](https://user-images.githubusercontent.com/75255909/212866357-c26b5e1b-1415-448c-8905-29b0010a555b.png)
-
 
 [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
 
@@ -73,73 +52,7 @@ für mich,
 
 [ESCAPE CHARACTERS IN MARKDOWN](https://whatismarkdown.com/how-to-escape-markdown-characters/#:~:text=Markdown%20is%20not%20a%20new%20language%3B%20it%20is,common%20way%20is%20to%20use%20the%20backslash%20character.)
 
-Wahrgenommen.
-Eine Kopie ist auch eine Quest.
-
-Um die diversen tags differnzieen zu lernen ist es wahrscheinlich, dass
-ohne Kenntnisse Anwendegebiete wie p pre und textarea
-
-vereinheitlicht werden mit innertext textcontent oder innerhtml.
-KEINE GUTE IDEE.
-
-ICH HABE KEINE GUTE LÖSUNG.
-PASSENDE.
-
-Mit idenifikations ecetera
-und Klassen ist es auch nicht einfach, denn die Anwendegiebte für style Ebenen ist auch nicht mit jedem tags
-
-möglich.
-Also habe ich noch einiges vor mir. Wenn ich mein Weltbild in zwei Ebenen teilen würde
-
-Kontrollebene und Schlüsselebene,
-dann hätte ich folgendes "Bild", Quellverzeichnis,
-
-für mich: Paint Kontrollebene ja Schlüsselebene nein.
-vbDOTnet Kontrollebene ja Schlüsselebene nein
-html Kontrollebne ja Schlüsselebene nein
-javascript Kontrollebene ja Schlüsselebene nein
-aspDOTnet Kontrollebene nein Schlüsselebene nein
-url Kontrollebene nein Schlüsselebene nein
-
-[Posts](https://jekyllrb.com/docs/posts/#drafts)
-
-![image](https://user-images.githubusercontent.com/75255909/206907144-ab328381-2aa2-40a5-9865-51132ea5cd15.png)
-
-Neben dem Geschäft der Programmierumgebungen habe ich mich nicht finanziert
-mit dem Ändern von Schlüsselwörtern.
-
-Falls ich fälschlicherweise der Annahme erkannt werden sollte, dass ich
-Geschäfte mit und für Programmierumgebungen hatte
-
-ist es nicht nur eine Tatsache, dass ich gitlab nie verwenden lernte um
-Schlüsselwörter effektiv ändern zu können.
-
-Für das dotNet Framework habe ich nicht das Schlüsselwort CreateGraphics
-in Power Drill unbenannt.
-
-Mit der Seite zu dem link
 [Control.VisibleChanged Ereignis](https://learn.microsoft.com/de-de/dotnet/api/system.windows.forms.control.visiblechanged?view=windowsdesktop-7.0)
-
-ist in dem Rahmen in dem VBdotNET verstanden werden kann eindeutig
-das ein Event nicht nur im Visual Studio gespeichert ist.
-
-Das Schlüsselwort OnPaint kann verwendet werden um zusätzliche
-Propertynamen als Member zu bilden.
-
-Nachdem nicht "ALLE" Schablonen: deutsch; templates,
-für alle Lebewesen die bei der Frage Binär ein Kreuz und dergleichen setzen
-
-können für, PERSONEN, AnwenderInen verwendet werden konnten
-ist es mit Blazor nicht viel anders.
-
-Auch wenn Blazor nicht Razor und dergleichen ist kann nicht jede Kontrolle
-PropertyNamen von Mmebern erkennen lassen können.
-
-Ob das Wildschwein bei Mononoke ein Eber ist oder keine Ente weiß ich nicht.
-Also lernte ich das WPF zum bilden von Kontrollen nicht schlecht ist.
-
-Nicht für alle Kontrollen den für VBdotNET Framework gibt es einen angegebenen Bereich
-der Seite
 
 ![image](https://user-images.githubusercontent.com/75255909/206918163-f8577fb9-5257-4c45-8262-bfcb81d6801d.png)
 Ich habe den Rahmen nicht genau gesehen nur denke ich das ein Einfügen von WPF Forms
