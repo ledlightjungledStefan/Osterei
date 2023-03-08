@@ -40,7 +40,112 @@ nur wo ist ein Ende oder zwei Enden zweier Flächen.
 
 ![image](https://user-images.githubusercontent.com/75255909/223684222-cd9d85d2-9a84-48a6-8f76-9fe72f420bd4.png)
 
+![image](https://user-images.githubusercontent.com/75255909/223712756-1bfedb77-fc65-4cc7-bcac-ca07dfed9386.png)
 
+![image](https://user-images.githubusercontent.com/75255909/223713467-eae7cc69-2d97-403d-85bd-932d8a10bbc5.png)
+
+        <!DOCTYPE html>
+        <html lang="en">
+
+        <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <style rel="stylesheet" href="Cmera.css"></style>
+            <!-- <link rel="stylesheet" href="hat.css"> -->
+            <title>Document</title>
+            <style>
+                * {
+                    box-sizing: border-box;
+                }
+
+                .row::after {
+                    content: "";
+                    clear: both;
+                    display: table;
+                }
+
+                [class*="col-"] {
+                    float: left;
+                    padding: 15px;
+                    border: 1px solid red;
+                }
+
+                .col-1 {
+                    width: 8.33%;
+                }
+
+                .col-2 {
+                    width: 16.66%;
+                }
+
+                .col-3 {
+                    width: 25%;
+                }
+
+                .col-4 {
+                    width: 33.33%;
+                }
+
+                .col-5 {
+                    width: 41.66%;
+                }
+
+                .col-6 {
+                    width: 50%;
+                }
+
+                .col-7 {
+                    width: 58.33%;
+                }
+
+                .col-8 {
+                    width: 66.66%;
+                }
+
+                .col-9 {
+                    width: 75%;
+                }
+
+                .col-10 {
+                    width: 83.33%;
+                }
+
+                .col-11 {
+                    width: 91.66%;
+                }
+
+                .col-12 {
+                    width: 100%;
+                }
+            </style>
+        </head>
+
+        <body>
+
+            <div class="row">
+
+                <div class="col-3">
+                    <ul>
+                        <li>The Flight</li>
+                        <li>The City</li>
+                        <li>The Island</li>
+                        <li>The Food</li>
+                    </ul>
+                </div>
+
+                <div class="col-9">
+                    <h1>The City</h1>
+                    <p>Chania is the capital of the Chania region on the island of Crete. The city can be divided in two parts,
+                        the
+                        old town and the modern city.</p>
+                    <p>Resize the browser window to see how the content respond to the resizing.</p>
+                </div>
+
+        </body>
+        <script src="Zora.js"></script>
+
+        </html>
 
 ![2D picture model](https://user-images.githubusercontent.com/75255909/205431353-16090c42-091d-40e7-871b-e578f7097c14.png)
 
