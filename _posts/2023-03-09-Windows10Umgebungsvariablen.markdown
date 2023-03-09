@@ -6,142 +6,44 @@ image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
 
-Hallo mein Name ist Štefan.
-Es ist nicht wichtig, dass ich alle mit meinem blog erreiche, den wo dieser blog
+![image](https://user-images.githubusercontent.com/75255909/224092180-3d67833e-0313-4427-9a3c-b8419622c4ce.png)
+Mein nächstes Ziel ist die Chania Region.
 
-abrufbar ist und wo nicht ist eine Grenze die ich nicht kenne.
-Also mit dem link [Responsive Web Design - Grid-View](https://www.w3schools.com/css/css_rwd_grid.asp)
+Auf der Seite
+[Responsive Web Design - Grid-View](https://www.w3schools.com/css/css_rwd_grid.asp)
 
-habe ich das Beispiel ein wenig modifiziert.
+scheint mir eine transparenter Bereich eingeschaltet zu sein. Ich kenne die Speicherstellen nicht.
+Es kann sein das die Prozessoren falls es mehrere sein sollten, ich erwähnte die mehrzahl
 
-        <!DOCTYPE html>
-        <html lang="en">
+eines Rechnwerks, weil ich weder die Architektur kenne noch finden würde.
+Einige Speichserstellen haben die nicht neu berechnet werden müssen.
 
-        <head>
-            <meta charset="UTF-8">
-            <meta http-equiv="X-UA-Compatible" content="IE=edge">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <style rel="stylesheet" href="Cmera.css"></style>
-            <!-- <link rel="stylesheet" href="hat.css"> -->
-            <title>Document</title>
-            <style>
-                * {
-                    box-sizing: border-box;
-                }
+In meinem Kontingentdenken ist meist der freie Bereich einer Anzahl erwehnbar, für mich.
+Wenn kein neuer Bildschirm angemeldet wird dann können die Speicherstellen vom Prozess
 
-                .row::after {
-                    content: "";
-                    clear: both;
-                    display: table;
-                }
+gekoppelt werden.
+Ich vermute das automatische Reaktionen und Oberflächlich Anwendung finden. Wenn ein Timer
 
-                [class*="col-"] {
-                    float: left;
-                    padding: 15px;
-                    /*border: 1px solid red;*/
-                    /*background-color: #ffc90e;*/
-                }
+mit einem Vergleicherschaltkreis eine neue Impulsfrequenz hat, dann kann es sein das
+zustätzliche Spannungsquellen erst nach einem Kontakt angeschlossen werden.
 
-                .col-1 {
-                    /*width: 8.33%;*/
-                    position: fixed;
-                    width: 67px;
-                    height: 250px;
-                    left: 75px;
-                    background-color: #f1f1f1;
-                    border-right: 1px solid #808080;
-                }
+Als falsaveback wählte ich die violete farbe den ich kann mit paint die Pipette
+verwenden und auf der W3 Seite den color picker um nicht erklären zu müssen warum
 
-                .col-2 {
-                    /*width: 16.66%;*/
-                    position: fixed;
-                    width: 67px;
-                    height: 250px;
-                    left: 142px;
-                    background-color: #f1f1f1;
-                    border-right: 1px solid #808080;
-                }
+ich die Farbe nicht umrechnen gelernt habe.
+Dann widme ich mich dem Bereich der automatisch nach unten verschoben wurde. Der Hellblaue
 
-                .col-3 {
-                    position: fixed;
-                    width: 25%;
-                    top: 150px;
-                }
+Bereich mit den Fragen. Der erste Test mit einem live reload event währe, den Text im Aschhellgrauembereich
+entweder umzuleiten, anders zu gestallten oder zu löschen, denn ich kann nicht genau definieren
 
-                .col-4 {
-                    width: 33.33%;
-                }
+ob der Fragebereich nach oben rutschen würde.
+Soweit ich mich informieren konnte ist ein liev reload event in etwa ein git init ordner
 
-                .col-5 {
-                    width: 41.66%;
-                }
+der mit meiner repository verknüpft ist. Seltsamerweise ist mindestens ein Unterordner nur dann
+sichtbar wenn in den windows optionen etwas gewählt wird was eine Änderung der Verzeichnisse
 
-                .col-6 {
-                    width: 50%;
-                }
-
-                .col-7 {
-                    width: 58.33%;
-                }
-
-                .col-8 {
-                    width: 66.66%;
-                }
-
-                .col-9 {
-                    /*width: 75%;*/
-                    width: 67px;
-                    height: 250px;
-                    background-color: #f1f1f1;
-                    border-left: 1px solid #808080;
-                    border-right: 1px solid #808080;
-                }
-
-                .col-10 {
-                    width: 83.33%;
-                }
-
-                .col-11 {
-                    width: 91.66%;
-                }
-
-                .col-12 {
-                    width: 100%;
-                }
-            </style>
-        </head>
-
-        <body>
-
-            <div class="row">
-
-                <div class="col-3">
-                </div>
-
-                <div class="col-9">
-                </div>
-
-                <div class="col-1">
-                </div>
-
-                <div class="col-2">
-                </div>
-
-                <!-- <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-
-                    <g fill="white" stroke="green" stroke-width="5">
-                        <circle cx="40" cy="40" r="25" />
-                        <circle cx="60" cy="60" r="25" />
-                    </g>
-                </svg> -->
-                <!-- Using g to inherit presentation attributes -->
-
-        </body>
-        <script src="Zora.js"></script>
-
-        </html>
-
-![image](https://user-images.githubusercontent.com/75255909/224051706-0d71f5da-b604-41ae-bb0e-a51b32aab440.png)
+sichtbar macht und transparaent gefärbt. Mein Erklärungsversuch ist in etwa meinen eigenen Schätzungen
+zu folge 0,001%.
 
 [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
 
