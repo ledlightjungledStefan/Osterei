@@ -6,11 +6,76 @@ image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
 
-Liebe Pappkameradinen liebe Pappkameraden.
-Ich verstehe das responsive webdesign ein Verhältnis zwischen größer und kleiner ist.
+Hallo mein Name ist Štefan.
+Es ist nicht wichtig, dass ich alle mit meinem blog erreiche, den wo dieser blog
 
-Eine Option nicht zu schummeln, den die skalierungsebenen müssen nicht eingeschaltet
-gewesn sein.
+abrufbar ist und wo nicht ist eine Grenze die ich nicht kenne.
+Also mit dem link [Responsive Web Design - Grid-View](https://www.w3schools.com/css/css_rwd_grid.asp)
+
+kann ich nicht erkläeren wie viele Darstellungsmethoden es gibt. Bildschirm Phasenprüfer ecetera.
+Ich wähle die Möglichkeit meine literarischen Gaben anzuwenden.
+
+Die erwähnte Seite die auf meinem Compaq 9500 Bildschrim dargestellt wurde zeigte zwei Bereiche
+einen zu 25% und einen zweiten zu 75.
+
+Wenn box sizing die Automatik ist muss ich nicht die Automatik wählen.
+Nachdem mit elektrischen Schaltteilen keine Fehler eingetragen sind
+
+ist es mir nicht logisch das wenn ich 8,33% hätte und die Umrechnung auf ein neues
+Format im neuen Format 8,33% betragen würde warum sollte ich dann keine Skalierungsebene
+
+begründen. Natürlich als alter Steven King leser ist mir bewußt, dass es sein kann das
+andere Klassen im Internet schwierige Gleichungen speicherten die nicht einfach mitzumachen gewesen sind.
+
+Das letzte youtube video das ich sah zum Thema Lichtintensität im Bereich cascade style sheet
+ist der heiße Brei um das Thema warum bei einem dunklen Bildschirm das erste Bild nicht der Lichtintesität entsprechend das
+
+Gegenteil ist.
+Mit dem youtube video wie catoden röhren bildschirme gebaut werden ist mir klar geworden
+
+das mit der OEM egal ist welcher PC am VGA ausgang hängt,
+den die unter luftdruck eingeschlossenen Elektronen könnten auch mit anderen
+
+Geräten manipuliert werden. Gestern habe ich auf ATV2 den Bond Film geshen die Welt ist nicht genug.
+Bond hatte Bildschirme die nicht Mobil gewesen sind. Nur mit der neuen Technologie
+
+die auch handys haben. Touchscreens. Es ist kein Problem für mich keinen zu haben, den ich könnte mir einen
+bilden. Folie Laser ecetera.
+
+Für die älteren Playstation Modele gab es eine Infrarotkugel.
+Der eigentliche Fragebereich mit älteren Bildschirmen ist was ist eine Speicherstelle, im Sinn warum kann man
+
+abschalten.
+Oder die Kugel nicht abschalten und einen virtuellen Raum haben.
+
+Genau so wie die macher von PS, von mir keine Betsättigungsmöglichkeit, zum lernen bieten
+wollten taten das andere auch.
+
+Nur mir scheint ein Gegner ist gierig geworden.
+Ich weiß für mich genau die Macher von PS können mich nicht erreichen und ich sie nicht.
+
+Den von meiner Seite währe der Zugang mit dem Wipeout Genre das Windows Powershellebenen
+Verzeichniss über den bezahlten blob Bereich von github. UnUnmöglich.
+
+Es ist für mich umgänglich also es ist in Reichweite, dass das Thema sozial schon immer das
+Diskettenfach gewesn ist.
+
+Nehmen sie zum Beispiel Python. Ich las das es nicht gerne in Erwägung gezogen wird
+Kondensatoren zu multiplizieren. Also alle Schaltteile mit einem Kondensator und Deckel drauf. DOS.
+
+Diskette Schlüssel.
+Alte Kathodenröhren brannten durch, wenn die durchbrennbaren stellen ersetzt werden durch kontrollorierte Kristalle
+
+sind die Kathoden noch immer passend genau so eine leidschner flasche für die elektrostatik.
+Die eignetliche Frage der Unterdrückung ist ob anweisungen die zu einem Verlust nach Wartung führten gerechtfertigt gewesn sind oder nicht.
+
+Nur der Schluss ist leider auch nicht einfach egal wie viele geometrische Formen sie haben
+wenn sie nicht anwendbar sind für Materikunde nutzlos.
+
+Ich habe schon einmal versucht mit einer Plastkgabel die Zinken zum Schwingen bringen zu können
+umd die Schwingung von Elektrizität nutzen zu können.
+
+To be continued...
 
 [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
 
