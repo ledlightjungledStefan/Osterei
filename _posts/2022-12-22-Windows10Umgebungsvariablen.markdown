@@ -5,6 +5,9 @@ type: Chocolate
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
+
+![image](https://user-images.githubusercontent.com/75255909/223940639-9f60b0e3-10a6-49ec-a0e6-01d4880fc89b.png)
+
 Wörter sind Schal und Rauch, auch mit einer Fahrkarte die gebogen werden kann
 und einem Pappbecher der von einer Kreisform zu einer Ellipse gedreht werden kann
 
