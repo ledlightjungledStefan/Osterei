@@ -5,10 +5,28 @@ type: Chocolate
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
-Hallo guten Morgen, allgemein.
-Ich weiß nicht ob Personen in Reichweite sind die ich gegrüßt haben könnte.
+Mig mag n mug.
+Es gibt nicht nur mich der zwischen den Zeilen liest, schreibt, das
 
-Nun, ich führe meine Reise Internet verstehen zu lernen weiter. Für mich.
+youtube video zum Thema Holzverarveitung habe ich mir alleine angesehen.
+Genauso wie ich jetzt alleine tippte, schätze ich war die Produktion
+
+einer Holztasse aus einem verästeltem Wurzelwerk. Die Drehbank habe ich nicht
+nur hatte ich die Möglichkeit mir zu überlegen wie ich mit den Matriallien die ich in
+
+Reichweite hatte auch so ein Produkt herstellen könnte.
+Nun ein wenig zu meiner Person ich bin nicht glücklich wenn ich merke das andere
+
+im Internet unterdrückt werden. Natürlich muss ich nicht mitmachen dann bin ich wieder glücklich.
+Nur ich kann die Unterdrückung nicht beenden. Manche Seiten bieten nicht einmal Wahlmöglichkeiten.
+
+Soll kein Vorwurf werden den die Betriebssystemoberflächen und Autostartbrowser bieten genug
+Möglichkeiten Wahlen zu wählen. Nur nicht persönliche eindeutige. Und ich kann das nachvollziehen.
+
+Die Verkrampfungen und die Hoffnungen Kreativität auf dem Feld bielden zu können das für manche
+geeignet scheint ist nicht einfach nur ein Keks. Leider.
+
+![image](https://user-images.githubusercontent.com/75255909/223933028-3c3adbd2-7014-45e3-9e34-6f408756c8f0.png)
 Ich habe zwei Seiten, eine Online und eine Oflline.
 
 Die Offline Seite ist auf meinem Compaq 9500 Bildschirm genau die gleiche wie meine Online Seite.
