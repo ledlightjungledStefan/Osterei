@@ -5,6 +5,14 @@ type: Chocolate
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
+Wörter sind Schal und Rauch, auch mit einer Fahrkarte die gebogen werden kann
+und einem Pappbecher der von einer Kreisform zu einer Ellipse gedreht werden kann
+
+Meine mathematisch einfachste Form ist das ein Bogen der eine Ecke berühren kann
+keine Frequenzschnittfläche alias Linie brühren könnte.
+
+![image](https://user-images.githubusercontent.com/75255909/223935714-2bff95b4-1b96-4e98-9d85-beee06073e67.png)
+
 Mig mag n mug.
 Es gibt nicht nur mich der zwischen den Zeilen liest, schreibt, das
 
