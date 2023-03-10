@@ -6,44 +6,20 @@ image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
 
-![image](https://user-images.githubusercontent.com/75255909/224092180-3d67833e-0313-4427-9a3c-b8419622c4ce.png)
-Mein nächstes Ziel ist die Chania Region.
+Ich bilde meine Änderungen um Erinnerungen ergänzen zu können.
+Die Reaktionszeit für Erinnerungen ist individuel.
 
-Auf der Seite
-[Responsive Web Design - Grid-View](https://www.w3schools.com/css/css_rwd_grid.asp)
+Memorykarten können auch als Grenzen verwendet werden.
+Wenn zwei Paare aufgedeckt sind würde ein Paar dann zugedeckt werden wenn ein drittes gefunden wird.
 
-scheint mir eine transparenter Bereich eingeschaltet zu sein. Ich kenne die Speicherstellen nicht.
-Es kann sein das die Prozessoren falls es mehrere sein sollten, ich erwähnte die mehrzahl
+Cascade Style Sheets können auch einfach nur für Erinnerungsübungen gebildet werden.
+Wenn ein Memorydeck, zugedeckt, auf einer Fläche liegt,
 
-eines Rechnwerks, weil ich weder die Architektur kenne noch finden würde.
-Einige Speichserstellen haben die nicht neu berechnet werden müssen.
+kann auf einer Seite eine Karte eine Reihe schieben und auf einer zweiten Seite
+fällt eine Karte raus.
 
-In meinem Kontingentdenken ist meist der freie Bereich einer Anzahl erwehnbar, für mich.
-Wenn kein neuer Bildschirm angemeldet wird dann können die Speicherstellen vom Prozess
-
-gekoppelt werden.
-Ich vermute das automatische Reaktionen und Oberflächlich Anwendung finden. Wenn ein Timer
-
-mit einem Vergleicherschaltkreis eine neue Impulsfrequenz hat, dann kann es sein das
-zustätzliche Spannungsquellen erst nach einem Kontakt angeschlossen werden.
-
-Als falsaveback wählte ich die violete farbe den ich kann mit paint die Pipette
-verwenden und auf der W3 Seite den color picker um nicht erklären zu müssen warum
-
-ich die Farbe nicht umrechnen gelernt habe.
-Dann widme ich mich dem Bereich der automatisch nach unten verschoben wurde. Der Hellblaue
-
-Bereich mit den Fragen. Der erste Test mit einem live reload event währe, den Text im Aschhellgrauembereich
-entweder umzuleiten, anders zu gestallten oder zu löschen, denn ich kann nicht genau definieren
-
-ob der Fragebereich nach oben rutschen würde.
-Soweit ich mich informieren konnte ist ein liev reload event in etwa ein git init ordner
-
-der mit meiner repository verknüpft ist. Seltsamerweise ist mindestens ein Unterordner nur dann
-sichtbar wenn in den windows optionen etwas gewählt wird was eine Änderung der Verzeichnisse
-
-sichtbar macht und transparaent gefärbt. Mein Erklärungsversuch ist in etwa meinen eigenen Schätzungen
-zu folge 0,001%.
+Die Karte die fällt kann auch unsichtbar sein.
+Ein Platz für eine Erinnerung.
 
 [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
 
