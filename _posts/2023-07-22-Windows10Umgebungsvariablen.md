@@ -7,7 +7,67 @@ image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
 
-[quelle: heute Zeitung](https://github.com/ledlightjungledStefan/Osterei/blob/gutenberggnu/assets/DFdesperatefrench.jpg)
+Ich kann nicht erinnern für mich warum die Dateierweiterung des blogs markdownsc
+gewesen ist.
+
+Offenbar ist und sind meine Nerven mit Vergessen stark beschäftigt gewesen.
+Nach dem öffnen der Datei zum bearbeiten musste ich noch einmal auf der
+
+jekyll Seite nachsehen wie die Datumseingabenreihenfolge des Dateinamens zu beachten
+ist. Nun ich schätze es war keine genauere Angabe als YYYY-08-20
+
+weil welches Jahr hat zwanzig Monate
+und Menschen die nicht persönlcih Funktionen des internets beschrieben
+
+eher die Tendenz entwickelten nicht über eine relative Reihenfolge zu schreiben
+sondern von der klassischen Logik der Mehrheiterfahrungswerte
+
+ausgingen. Haben Sie Bananen?
+Nach dem öffnen der Datei zum bearbeiten waren die front-matter yaml Zeilen eher
+
+hellgrau. Genauso wie der blogtext.
+Erst nach dem ersetzen der Dateierweiterung markdownsc mit md
+
+änderte sich die Farbe der front-matter Zeilen auf schwarz. Was ist eine Einbildung?
+Es kann sein das das Layout jetzt wieder zugeschaltet ist.
+
+Was lernet ich seit dem letzten mal. Puh.
+responsive design kann auch mit einer Datenbank von bekannten Bildschirmformaten
+
+geschalten werden und nicht automatisch für alle Dimensionen.
+Die liquid Sprachzeilen wurden möglicherweise weiterentwickelt.
+
+Vor allem dachte ich mir das, weil die SDK template Anwendung ASTRO
+[Getting Started
+What is Astro?](https://docs.astro.build/en/getting-started/)
+
+im Titel "Progressive Hydration"
+für die Seite [Progressive Hydration](https://www.patterns.dev/posts/progressive-hydration)
+
+kaum noch Deich oder Staudamm Strukturen im Text aufwies.
+Die 50 Prozent die ich schneller wurde sind RauhbaienInen beim Entweden von Teigtascherln
+
+schon kulturell.
+Es kann schon sein das nach jamie oliviers rezept Pilzrizotto das Rizotto besser mit frischen
+
+Pilzen ist, nur ich kenn den Unterschied nicht. shortbread, hm?
+Danke, japanische Brötchen sind auch keine DimSums.
+
+Die letzte bing chat Ausgabe, bei mir war
+![image](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/5e90e644-7688-4684-9051-112a73599fa6)
+
+Eine visual basic.net form gespeichert war der letzte Eintrag mit visual studio
+![image](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/5458c09f-c3e4-4a8c-95e4-b8ffd83dcfab)
+
+von der Wahlmöglichkeit
+![image](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/3ae73096-3b00-4f61-b1bd-e438c0a409b9)
+
+ich muss noch weiter üben speechles-liquidphalanx-
+[Bitmap Klasse](https://learn.microsoft.com/de-de/dotnet/api/system.drawing.bitmap?view=windowsdesktop-7.0)
+
+[See an ‘einstein’ tile morph into different shapes | Science News](https://www.youtube.com/watch?v=ugnvucpcfPA)
+
+[The Banach–Tarski Paradox](https://www.youtube.com/watch?v=s86-Z-CbaHA)
 
 ![‎nedelja, ‎12. ‎marec ‎2023, ‏‎12:38:45](https://user-images.githubusercontent.com/75255909/224542288-aabca2d6-2ff3-42e0-9766-c1761eefd5cd.JPG)
 Roter Chicore und Popcorn.
