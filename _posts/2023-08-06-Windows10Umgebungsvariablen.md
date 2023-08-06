@@ -7,6 +7,28 @@ image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
 
+Nichts ist perfekt. Das statistische bayes timing für das es mindestens ein youtube video
+gegeben haben wird, als Hinweis das Zeit auch mit Gewohnheiten die sich
+
+ändern lassen können nicht nur eine physikalische Komponente ist.
+
+Wenn im persönlichen Rahmen gesprochen werden kann müssen die intuitiv schon
+gespeicherten Lebensmitteldaten, nicht, zu den Chakrenaufteilungen benannt werden.
+
+Im Prinzip bin ich noch immer meilenweit entfernt von konkreten Angaben.
+Wenn JSON die Einträge in Datenbanken erleichtern soll
+
+kann auch YAML eine Telefonzentrale sein. Oder mehrere.
+Persönlich wirtschaften bedeutet auch mindestens eine freie Speicherstelle
+
+bereithalten zu können, für sich, für die eigenen Entscheidungmöglichkeiten.
+"Ich trage vier pinstellen in einer datenbank ein und beantrage eine
+
+fünfte um diese in einer Telefonzentrale eintragen zu lassen."
+Mio mein Mio, radio mein radio.
+
+Irgendwann werden die ganz knappen Wege wieder länger. Nicht zum ersten mal.
+
 Ich kann nicht erinnern für mich warum die Dateierweiterung des blogs markdownsc
 gewesen ist.
 
