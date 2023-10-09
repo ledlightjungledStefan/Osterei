@@ -7,57 +7,11 @@ image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
 
-Nichts ist perfekt. Das statistische bayes timing für das es mindestens ein youtube video
-gegeben haben wird, als Hinweis das Zeit auch mit Gewohnheiten die sich
+Nichts ist perfekt. Responsive deute ich nicht mit alles sondern gezielt wählen können
+und nachdem auch schon mit dem smartphone aktualisiert werden kann
 
-ändern lassen können nicht nur eine physikalische Komponente ist.
-
-Wenn im persönlichen Rahmen gesprochen werden kann müssen die intuitiv schon
-gespeicherten Lebensmitteldaten, nicht, zu den Chakrenaufteilungen benannt werden.
-
-Im Prinzip bin ich noch immer meilenweit entfernt von konkreten Angaben.
-Wenn JSON die Einträge in Datenbanken erleichtern soll
-
-kann auch YAML eine Telefonzentrale sein. Oder mehrere.
-Persönlich wirtschaften bedeutet auch mindestens eine freie Speicherstelle
-
-bereithalten zu können, für sich, für die eigenen Entscheidungmöglichkeiten.
-"Ich trage vier pinstellen in einer datenbank ein und beantrage eine
-
-fünfte um diese in einer Telefonzentrale eintragen zu lassen."
-Mio mein Mio, radio mein radio.
-
-Irgendwann werden die ganz knappen Wege wieder länger. Nicht zum ersten mal.
-
-Ich kann nicht erinnern für mich warum die Dateierweiterung des blogs markdownsc
-gewesen ist.
-
-Offenbar ist und sind meine Nerven mit Vergessen stark beschäftigt gewesen.
-Nach dem öffnen der Datei zum bearbeiten musste ich noch einmal auf der
-
-jekyll Seite nachsehen wie die Datumseingabenreihenfolge des Dateinamens zu beachten
-ist. Nun ich schätze es war keine genauere Angabe als YYYY-08-20
-
-weil welches Jahr hat zwanzig Monate
-und Menschen die nicht persönlcih Funktionen des internets beschrieben
-
-eher die Tendenz entwickelten nicht über eine relative Reihenfolge zu schreiben
-sondern von der klassischen Logik der Mehrheiterfahrungswerte
-
-ausgingen. Haben Sie Bananen?
-Nach dem öffnen der Datei zum bearbeiten waren die front-matter yaml Zeilen eher
-
-hellgrau. Genauso wie der blogtext.
-Erst nach dem ersetzen der Dateierweiterung markdownsc mit md
-
-änderte sich die Farbe der front-matter Zeilen auf schwarz. Was ist eine Einbildung?
-Es kann sein das das Layout jetzt wieder zugeschaltet ist.
-
-Was lernet ich seit dem letzten mal. Puh.
-responsive design kann auch mit einer Datenbank von bekannten Bildschirmformaten
-
-geschalten werden und nicht automatisch für alle Dimensionen.
-Die liquid Sprachzeilen wurden möglicherweise weiterentwickelt.
+könnte ich auch üben um nicht alle Geräte erreichenzu müssen.
+![money_makes_me_funny](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/66b1fd9f-b517-428a-b7e4-1dd664528ae3)
 
 Vor allem dachte ich mir das, weil die SDK template Anwendung ASTRO
 [Getting Started
@@ -66,14 +20,16 @@ What is Astro?](https://docs.astro.build/en/getting-started/)
 im Titel "Progressive Hydration"
 für die Seite [Progressive Hydration](https://www.patterns.dev/posts/progressive-hydration)
 
-kaum noch Deich oder Staudamm Strukturen im Text aufwies.
-Die 50 Prozent die ich schneller wurde sind RauhbaienInen beim Entweden von Teigtascherln
+![Satz](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/bff8c856-9330-45f8-95fd-cc9f6b46da2d)
+![Rahmen](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/0fbdc1fa-af76-4bad-a433-21ef317e4bc3)
 
-schon kulturell.
+![atleast](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/e8e97a45-564a-4321-b1eb-d6b35087921e)
+![image](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/d078d002-b6c6-4c47-b0ee-842e0072c688)
+
 Es kann schon sein das nach jamie oliviers rezept Pilzrizotto das Rizotto besser mit frischen
-
 Pilzen ist, nur ich kenn den Unterschied nicht. shortbread, hm?
-Danke, japanische Brötchen sind auch keine DimSums.
+
+Danke, japanische Brötchen sind auch keine DimSums. tobe kontinued JOJO climate aktivists (visits) ?
 
 Die letzte bing chat Ausgabe, bei mir war
 ![image](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/5e90e644-7688-4684-9051-112a73599fa6)
