@@ -80,7 +80,7 @@ mindestens ein Video machen und oder gestallten. Ach ja da fiel mir noch ein
 das auch Spitzenleistungen übertroffen wurden. Ein australischer Segler
 brach den Weltrejodr mit 68 Knoten. Hut ab.
 
-[GitHub Learning Lab](https://github.com/apps/github-learning-lab)
+- there was no other choice: last train home in C -
 
 [Creating and highlighting code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
 
