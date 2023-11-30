@@ -16,10 +16,3 @@ gems:
 
 # Others
 markdown: kramdown
-
-remote_theme:
-- coogie/oscailte
-- benbalter/retlab
-
-plugins:
-- jekyll-remote-theme
