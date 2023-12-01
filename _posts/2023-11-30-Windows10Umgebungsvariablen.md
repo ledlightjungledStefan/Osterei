@@ -20,38 +20,15 @@ What is Astro?](https://docs.astro.build/en/getting-started/)
 im Titel "Progressive Hydration"
 für die Seite [Progressive Hydration](https://www.patterns.dev/posts/progressive-hydration)
 
-![Satz](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/bff8c856-9330-45f8-95fd-cc9f6b46da2d)
-![Rahmen](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/0fbdc1fa-af76-4bad-a433-21ef317e4bc3)
 
-![atleast](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/e8e97a45-564a-4321-b1eb-d6b35087921e)
-![image](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/d078d002-b6c6-4c47-b0ee-842e0072c688)
-
-Es kann schon sein das nach jamie oliviers rezept Pilzrizotto das Rizotto besser mit frischen
-Pilzen ist, nur ich kenn den Unterschied nicht. shortbread, hm?
-
-Danke, japanische Brötchen sind auch keine DimSums. tobe kontinued JOJO climate aktivists (visits) ?
-
-Die letzte bing chat Ausgabe, bei mir war
-![image](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/5e90e644-7688-4684-9051-112a73599fa6)
-
-Eine visual basic.net form gespeichert war der letzte Eintrag mit visual studio
-![image](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/5458c09f-c3e4-4a8c-95e4-b8ffd83dcfab)
-
-von der Wahlmöglichkeit
-![image](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/3ae73096-3b00-4f61-b1bd-e438c0a409b9)
-
-ich muss noch weiter üben speechles-liquidphalanx-
-[Bitmap Klasse](https://learn.microsoft.com/de-de/dotnet/api/system.drawing.bitmap?view=windowsdesktop-7.0)
-
-[See an ‘einstein’ tile morph into different shapes | Science News](https://www.youtube.com/watch?v=ugnvucpcfPA)
-
-[The Banach–Tarski Paradox](https://www.youtube.com/watch?v=s86-Z-CbaHA)
-
-![‎nedelja, ‎12. ‎marec ‎2023, ‏‎12:38:45](https://user-images.githubusercontent.com/75255909/224542288-aabca2d6-2ff3-42e0-9766-c1761eefd5cd.JPG)
-Roter Chicore und Popcorn.
-
-Nicht dort da. Hier, ja da.
-Ich führe meine Reise weiter. Barrierefrei 504 und auch 508.
+Natürlich habe ich vergessen was ich mit 404 504 und 508 hätte angeben sollen. Ich denke mir
+eine sich selber erfüllende Erinnerung ist totalem Vergessen eher eingereiht worden als nun ja
+Erinnerungen nicht in Reichweite.
+Nachdem ich nicht die einzige Person auf diesem Planeten geblieben bin die für eine neue Reihenfolge
+keine Informationen erhalten haben wirdausser das der Ziegentreiber Spock sagen könnte "is eh logisch"
+"was is is eh logisch und so weiter",
+bleibe ich meiner Meinung treu solange ich gesund bleiben kann quäle ich mich nicht mit dem Thema das
+da "ein nächster Schritt" edas Lottozahlengeld mir reicht. Warum nicht?
 
 Mehr oder weniger mit einem 555 Timer, ist nicht mehr oder weniger mit einem Vergleichsoperator
 und anderen Geräten. Oft fehlte der kreative Impuls und nicht der technische.
