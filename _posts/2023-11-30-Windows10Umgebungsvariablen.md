@@ -6,6 +6,18 @@ type: Chocolate
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
+[
+Hinzufügen von Dateien zum Ordner "Overrides"
+](https://learn.microsoft.com/de-de/microsoft-edge/devtools-guide-chromium/javascript/overrides#adding-files-to-your-overrides-folder)
+
+someone who i know has to read the following theater entry: "wüst du mi papirtüterln" (W Ü S T D U M I P A P I E R T Ü T E R L N)
+ipanema: papir
+
+i have choosen a character that the person has to contribute or i try to live with the solution
+- the caracter -
+
+![image](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/9f89a07d-c150-4614-a9d6-4d8c8127cfe7)
+- who am i -
 
 Nichts ist perfekt. Responsive deute ich nicht mit alles sondern gezielt wählen können
 und nachdem auch schon mit dem smartphone aktualisiert werden kann
