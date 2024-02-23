@@ -44,6 +44,41 @@ do it yourself (various options)
 Nun, ich empfehle mir die Eingabeaufforderungs console zu verwenden und im GUI graphic user interface Ordnerverzeichnisstruktur
 nachzusehen wo ich meinen GIT Ordner finden kann.
 
+![console git](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/7dea911b-35f8-4459-a24c-de0506e6f778)
+Irgendwo ist allen bewusst, dass die einfachste Wortwahl beim schreiben bekannter Wörter sind Wörter die einen Buchstabenabstand haben der ein Wort oder auch im Vergleich zu mehreren erkennbar, ist.
+Also alles was ich nicht verstehen muss sondern nur wie in einer Volksschule einem Klang zugeordnet hätte. Somit könnte ich Bedienungsanleitungen
+verwenden die für mich einen Sinn machen würden.
+
+![DEScribing](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/d7b8e2d5-afed-4592-b2b1-30ac7ef505a3)
+Nun wenn ich es geschafft hätte gemeinsam, da ich derzeit alleine arbeite, erklären zu können warum ich in der Eingabeaufforderung GIT INIT tippte wäre noch immer die Frage zu lösen ob das genug ist für das Risiko einfach was zu tippen.
+Naja schön und gut doch oft haben ja Projekte die man entwerfen lernt einen Eigennamen. Ich wählte den für mich zu tippenden
+
+2levelLangu_age
+.Im Video link wird weiter unten sein auf der Seite, genügte es
+
+GIT INIT PROJEKTFANTASIENAME
+
+angegeben zu haben. Mit diesen Informationen fing ich an zu wählen wie ich eine Reihenfolge setzen soll. Ich startete für mich mit – currently master, -
+und bediente mich meines Übersetzungsstrudels um mit dem des Satzanfanges – If not specified, -
+mich zu fragen wasn? Naja der Zweig respektive branch Name. Aha huh. Ole nur zweimal und initial auch noch, hm? Übl übl.
+Oft wird im Internet darauf hingewiesen, dass nicht Maschinensprache verwendet werden muss oder eigentlich soll sondern auch „softwaresprache“ bedient werden kann.
+Na gut dann ist wohl initial ()der zu erstellende Ordner eines Zweiges – branch – und =<branch-name>
+![enter a context](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/dd3a2371-1034-444e-8744-2776bc1b617f)
+
+und nicht
+![branchname master](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/a440d07b-6f4f-4ceb-aa1a-36a91fe244c8)
+also nur GIT INIT + eingabeaufforderungstaste drücken und loslassen.
+
+Soweit so gut.
+![erstellungszeit](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/45211657-cad0-46ef-9b58-e1cd45d0388a)
+
+dir /b ist einen OrdnerInhalt darstellen lassen. Im Ordner Documents, hier, sprich nicht gestern sind das derzeit im Moment iMyFone und Wondershare gewesen.
+und nach dem aufrufen der Hilfe UMGEBUNG
+![clippy F7](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/6f2ec32c-1218-4afe-a9ac-8f1f389b2e9c)
+
+mit dir /t c tippen und Fair vertippen bis der Doppelpunkt im Layout ergänzt. Wurde.
+![console attributes](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/7d3e8fc3-1e54-42a5-98a7-36c2ac10395c)
+
 ![money_makes_me_funny](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/66b1fd9f-b517-428a-b7e4-1dd664528ae3)
 
 Vor allem dachte ich mir das, weil die SDK template Anwendung ASTRO
