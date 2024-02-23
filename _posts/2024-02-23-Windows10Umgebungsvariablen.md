@@ -79,6 +79,9 @@ und nach dem aufrufen der Hilfe UMGEBUNG
 mit dir /t c tippen und Fair vertippen bis der Doppelpunkt im Layout ergänzt. Wurde.
 ![console attributes](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/7d3e8fc3-1e54-42a5-98a7-36c2ac10395c)
 
+![odrrr](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/3941e04c-220a-4a0a-8ec9-566c346120ff)
+
+
 ![money_makes_me_funny](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/66b1fd9f-b517-428a-b7e4-1dd664528ae3)
 
 Vor allem dachte ich mir das, weil die SDK template Anwendung ASTRO
