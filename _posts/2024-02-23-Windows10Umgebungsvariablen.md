@@ -80,8 +80,33 @@ mit dir /t c tippen und Fair vertippen bis der Doppelpunkt im Layout ergänzt. W
 ![console attributes](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/7d3e8fc3-1e54-42a5-98a7-36c2ac10395c)
 
 ![odrrr](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/3941e04c-220a-4a0a-8ec9-566c346120ff)
+Wasn? Nichts viel zu anstrengend. Auch mit ruby und einem Buchstaben ??
+Jaja type script löschen ersetzen. Nagut ist nicht genau dem Schaltschema entsprechend ein Buchstabe.
+Die Millionenshow Frage währe seit es in den Winer Linien Kiel Sessel gibt sind die Vorkommen von Kaugummis stärker
+asl in Drähten die irgendwie Käfer imitiert hätten.
+![console attrib help](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/df384cbe-2522-4cb6-8406-f2b9be58f4f8)
 
+N was ist ieine Umgebungsvariable? N bugstabe. Hektisch.
+Landkarten die sich nach Norden ausrichten lassen können haben ein N für Nodren eingezeichnet, äh.
+Nächste Millionenshow Frage wieviel Menschen kann ein ausgebildeter AIKIDOKA am Tag traversieren Zebresen und so.
+![pizzateig](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/ff412d3b-5307-4b09-afdc-162ece9255eb)
 
+Falls sie eine Landkarte mit N sehen in der Nähe einer solchen können sie eine Feder mit einer Holztafel in Form einer Ente finden. Regional ist es
+eine gaussche ente. D iekann man verwenden wenn einer Erbse aus einem Blasrohr raurollt und man noch einmal
+die Möglichkeit beachtet einen weiteren Winkel als Ziel zu wählen. Falls sie mit der Ente Ziele erreichen möchten der Schnabel ist inklusieve.
+
+Sie können ihren Schnabel verlieren wenn sie möchten und nicht den Gesichtsverlust angeben. Meine Erfahrung ist das das ist auch
+Ohne Gausente möglich.
+Mehrzahl und Einzahl sind genau definiert. Was für einen organischen Körper ein Wunder ist. Mein Beispiel: der Spaghetti ist nicht der Austauschstudent offizielle
+das ist ein gelber mit Spaghetti Haaren ohne Rotstift. Inoffiziell schon und den Fall kenne ich nicht das er von Bullis in einen Johnnytaxifahrer gerendert wurde damit abu nach
+Haus eine leitung haben kann hinterm Curry zum gabschinken.
+Deutschland legalisierung ok gelb und abu sind. nicht gelb und hut und hut ist im spiel abes.
+Also eine self fullfying profecy hab ich es ist ohne gausente.
+
+14 ohne 7. Weniger ist nicht gleich, ohne. Weniger ist nicht gleich, ohne?
+![fellow ring](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/8a96dd83-05db-4e1d-911a-51588a461958)
+
+![tievaz](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/d5007528-fc55-47e8-943b-16c2c292b459)
 ![money_makes_me_funny](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/66b1fd9f-b517-428a-b7e4-1dd664528ae3)
 
 Vor allem dachte ich mir das, weil die SDK template Anwendung ASTRO
