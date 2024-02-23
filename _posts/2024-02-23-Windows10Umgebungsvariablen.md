@@ -6,23 +6,23 @@ type: Chocolate
 image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
 description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
-[
-Hinzufügen von Dateien zum Ordner "Overrides"
-](https://learn.microsoft.com/de-de/microsoft-edge/devtools-guide-chromium/javascript/overrides#adding-files-to-your-overrides-folder)
+Ich mach mir ein Be Steck.
+Ich bediene mich im englischen Sprachraum der Aussage – resolves to –
+Die Aussage werde ich statt den Datenbank Doppelpunkten verwenden, die bei Vermutungen und Schlussfolgerungen verwendet werden.
 
-someone who i know has to read the following theater entry: "wüst du mi papirtüterln" (W Ü S T D U M I P A P I E R T Ü T E R L N)
-ipanema: papir
+Somit währe im weitersten Sinne auch diversen Layouts das oben erwähnte Format unter zuordnen.
+Seltsam ein Paragraph schien mir nicht ein Artikel zu werden. Nach der Verwendung von der Umschaltetaste statt der Feststelltaste
+wenn die Umschaltetaste gedrückt gehalten wird bevor die Eingabeaufforderungstaste gedrückt wird oder auch nachdem
+die Eingabeaufforderungstaste gedrückt worden ist könnte man nicht nur die Umschaltetaste loslassen sondern sich dann danach
+Fragen, warum der Zeilenabstand zwischen zwei Zeilen mit dem erwähnten Fall enger ist als ohne.
+Nun, nicht nur das das auf facebook ein tragisch komischer Postanweisungsgebrauch sein sollte um nicht ganz nicht beabsichtigt
+zu posten ist die Farge auch an die Frage geknüpft zumindest nach meinen getippten versuchen den kürzesten Weg für mich
+finden zu können, seit wann werden Geschwindigkeitsschwellen verwendet und hat die AI eine Ahnung davon?
+Webseiten speichern zu können, im weitesten Sinne – resolves to -
+javascript alert KARTEN zum Beispiel für die mögliche Nutzung mit facebook und ich fand auch facebook webhooks.
 
-i have choosen a character that the person has to contribute or i try to live with the solution
-- the caracter -
+Alles nur Planungsphase.
 
-![image](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/9f89a07d-c150-4614-a9d6-4d8c8127cfe7)
-- who am i -
-
-Nichts ist perfekt. Responsive deute ich nicht mit alles sondern gezielt wählen können
-und nachdem auch schon mit dem smartphone aktualisiert werden kann
-
-könnte ich auch üben um nicht alle Geräte erreichenzu müssen.
 ![money_makes_me_funny](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/66b1fd9f-b517-428a-b7e4-1dd664528ae3)
 
 Vor allem dachte ich mir das, weil die SDK template Anwendung ASTRO
