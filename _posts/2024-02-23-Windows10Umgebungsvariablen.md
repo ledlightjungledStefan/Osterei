@@ -23,6 +23,27 @@ javascript alert KARTEN zum Beispiel für die mögliche Nutzung mit facebook und
 
 Alles nur Planungsphase.
 
+Ein wenig relative Geschichte. ![glyphe question mark](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/b3dca859-6203-4d29-b857-3653c12e53d4)
+
+Für eine Manipulation gibt es scheinbar drei Ebenen. Zwei Ebenen sind ständig unter Spannung. Die der Kunst, Schriftsprache und die, der
+weil dies ein Text ist Maschinenkunst. Falls eine Idee mehr Geld bringen sollte, währe eine Black&Decker Schreibmaschine mit Schreibkopf
+der auch ein Thermaldetonator oder was auch immer sein könnte.
+
+
+Kunst, Schriftsprache ist nicht mit den Zeichenausgaben der Maschinensprachen gespeichert. Die Ebene, die nicht unter permanenter Spannungstand, ist die Maschinenebene, den man, kann auch einzelne auch integrierte Schaltungen manipulieren dauert halt sehr lange. Nicht das ich das schon gemacht hätte.
+Deswegen ist nicht nur die Architektur der Maschinenebne einfach verwirrend, sondern auch der Kunst, Schriftsprache. Sonderbar (:n(h(h
+
+
+Also sind Brücken die Spracheigenschaften berücksichtigt haben, Brücken können nicht Besitzen also mit dem Zusatzwort – zugehörig -, vereinfacht worden den es waren zu lange Bücher, die wälzen waren,
+Dennoch mit passenden Beispielen kann der Zeitstress umschifft werden.
+![create git init](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/2d88baf4-c079-421b-82f4-7125d24e32fd)
+
+Create but how, search.<br>
+do it yourself (various options)
+![git init description](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/f03d6d48-ae1a-48ed-b369-cea3c0958832)
+Nun, ich empfehle mir die Eingabeaufforderungs console zu verwenden und im GUI graphic user interface Ordnerverzeichnisstruktur
+nachzusehen wo ich meinen GIT Ordner finden kann.
+
 ![money_makes_me_funny](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/66b1fd9f-b517-428a-b7e4-1dd664528ae3)
 
 Vor allem dachte ich mir das, weil die SDK template Anwendung ASTRO
