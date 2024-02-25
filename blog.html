@@ -1,72 +1,14 @@
 ---
-layout: page
+layout: default
+title: StefansBlog
 ---
-<!Doctype>
-<html>
-	<body>
-		<h3><br></h3>
-<p>https://github.com/pages-themes/cayman<br>
-https://pages-themes.github.io/cayman/</p>
-<p>I have unziped the cayman template folder to C:\Ruby27-x64\lib\ruby<br></p>
-<p>Unzip it and use it as a regular jekyll folder.<br>
+<h1>Latest Posts</h1>
 
-$ unzip jekyll-cayman-theme-master.zip<br>
-
-Get inside the newly extracted folder<br>
-
-$ cd jekyll-cayman-theme-master<br>
-
-Get the required gems<br>
-
-$ bundle install<br>
-
-$ jekyll serve<br></p>
-<div class="container">
-	<h2 class="spacing">Blog</h2>
-
-	<div class="blog-posts">
-		{% for post in site.posts %}
-			<div class="blog-post spacing">
-				<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-				<p class="summary">
-					{{ post.category }}
-					<span class="date">
-						{{ post.date | date: '%B %d, %Y' }}
-					</span>
-				</p>
-				{{ post.excerpt }}
-				<!--img src="/Osterei/assets/AK.png"/-->
-				<!--img src="/Osterei/assets/images/broadcast.bmp"/-->				_
-			</div>
-		{% endfor %}
-	</div>
-</div>
-
-<h1>Our cupcakes</h1>
-
-<!--div class="cupcakes">
-	{% for cupcake in site.posts %}
-		<div class="cupcake">
-			<div class="image"><img src="{{ cupcake.image_path }}" alt="{{ cupcake.type }}" /></div>
-			<h2>{{ cupcake.type }}</h2>
-			<p class="rating">
-				{% case cupcake.rating %}
-					{% when 1 %}
-						<img src="/Osterei/assets/images/rating/sick.png"/>
-					{% when 2 %}
-						<img src="/Osterei/assets/images/rating/unhappy.png"/>
-					{% when 3 %}
-						<img src="/Osterei/assets/images/rating/ok.png"/>
-					{% when 4 %}
-						<img src="/Osterei/assets/images/rating/happy.png"/>
-					{% when 5 %}
-						<img src="/Osterei/assets/images/rating/super_happy.png"/>
-				{% endcase %}
-			</p>
-			<p>{{ cupcake.description }}</p>
-		</div>
-	{% endfor %}
-</div-->
-<!--img src="/Osterei/assets/images/heimseite.bmp"/-->
-		</body>
-</html>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
