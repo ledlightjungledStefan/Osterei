@@ -2,9 +2,6 @@
 layout: bloglayout
 author: štefan
 excerpt_separator: <!--more-->
-type: Chocolate
-image_path: /Osterei/assets/images/cupcakes/chocolate_banana.png
-description: cupcake with chocolate colors for /d %a in (%EINBAHN%) do dir /b %a
 ---
 Ich mach mir ein Be Steck.
 Ich bediene mich im englischen Sprachraum der Aussage – resolves to –
