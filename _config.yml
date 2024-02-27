@@ -16,3 +16,7 @@ gems:
 
 # Others
 markdown: kramdown
+
+collections:
+  authors:
+    output: true
