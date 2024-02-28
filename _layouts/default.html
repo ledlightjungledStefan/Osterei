@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html lang="{{ site.locale }}">
-{% include head.html %}
   <head>
-    <meta charset="utf-8">
-      <title>{{ page.title }}</title>
+<meta charset="UTF-8">
+<title>{{ site.title }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#157878">
+<link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/normalize.css">
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/cayman.css">
         {% for post in site.posts %}
           <li>
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -18,4 +22,5 @@
       {{ content }}
       {% include page-footer.html %}
     </section>
+  </body>
 </html>
