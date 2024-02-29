@@ -12,7 +12,7 @@ author:
 
 # Gems
 gems:
-  - jekyll-paginate
+  - benimal-mistakes-jekyll
 
 # Others
 markdown: kramdown
