@@ -3,44 +3,20 @@ layout: default
 author: štefan
 excerpt_separator: <!--more-->
 ---
-Aktuell sein für sich und aktuallisieren müssen oder anbieten sind mindestens drei verschiedene Eigenschaften.
-Den für mich passenden Zeitpunkt finden um auf Sicherheitsnetzwerke zu fluchen ist typisch für diesen Planeten.
+![notepad pasted with fullscreen mspain bitmap](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/794f79f4-171d-4214-b8ee-26df44af7e6d)
+It seems everything is on stacke.
 
-Ohne die Sichrheitsnetzwerke währen weniger Aggressionen weil weniger gelogen worden währe.
-Alles ein Wirtschaftsfaktor damit sich die Seiten der Perversionen streiten können um das hab und gut von ZivillistInnen.
+Die Reihenfolge wird nicht vorgegeben.
+![serach empty and folders with content](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/d059b8d8-56bf-4ff6-a0ed-f66822b58194)
 
-Als Zivillits habe ich das Recht noch keine Logbuch geführt gelernt zu haben. So eine Präera Internet. Bevor es noch assumptions
-gegeben haben wird.
+Also sollte die Vermutung (assumption), welche Bildpunkte sind nur Speicherstellen ohne Prozessorlaufzeit sein.
+![color comparison for green comment colour](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/f274d446-7bb7-4d65-925f-d8dfde4050ea)
 
-Der nächstes Punkt ist nach dem git init zu lernen zu (mergen) zwei Repositories zusammenzuführen. In meinem Fall ist das
-meine Osterie online Repository und meine .git offline Repository die ich nicht nur umbenennen mag auf "2levelLangu_age"
+Das caret, der Texteingabekörper und der Mauscontextzeiger sind nicht im Bereich einer geraden und nicht geraden Argumentation.
+![grafik](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/7c652fc0-c748-44db-99a5-97333544d9e5)
 
-sondern auch mit der Osterei Repository zusammenführen mag.
-Nun gut.
-
-![gitimmersionDOTcom_firstHeader](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/21189f75-a7ba-4356-b075-d8f7608448ee)
-Nachdem "press a key. . ." politisch nicht korrekt ist, sind wohl characternamen wie zum Beispiel ?"prescoot" dem spielenamen
-
-nach ?"gears of wars 3" für offene Netzwerke geführt worden.
-Vorsicht "Kürbis". ![grafik](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/9d7287e5-eac3-42eb-bd9c-965af790d9e6)
-
-Webster sprach zu sich auch in dritter Person. Ich tat dies auch wenn ich nicht mit anderen Menschen spreche, alleine.
-start ? "warum nicht" "einen versuch ist es wert"
-![Log_in_on_command-line_github](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/d1189abc-cf5c-4700-a644-251ea9deb080)
-
-ich verwende git bash und ja ich habe das was hier gesehen werden konnte auch machen müssen, und es kann sein das man über
-Moderationen stolpert. Warum nicht?
-
-Falls ModeratorInen gesucht werden sollten ohne mich ich suche nicht. Wo sollte ich anfangen?
-Übrigens das Passwort und den Benutzernamen muss man nur einmal angeben. Ich finde für das Thema sehr passend schnell durchlaufende
-
-slawische klassische Musikkappellen Musik der verwegenen Art. Das währe so ähnlich als würde ich eine Waschmittelwerbung auswendig kennen
-gelernt haben äh und warum sollte die Musikkapelle dann einfach mitten im Takt aufhören zu musizieren?
-
-![zipped_dontletthewallsgettinginonyou](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/c035b0ab-25af-4f55-9e84-f435abdda065)
-
-move with command line to desktop unzip through context menu compare with text developed on ? visible on a site
-to get a feeling for merging with the finish line the next step should be comparing category with attributes listed on a surface
+Einfach zum nachdenken.
+![prescottlayout](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/57fa25f1-0a0c-4aa5-b041-f2dda74a7d33)
 
 [Progressive Hydration](https://www.patterns.dev/posts/progressive-hydration)
 
