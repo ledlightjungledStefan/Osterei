@@ -3,6 +3,9 @@ layout: default
 author: štefan
 excerpt_separator: <!--more-->
 ---
+
+![exclude execution](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/1412775c-3c3f-4fc1-83b4-2b801158936e)
+
 ![notepad pasted with fullscreen mspain bitmap](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/794f79f4-171d-4214-b8ee-26df44af7e6d)
 It seems everything is on stacke.
 
