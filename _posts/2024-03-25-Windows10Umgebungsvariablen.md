@@ -3,6 +3,7 @@ layout: default
 author: štefan
 excerpt_separator: <!--more-->
 ---
+![panic release](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/ecc23afd-b44d-4dd0-978a-a6a5fcaca1e2)
 
 ![exclude execution](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/1412775c-3c3f-4fc1-83b4-2b801158936e)
 
