@@ -3,6 +3,8 @@ layout: default
 author: štefan
 excerpt_separator: <!--more-->
 ---
+![with ICs personal truths seem like obvious](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/5e43b2ad-e101-4858-9d28-3bb2e3b1f268)
+
 ![unexpected ohlala](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/a841f785-ae5f-4552-82a7-42dce0d74a2a)
 
 ![a vertical and horizontal rectangle circle fits one curve approximation](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/3a112ee9-2e2e-4eed-a51b-6ca293cd0250)
