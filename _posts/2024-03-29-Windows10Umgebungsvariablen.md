@@ -3,6 +3,9 @@ layout: default
 author: štefan
 excerpt_separator: <!--more-->
 ---
+!$.§§
+![SELF TALKEING JIBBERISH I AGAINST ME AS BLAK HOLE VINECNT WORD BITMP](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/1a997ebf-1d60-4f2a-bf04-9ee3580fac7e)
+
 13:22
 
 ![this time looped](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/a82445d1-d4f5-4123-ad47-d8eb648ed127)
