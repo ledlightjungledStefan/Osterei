@@ -3,6 +3,14 @@ layout: default
 author: štefan
 excerpt_separator: <!--more-->
 ---
+13:22
+
+![this time looped](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/a82445d1-d4f5-4123-ad47-d8eb648ed127)
+![grafik](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/c9077959-d20c-480f-bdf7-eb0515935252)
+
+![grafik](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/459b6de2-805c-4a9a-b4d2-c50d156e5104)
+![grafik](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/1d051525-d3fc-4f44-8639-3b2c05a41895)
+
 9:30
 
 Let's try to make a red hat snapper jumping abroad the brown beaver below the golden sea gull.
