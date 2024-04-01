@@ -3,24 +3,11 @@ layout: default
 author: štefan
 excerpt_separator: <!--more-->
 ---
-Was ist gewesen.
-Menschen fingen an OS Betriebssysteme literarisch Deppensicher zu bilden.
-Ostern ist vorbei die Eierschalen sind zerdeppschert und die lächelnden zerdeppscherten Schalen sind ein Teil des Aprilscherzes.
-Irgendwelche Pflanzenarten sind wichtig und im Hauptabendprogramm wurde IceAge gezeigt. Irgendwie kann ich die Erinnerung
-das im Winter FrostBite nicht FrostKnabbern gewesen sein soll.
-refresh - aktualisiern attribut - Eigenschaft category - Zuordnung mit dem Spieletitel pirates of the black cove, verlasse
-ich den Werbemarkt falls Geld nicht freiwillig bezahlt wurde ist ein "attack" noch immer angenehmer.
+![windows batch file file content output](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/0731592d-dcd8-4198-9acc-5f3f7ffde90c)
+![windows command line distraction](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/d76ade3c-879e-4d94-ab89-479a37b34e57)
+![paint needs git immersion](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/76ede7b5-d776-4796-b40c-8790ce20f82d)
 
-Mittlerweile, jetzt, bin ich mit ionos angemeldet. Nachdem automatischen erstellen einer zweiten Repository mit ionos waren die
-Jekylldateien geordnet. Nicht nur das der github Passkey eine Schrecksekunde verursachte, weil wenn ich nicht recover keys
-hätte und verify per SMS hätte ich keinen Zugang mehr zu github. Sollte ich noch studieren können.
-Sondern auch das Thema aktualisieren ist sehr elektrisierend. Das Lied von pain radiodealers mit dem Teilbereich im Text
-"to create a level of excitement" war nicht irgendetwas.
-Ich kopierte einfach fast ale Dteien in meine erste Repository "Osterei" bis auf die workflow ionos Dateien um einen Überblick
-zu haben und stellte fest an der Ausgabe meiner pages änderte sich nichts.
 
-![screenshot from windows batchfile content](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/a26fcfde-c84e-4853-b231-611ba4fea901)
-![windows command line workflow screenshot](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/648f463e-f723-4924-8503-b267af9b427d)
 
 
 [Progressive Hydration](https://www.patterns.dev/posts/progressive-hydration)
