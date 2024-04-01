@@ -38,6 +38,10 @@ UND DAS HAT NICHTS MIT LOGISCHEM EINS BIS ZEHN ZU TUN
 
 
 EHER MIT VOM BIS HE HALLO ICH HAB NOCH EIN ZOOMBIE SPIEL GEFUNDEN. ZOOL.
+
+
+![next](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/b0e4668b-a5a4-4ef4-bdaf-f0ea4582e533)
+
 [Progressive Hydration](https://www.patterns.dev/posts/progressive-hydration)
 
 [Starting a Visual Basic Windows Forms Application](https://www.youtube.com/watch?v=EnrOntmxKiM)
