@@ -51,3 +51,4 @@ NICE TO MEET YOU MY NAME IS FRAUD HOAX - that's a fake -
 [WebView2 Samples](https://github.com/MicrosoftEdge/WebView2Samples)
 
 [Erste Schritte mit WebView2 in WPF-Apps](https://learn.microsoft.com/de-de/microsoft-edge/webview2/get-started/wpf)
+![grafik](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/a0dfa334-717b-465a-96be-7694c91b628e)
