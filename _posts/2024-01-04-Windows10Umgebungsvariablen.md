@@ -3,33 +3,41 @@ layout: default
 author: štefan
 excerpt_separator: <!--more-->
 ---
-![bash path screenshot](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/9f4ed097-bac6-4d81-8b1e-37f12a400a6d)
+![bitmap](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/18fbd33c-1800-4ff3-8871-257cc1160ab8)
 
 
-PREVIEW der Befehl ls währe mit Windows dir und nachdem noch immer die Speicherstellen nicht verstanden werden können
-ist die Bildung eines Lesezeichens im Vergleich zum persönlichen Umfeld etwas das wichtig ist aber ncht in gesprochene Worte gefasst werden kann.
+Meine Methode ist nicht elegant, ich wählte nicht den Ordnernamen aus einer eingetragenen Liste einer Textdatei aber es
+funktioniert. Was zum Geier (siehe Bäckerei im Raum Wien) mach ich da. Nun, wen nicht bekannt ist was heißes oder klates Wasser
+ist und oder ein Handtuch, ich werde den Eindruck nicht mehr los das beim PC Spiel Hitman GO doch tatsächlich ein Handtuch im Koffer
+gewesen sein soll. Was nie der Fall gewesen ist. Mit dem Erwachsenwerden erkennt man das andere auch Schwellen legten um sich zu
+überlegen was ein Ziel sein könnte. Eine Geschichte war das ein Affe wenn er in eine Kokosnuß greift erst die Hand lsoalssen muss
+um sie wieder aus der Kokosnuß ziehen zu können.
 
 
-Im Film Rapa Nui hatte der Häuptling der auf der Eisscholle seine möglicherweise letzte Fahrt begonnen hat wer wird wissen
-ob sein Stab auf den ersich stützte ein Lesezeichen ein Sextant oder ein Wetterruder gewesen sein soll. Vielleicht auch ein
-Fastenstab.
+Apropos Theater "heutzutage gibt es das nicht wir haben todes sterne ah pfh".
+"Konnte ich dem französischen Volk sagen ja ich habe ein Ciel - Himmel na klar die schreiben in Ihre Wörterbücher auch das der Tod
+von oben kommt - also die Mehrzahl von etwas. Mehrzahl - Regen - Mehrzahl. Na servas bum drisch wie Aufregend wann ist es den soweit
+die Prozession mit den gratis Brötchen. HÖHÖ DA HÄTTE ICH EIN wÖRTCHEN MITZUREDEN SCHLÜRF ECT".
 
 
-Ich muss nicht wissen wenn ich einen Baustein zu anderen dazustelle warum das so gewesen ist. Erinnerungen haben auch etwas mit der Stärke
-des Eindrucks zu tun lbs oder kbs oder kilos oder celsien oder Fahrenheiten oder burst or crushes oder burns oder elektronen valenzen.
-Oder nicht? Sprich move ist nicht gleich add. HE ICH BRAUCH EINE BANANE SONST KANN ICH MICH AN MEINEN WEG NICHT ERINNERN.
+Reiche Menschen haben keine Zeit. Deswegen ist die Antwort zum Thema programmieren lernen google hat die Antwort und die nicht erwähnte
+Variante ein Bilderbuch hat ein Bild zum Beispiel von einem Löwen und die restlichen Wörter wie Ziege Eule und soweiter kann man sich
+im Tiergarten ansehen. So gehts auch irgendwie.
 
 
-![cmd and bash have to be learned bitmap](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/e6c48a79-51d9-4d95-ac85-1b379b1a4711)
+![freddyquinn](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/9391ff47-4b71-458b-a67c-2ec101bc6143)
 
 
-Hallo, die Eigenschaft ist anderen zuhören zu lernen wen sie was sagen können. Um das zu lernen habe ich für meine Theaterwissenschaft
-das Wort PappkameradInen entwickelt sozusagen die üblichen Papenheimer. Zum Beispiel eie Person sieht etwas auf einem Bildschirm
-und Atestiert sich "das will ich auch, wie geht das" und der oder die Papenheimer zeigen mit dem Zeigefinger auf den Bildschirm mit
-dem Satz "wie geht das", dann werde auch ich nicht anfangen alle Prerequisiten aufzuzählen wie der geeignetste Weg währe.
+![bashpapa](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/68634116-b2a2-4903-b895-fafa1ac019fe)
 
-Meine Frage währe "Was siehst du"?
 
+stacktemplateword - ist mein repository name am desktop nicht am server dort ist er gutenberggnu.
+die infomation ist zwar sensitive aber notwendieg aus meiner sicht für mich von mir preisgegeben den ORDNER UND PFAD
+MÜSSEN MIT BEFEHELEN ANGESTEURET GELERNT WERDEN
+UND DAS HAT NICHTS MIT LOGISCHEM EINS BIS ZEHN ZU TUN
+
+
+EHER MIT VOM BIS HE HALLO ICH HAB NOCH EIN ZOOMBIE SPIEL GEFUNDEN. ZOOL.
 [Progressive Hydration](https://www.patterns.dev/posts/progressive-hydration)
 
 [Starting a Visual Basic Windows Forms Application](https://www.youtube.com/watch?v=EnrOntmxKiM)
