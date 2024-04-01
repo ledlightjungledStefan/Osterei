@@ -29,6 +29,12 @@ ICH HABE AUCH WINDSCHUTZSCHEIBEN UND KEINE HELME
 
 NICE TO MEET YOU MY NAME IS FRAUD HOAX - that's a fake -
 
+![grafik](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/6d8513a4-a360-4272-be4a-d846ddcd6abe)
+
+
+progressive responsive webdesigne does not matter refresh as you collect food crystals immpressions and so on
+
+
 [Progressive Hydration](https://www.patterns.dev/posts/progressive-hydration)
 
 [Starting a Visual Basic Windows Forms Application](https://www.youtube.com/watch?v=EnrOntmxKiM)
