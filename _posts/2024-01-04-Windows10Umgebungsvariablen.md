@@ -3,37 +3,32 @@ layout: default
 author: štefan
 excerpt_separator: <!--more-->
 ---
-![bitmap conclusions](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/f9e75bf6-f13f-4a3f-a3eb-396f728d47c9)
-
-![git immersion development screenshot](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/987e3884-eff3-43d5-a2b4-961dbe90c3ca)
-
-![screenshot .git folder is missing](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/d79d2ce4-3416-40a1-985e-168aa7655a09)
-
-![git bash screenshot](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/43e35ec0-3067-4cab-8d8f-7c2d2c53465a)
+![bash path screenshot](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/9f4ed097-bac6-4d81-8b1e-37f12a400a6d)
 
 
-![file versus folder content](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/0359c540-8eba-4a3c-b2fe-e47932c0fea2)
-
-Und was ist das? Kann eine Kobra ohne Brillenschlange eine Zeile verarbeiten oder muss die Brillenschlange mit der Kobra sein?
-Ja gut und die Antwort? Menschlicher Logik zufolge würde eine Tarnung erst auf Level zwei giftig werden. Oder es hat andere Ursache.
-
-SIE MÜSSEN NÄHER RAN AN DAS THEMA
-WELCHES THEMA
-DER SENSORSCHATTEN IHRES FAHRZEUGES IST AUF DER EINGABEAUFFORDERUNGSZEILE MEINS GARMINS
-WIE BITTE DER PROZESS IST SCHON ZU ENDE UND ICH KANN MEIN FAHRZEUG NOCH IMMER BEWEGEN
-JA WENN SIE AUF EINEM BAUM EINE DATEI VERSCHOBEN HABEN KANN ES SEIN DAS DER INHALT DER TEXTDATEI NOCH IMMER NICHT AKTUELL IST
-OHNE BILDSCHIRM WÄHRE MIR DAS GAR NICHT AUFGEFALLEN
-ICH HABE AUCH WINDSCHUTZSCHEIBEN UND KEINE HELME
-
-![textfile screenshot bitmap copy](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/240c82f2-3f7c-4acf-8a81-12af88f67c66)
-
-NICE TO MEET YOU MY NAME IS FRAUD HOAX - that's a fake -
-
-![grafik](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/6d8513a4-a360-4272-be4a-d846ddcd6abe)
+PREVIEW der Befehl ls währe mit Windows dir und nachdem noch immer die Speicherstellen nicht verstanden werden können
+ist die Bildung eines Lesezeichens im Vergleich zum persönlichen Umfeld etwas das wichtig ist aber ncht in gesprochene Worte gefasst werden kann.
 
 
-progressive responsive webdesigne does not matter refresh as you collect food crystals immpressions and so on
+Im Film Rapa Nui hatte der Häuptling der auf der Eisscholle seine möglicherweise letzte Fahrt begonnen hat wer wird wissen
+ob sein Stab auf den ersich stützte ein Lesezeichen ein Sextant oder ein Wetterruder gewesen sein soll. Vielleicht auch ein
+Fastenstab.
 
+
+Ich muss nicht wissen wenn ich einen Baustein zu anderen dazustelle warum das so gewesen ist. Erinnerungen haben auch etwas mit der Stärke
+des Eindrucks zu tun lbs oder kbs oder kilos oder celsien oder Fahrenheiten oder burst or crushes oder burns oder elektronen valenzen.
+Oder nicht? Sprich move ist nicht gleich add. HE ICH BRAUCH EINE BANANE SONST KANN ICH MICH AN MEINEN WEG NICHT ERINNERN.
+
+
+![cmd and bash have to be learned bitmap](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/e6c48a79-51d9-4d95-ac85-1b379b1a4711)
+
+
+Hallo, die Eigenschaft ist anderen zuhören zu lernen wen sie was sagen können. Um das zu lernen habe ich für meine Theaterwissenschaft
+das Wort PappkameradInen entwickelt sozusagen die üblichen Papenheimer. Zum Beispiel eie Person sieht etwas auf einem Bildschirm
+und Atestiert sich "das will ich auch, wie geht das" und der oder die Papenheimer zeigen mit dem Zeigefinger auf den Bildschirm mit
+dem Satz "wie geht das", dann werde auch ich nicht anfangen alle Prerequisiten aufzuzählen wie der geeignetste Weg währe.
+
+Meine Frage währe "Was siehst du"?
 
 [Progressive Hydration](https://www.patterns.dev/posts/progressive-hydration)
 
