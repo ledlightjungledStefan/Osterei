@@ -3,12 +3,22 @@ layout: default
 author: štefan
 excerpt_separator: <!--more-->
 ---
-![windows batch file file content output](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/0731592d-dcd8-4198-9acc-5f3f7ffde90c)
-![windows command line distraction](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/d76ade3c-879e-4d94-ab89-479a37b34e57)
-![paint needs git immersion](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/76ede7b5-d776-4796-b40c-8790ce20f82d)
+![file versus folder content](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/0359c540-8eba-4a3c-b2fe-e47932c0fea2)
 
+Und was ist das? Kann eine Kobra ohne Brillenschlange eine Zeile verarbeiten oder muss die Brillenschlange mit der Kobra sein?
+Ja gut und die Antwort? Menschlicher Logik zufolge würde eine Tarnung erst auf Level zwei giftig werden. Oder es hat andere Ursache.
 
+SIE MÜSSEN NÄHER RAN AN DAS THEMA
+WELCHES THEMA
+DER SENSORSCHATTEN IHRES FAHRZEUGES IST AUF DER EINGABEAUFFORDERUNGSZEILE MEINS GARMINS
+WIE BITTE DER PROZESS IST SCHON ZU ENDE UND ICH KANN MEIN FAHRZEUG NOCH IMMER BEWEGEN
+JA WENN SIE AUF EINEM BAUM EINE DATEI VERSCHOBEN HABEN KANN ES SEIN DAS DER INHALT DER TEXTDATEI NOCH IMMER NICHT AKTUELL IST
+OHNE BILDSCHIRM WÄHRE MIR DAS GAR NICHT AUFGEFALLEN
+ICH HABE AUCH WINDSCHUTZSCHEIBEN UND KEINE HELME
 
+![textfile screenshot bitmap copy](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/240c82f2-3f7c-4acf-8a81-12af88f67c66)
+
+NICE TO MEET YOU MY NAME IS FRAUD HOAX - that's a fake -
 
 [Progressive Hydration](https://www.patterns.dev/posts/progressive-hydration)
 
