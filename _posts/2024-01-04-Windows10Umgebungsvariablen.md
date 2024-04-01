@@ -3,6 +3,15 @@ layout: default
 author: štefan
 excerpt_separator: <!--more-->
 ---
+![bitmap conclusions](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/f9e75bf6-f13f-4a3f-a3eb-396f728d47c9)
+
+![git immersion development screenshot](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/987e3884-eff3-43d5-a2b4-961dbe90c3ca)
+
+![screenshot .git folder is missing](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/d79d2ce4-3416-40a1-985e-168aa7655a09)
+
+![git bash screenshot](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/43e35ec0-3067-4cab-8d8f-7c2d2c53465a)
+
+
 ![file versus folder content](https://github.com/ledlightjungledStefan/Osterei/assets/75255909/0359c540-8eba-4a3c-b2fe-e47932c0fea2)
 
 Und was ist das? Kann eine Kobra ohne Brillenschlange eine Zeile verarbeiten oder muss die Brillenschlange mit der Kobra sein?
