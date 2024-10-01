@@ -1,3 +1,0 @@
-gnu,doe
-common,value
-lock,sides
