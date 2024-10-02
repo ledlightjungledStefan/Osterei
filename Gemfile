@@ -16,6 +16,7 @@ gem "minima", "~> 2.5"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-paginate-v2"
+  gem "jekyll-timeago", "~> 0.13.1"
   gem "jekyll-feed", "~> 0.12"
 end
 
