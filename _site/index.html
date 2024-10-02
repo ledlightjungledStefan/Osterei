@@ -1,0 +1,81 @@
+<!-- ---
+layout: default
+title: {{ site.name }}
+--- -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/Osterei/assets/Laub.css">
+  <link rel="stylesheet" href="/Osterei/assets/css/irgendwelche Bilder.css">
+  <link rel="stylesheet" href="/Osterei/assets/css/Dermatologisch.css">
+  <title>Document</title>
+</head>
+
+<body>
+  <div class='cover'>&nbsp</div>
+  <input type="file" id="fileInput">
+  <button id="readBtn">Read</button>
+  <svg viewBox="0 0 240 40" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      text {
+        font: italic 12px serif;
+      }
+
+      tspan {
+        font: bold 10px sans-serif;
+        fill: red;
+      }
+    </style>
+
+    <text x="10" y="30" class="small">
+      You are
+      <tspan>not</tspan>
+      a banana! and until recalibration - there was no other choice: last train home in C -
+    </text>
+  </svg>
+  <main class="grid-wrap">
+
+    <div class="grid">
+      <span>One column default
+        <div class='container'>
+          <p id='resultOne'></p>
+          <p id='resultTwo'></p>
+          <p id='resultThree'></p>
+          <p id='resultFour'></p>
+          <p id='resultFive'></p>
+        </div>
+      </span>
+    </div>
+
+    <div class="grid">
+      <span>
+        <div class="mainBox">
+          <div class="smallBox">
+          </div>
+        </div>
+      </span>
+      <span>Half column 2</span>
+    </div>
+
+    <div class="grid">
+      <!-- <span>3-col 1</span>
+                  <span>3-col 2</span>
+                  <span>3-col 3</span> -->
+    </div>
+
+    <div class="grid">
+      <span>4-col 1</span>
+      <span>4-col 2</span>
+      <span>4-col 3</span>
+      <span>4-col 4</span>
+    </div>
+
+  </main>
+</body>
+<script src="/Osterei/assets/js/Hausboot.js"></script>
+
+</html>
