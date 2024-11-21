@@ -1,28 +1,22 @@
 <!DOCTYPE html>
-<html lang="{{ site.locale }}">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-      <link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/normalize.css">
-        <link rel="stylesheet" href="{{ site.baseurl }} /Osterei/assets/css/cayman.css">
-          <link href="{{ site.baseurl }} /Osterei/_includes/FingerPaint-Regular.ttf?family=Open+Sans:400,700" rel='stylesheet' type='text/css'>
-  <style>
-  @media (min-width: 1000px) { 
-                        body { font-family: 'Finger Paint', Fallback, sans-serif; }
-  }  
-	</style>    
-  </head>
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+
+{%- include head.html -%}
+
 <body>
-  <section class="main-content">
-  {% include navigation.html %}
-  </section>
-{% include page-header.html %}
-  {% for post in site.posts %}
-   <h2><a>{{ post.title }}</a></h2>
-          {{ post.excerpt }}
-  {% endfor %}
-  {{ content }}
-  {% include page-footer.html %}
+
+  {%- include header.html -%}
+
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+
+  {%- include footer.html -%}
+
 </body>
+
+
+
 </html>

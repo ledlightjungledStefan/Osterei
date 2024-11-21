@@ -3,6 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-pagination: 
-  enabled: true
+title: Table test
 ---
+{% assign row = site.data.authors[0] %}
+{% for pair in row %}
+  {{ pair | inspect }}
+{% endfor %}
